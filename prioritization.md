@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Prioritization
-nav_order: 7
+nav_order: 2
 description: "Prioritized single-cell proteomics for high-throughput and multiplexed single-cell proteomics by mass-spectrometry using pSCoPE"
 permalink: prioritization
+parent: Methods
+
 ---
 
 # Prioritized single-cell proteomics

@@ -5,6 +5,7 @@ nav_order: 4
 permalink: mass-spec/optimizing_single-cell-proteomics
 description: "Optimizing mass-spectrometry analysis of single cells by SCoPE2 and other methods using isobaric carriers"
 has_children: true
+nav_exclude: true
 ---
 {% include social-media-links.html %}
 
