@@ -17,9 +17,9 @@ Methods & Data
 ### Quantifying proteins in single cells with mass spectrometry
 
 
-* [Perspectives]({{site.baseurl}}#perspectives){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-* [Reviews]({{site.baseurl}}#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-* [Highlights]({{site.baseurl}}#highlights){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Perspectives]({{site.baseurl}}#perspectives){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Reviews]({{site.baseurl}}#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Highlights]({{site.baseurl}}#highlights){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
 ------------
@@ -29,7 +29,7 @@ Biological functions arise from protein dynamics, modifications and interactions
 
 ------------
 
-![]({{site.baseurl}}/assets/images/SCOPE2-ac.png){: width="100%" .center-image}
+![[]({{site.baseurl}}/assets/images/Single-cell-biology.png){: width="50%" .center-image}](https://www.mcponline.org/article/S1535-9476(21)00151-1/fulltext)
 
 ------------
 ## Perspectives
