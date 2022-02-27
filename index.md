@@ -24,7 +24,7 @@ Methods & Data
 
 ------------
 
-Each cell performs its biological functions by changing the abundance, localization, modifications and interactions of its proteins. Analyzing these processes requires quantifying proteins at single-cell resolution, which is the focus on this web portal. Its pages include both [single-cell proteomics methods](methods) and [data](data) from single mammalian cells, both primary cells and cell lines.  
+Each cell performs its biological functions by changing the abundance, localization, modifications and interactions of its proteins. Analyzing these processes requires quantifying proteins in single cells, which is the focus of this web portal. Its pages include both [single-cell proteomics methods](methods) and [data](data) from single mammalian cells, both primary cells and cell lines.  
 
 
 ------------
