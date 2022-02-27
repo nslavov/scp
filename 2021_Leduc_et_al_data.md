@@ -9,7 +9,7 @@ parent: Data
 {% include social-media-links.html %}
 
 
-## Article: Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v1)
+## Article: [Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v1)
 <!-- **Peer reviewed article:** -->
 
 ### Single-cell proteomics method: [SCoPE2](https://scp.slavovlab.net/SCoPE2)
