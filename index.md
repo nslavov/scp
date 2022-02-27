@@ -24,7 +24,7 @@ Methods & Data
 
 ------------
 
-Biological processes involve changes in protein abundance, modifications and interactions. These pages are devoted to the analysis of proteins at single-cell resolution. They include both single-cell proteomics [methods](methods) and [data](data) for single mammalian cells, both primary cells and cell lines.  
+Biological processes involve changes in protein abundance, modifications and interactions. These pages are devoted to the analysis of proteins at single-cell resolution. They include both [single-cell proteomics methods](methods) and [data](data) from single mammalian cells, both primary cells and cell lines.  
 
 
 ------------
