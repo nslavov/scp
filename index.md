@@ -31,7 +31,15 @@ Each cell performs its biological functions by changing the abundance, localizat
 
 [![Single-cell-biology]({{site.baseurl}}/assets/images/Single-cell-biology.png){: width="50%" .center-image}](https://doi.org/10.1016/j.mcpro.2021.100179)
 
+&nbsp;
+
+[Metods](methods){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Data](data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Sample prep](sample-preparation){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ------------
+
+
 ## Perspectives
 * [Learning from natural variation across the proteomes of single cells](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001512), *PLOS Biology*
 * [Driving Single Cell Proteomics Forward with Innovation](https://pubmed.ncbi.nlm.nih.gov/34597050/), *Journal of Proteome Research*
