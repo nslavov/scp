@@ -4,7 +4,7 @@ title: Huffman et al, 2022
 nav_order: 3
 permalink: Huffman_et_al_2022
 description: "Single-cell proteomics by data from multiplexed DIA, plexDIA | Slavov Laboratory"
-parent: Methods
+parent: Data
 ---
 {% include social-media-links.html %}
 
