@@ -14,7 +14,7 @@ parent: Data
 
 
 ### Single-cell proteomics method: [plexDIA](https://scp.slavovlab.net/plexDIA)
-**Sample preparation method:**  [nPOP](https://scp.slavovlab.net/nPOP)
+**Sample preparation method:  [nPOP](https://scp.slavovlab.net/nPOP)**
 
 
 
