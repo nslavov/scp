@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Specht et al, 2019, 2021
+title: Specht et al, 2019
 nav_order: 1
 permalink: Specht_et_al_2019
 description: "download single-cell proteomics data from SCoPE2, a second generation SCoPE-MS"
@@ -8,7 +8,9 @@ parent: Data
 ---
 {% include social-media-links.html %}
 
-# Download single-cell protein and RNA data from [Specht et al, 2019](hhttps://www.biorxiv.org/content/10.1101/665307v2)
+# SCoPE2
+
+## Single-cell protein and RNA data from [Specht et al, 2019](hhttps://www.biorxiv.org/content/10.1101/665307v2)
 **Peer reviewed article:** Specht, H., Emmott, E., Petelski, A.A. et al. Single-cell proteomic and transcriptomic analysis of macrophage heterogeneity using SCoPE2. Genome Biol 22, 50 (2021). [10.1186/s13059-021-02267-5](https://doi.org/10.1186/s13059-021-02267-5)
 
 &nbsp;
