@@ -2,7 +2,7 @@
 layout: default
 title: Petelski et al, 2021
 nav_order: 3
-permalink: Petelski_et_al_2022
+permalink: Petelski_et_al_2021
 description: "Single-cell proteomics by data from the SCoPE2 protocol | Slavov Laboratory"
 parent: Data
 ---
@@ -12,11 +12,10 @@ parent: Data
 **Peer reviewed article:** Petelski, A.A., Emmott, E., Leduc, A. et al. Multiplexed single-cell proteomics using SCoPE2. Nat Protoc 16, 5398–5425 (2021). [10.1038/s41596-021-00616-z
 ](https://doi.org/10.1038/s41596-021-00616-z), [Protocol Website](https://scope2.slavovlab.net/mass-spec/protocol)
 
-## Single-cell proteomics method: [SCoPE2](https://scp.slavovlab.net/SCoPE2)
+### Single-cell proteomics method: [SCoPE2](https://scp.slavovlab.net/SCoPE2)
 **Sample preparation method:**  [mPOP](https://scp.slavovlab.net/mPOP)
 
-## Model systems
-Cell lines of monocytes (U937 cells) and Hela cells.
+### Model systems: Cell lines of monocytes (U937 cells) and Hela cells.
 
 
 &nbsp;

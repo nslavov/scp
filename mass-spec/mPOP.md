@@ -2,7 +2,7 @@
 layout: default
 title: mPOP
 nav_order: 1
-permalink: mass-spec/mPOP
+permalink: mPOP
 description: "Minimal ProteOmic sample Preparation (mPOP)"
 parent: Sample preparation
 
