@@ -13,6 +13,8 @@ parent: Methods
 ## Single-cell proteomics method by [Specht et al, 2019](hhttps://www.biorxiv.org/content/10.1101/665307v2)
 **Peer reviewed article:** Specht, H., Emmott, E., Petelski, A.A. et al. Single-cell proteomic and transcriptomic analysis of macrophage heterogeneity using SCoPE2. Genome Biol 22, 50 (2021). [10.1186/s13059-021-02267-5](https://doi.org/10.1186/s13059-021-02267-5)
 
+## [Data Website](https://scp.slavovlab.net/Specht_et_al_2019)
+
 &nbsp;
 SCoPE2 is a second generation method improving upon [SCoPE-MS](https://scp.slavovlab.net/SCoPE-MS) and has a dedicated website at: [scope2.slavovlab.net](https://scope2.slavovlab.net/).
 &nbsp;

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCoPE-MS, 2017
+title: 2017: SCoPE-MS
 nav_order: 1
 permalink: SCoPE-MS
 description: "Single-cell proteomics by mass-spectrometry, SCoPE-MS | Slavov Laboratory"
@@ -11,7 +11,9 @@ parent: Methods
 # SCoPE-MS
 
 ## Single-cell proteomics method by [Budnik et al., 2017](https://www.biorxiv.org/content/10.1101/102681v1)
-**Peer reviewed article:** Budnik, B., Levy, E., Harmange, G., and Slavov N. SCoPE-MS: mass spectrometry of single mammalian cells quantifies proteome heterogeneity during cell differentiation. Genome Biol 19, 161 (2018). [https://doi.org/]10.1186/s13059-018-1547-5](https://doi.org/10.1186/s13059-018-1547-5)
+**Peer reviewed article:** Budnik, B., Levy, E., Harmange, G., and Slavov N. SCoPE-MS: mass spectrometry of single mammalian cells quantifies proteome heterogeneity during cell differentiation. Genome Biol 19, 161 (2018). [10.1186/s13059-018-1547-5](https://doi.org/10.1186/s13059-018-1547-5)
+
+## [Data Website](https://scp.slavovlab.net/Budnik_et_al_2017)
 
 &nbsp;
 
