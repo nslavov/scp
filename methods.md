@@ -2,7 +2,7 @@
 layout: default
 title: Methods
 nav_order: 2
-permalink: mass-spec/sample-preparation
+permalink: methods
 description: "Methods for single-cell proteomics by mass-spectrometry"
 has_children: true
 ---

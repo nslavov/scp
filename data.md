@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Sample preparation
-nav_order: 4
-permalink: sample-preparation
-description: "Sample preparation methods for single-cell proteomics by mass-spectrometry. Automated and massively parallel sample preparation."
+title: Data
+nav_order: 2
+permalink: data
+description: "Data for single-cell proteomics by mass-spectrometry"
 has_children: true
 ---
 {% include social-media-links.html %}
 
-# Sample preparation for single-cell proteomics
+# Data from single-cell proteomics
 
 &nbsp;
 
