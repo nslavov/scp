@@ -27,7 +27,7 @@ Methods & Data
 Each cell performs its biological functions by changing the abundance, localization, modifications and interactions of its proteins. Analyzing these processes requires quantifying proteins in single cells, which is the focus of this web portal. Its pages include both [single-cell proteomics methods](methods) and [data](data) from single mammalian cells, both primary cells and cell lines.  
 
 
-------------
+
 
 [![Single-cell-biology]({{site.baseurl}}/assets/images/Single-cell-biology.png){: width="50%" .center-image}](https://doi.org/10.1016/j.mcpro.2021.100179)
 
