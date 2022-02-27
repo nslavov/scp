@@ -35,12 +35,12 @@ parent: Data
 
 &nbsp;
 
-* [Peptides x Samples](Protocol_data/ProteinsXSamples_BulkANDSSC.txt)
+* [Peptides x Samples](https://scope2.slavovlab.net/Protocol_data/ProteinsXSamples_BulkANDSSC.txt)
    - `Proteins` **x** `single cells` at 1% FDR, imputed and batch corrected.
 
 &nbsp;
 
-* [Cells.txt](Protocol_data/SingleCell_ids.txt)
+* [Cells.txt](https://scope2.slavovlab.net/Protocol_data/SingleCell_ids.txt)
    - `Annotation` **x**  `single cells`. Each column corresponds to a single cell and the rows include relevant metadata, such as, cell type if known, measurements from the isolation of the cell, and derivative quantities, i.e., rRI, CVs, reliability.
 
 

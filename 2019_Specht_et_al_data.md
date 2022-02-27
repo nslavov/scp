@@ -8,10 +8,20 @@ parent: Data
 ---
 {% include social-media-links.html %}
 
-&nbsp; 
+&nbsp;
 
-## Single-cell protein ([SCoPE2](https://scp.slavovlab.net/SCoPE2)) and RNA data from [Specht et al, 2019](hhttps://www.biorxiv.org/content/10.1101/665307v2)
-**Peer reviewed article:** Specht, H., Emmott, E., Petelski, A.A. et al. Single-cell proteomic and transcriptomic analysis of macrophage heterogeneity using SCoPE2. Genome Biol 22, 50 (2021). [10.1186/s13059-021-02267-5](https://doi.org/10.1186/s13059-021-02267-5)
+## Single-cell protein ([SCoPE2](https://scp.slavovlab.net/SCoPE2)) and RNA data from
+**Peer reviewed article:**
+
+
+## Article: [Specht et al, 2019](hhttps://www.biorxiv.org/content/10.1101/665307v2)
+**Peer reviewed article:** Specht, H., Emmott, E., Petelski, A.A. et al. Single-cell proteomic and transcriptomic analysis of macrophage heterogeneity using SCoPE2. Genome Biol 22, 50 (2021). [10.1186/s13059-021-02267-5](https://doi.org/10.1186/s13059-021-02267-5), [Website](https://scope2.slavovlab.net)
+
+### Single-cell proteomics method: [SCoPE2](https://scp.slavovlab.net/SCoPE2)
+**Sample preparation method:**  [mPOP](https://scp.slavovlab.net/mPOP)
+
+### Model systems:  Monocytic cell line (U937) differentiating into macrophage-like cells
+
 
 &nbsp;
 

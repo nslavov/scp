@@ -8,15 +8,20 @@ parent: Data
 ---
 {% include social-media-links.html %}
 
-# plexDIA:
 
-## Single-cell protein data from [Derks et al, 2022](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v1)
+## Article: [Derks et al, 2022](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v1)
+<!--- **Peer reviewed article:**  -->
+
+
+### Single-cell proteomics method: [plexDIA](https://scp.slavovlab.net/plexDIA)
+**Sample preparation method:**  [nPOP](https://scp.slavovlab.net/nPOP)
+
 
 
 
 &nbsp;
 
-plexDIA is a multiplexed data independent acquisition methods and has a dedicated website at: [plexDIA.slavovlab.net](https://plexDIA.slavovlab.net/).
+
 
 &nbsp;
 
