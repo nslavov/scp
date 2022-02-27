@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Specht et al, 2019
+title: Specht et al, 2019, 2021
 nav_order: 1
 permalink: Specht_et_al_2019
 description: "download single-cell proteomics data from SCoPE2, a second generation SCoPE-MS"
