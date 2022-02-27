@@ -14,9 +14,13 @@ parent: Data
 **Peer reviewed article:** Petelski, A.A., Emmott, E., Leduc, A. et al. Multiplexed single-cell proteomics using SCoPE2. Nat Protoc 16, 5398–5425 (2021). [10.1038/s41596-021-00616-z
 ](https://doi.org/10.1038/s41596-021-00616-z), [Protocol Website](https://scope2.slavovlab.net/mass-spec/protocol)
 
+&nbsp;
 
-[Protocol data]({{site.baseurl}}#data){: .btn .fs-3 .mr-2}
-[Recorded workshops]({{site.baseurl}}#workshops){: .btn .fs-3 .mr-2}
+&nbsp;
+
+
+[Protocol data]({{site.baseurl}}#data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Recorded workshops]({{site.baseurl}}#workshops){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 &nbsp;
 

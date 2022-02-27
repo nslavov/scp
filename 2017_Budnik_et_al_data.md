@@ -11,7 +11,11 @@ parent: Data
 # SCoPE-MS
 
 ## Single-cell protein data from [Budnik et al, 2017](https://www.biorxiv.org/content/10.1101/102681v1)
-**Peer reviewed article:** Budnik, B., Levy, E., Harmange, G., and Slavov N. SCoPE-MS: mass spectrometry of single mammalian cells quantifies proteome heterogeneity during cell differentiation. Genome Biol 19, 161 (2018). [https://doi.org/]10.1186/s13059-018-1547-5](https://doi.org/10.1186/s13059-018-1547-5)
+**Peer reviewed article:** Budnik, B., Levy, E., Harmange, G., and Slavov N. SCoPE-MS: mass spectrometry of single mammalian cells quantifies proteome heterogeneity during cell differentiation. Genome Biol 19, 161 (2018). [10.1186/s13059-018-1547-5](https://doi.org/10.1186/s13059-018-1547-5)
+
+
+&nbsp;
+
 &nbsp;
 
 

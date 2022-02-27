@@ -12,10 +12,12 @@ parent: Data
 
 ## Single-cell protein ([SCoPE2](https://scp.slavovlab.net/SCoPE2)) data from [Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v1)
 
+&nbsp;
 
-[RAW Data](#raw_data){: .btn .fs-3 .mr-2}
-[Processed Data](#proc_data){: .btn .fs-3 .mr-2}
-[Video presentations](#talks){: .btn .fs-3 .mr-2}
+
+[RAW Data](#raw_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Processed Data](#proc_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Videos](#talks){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 
