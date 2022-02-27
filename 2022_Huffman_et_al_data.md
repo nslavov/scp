@@ -12,8 +12,8 @@ parent: Data
 ## Article: [Huffman et al, 2022](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v1)
 <!-- **Peer reviewed article:** -->
 
-### Single-cell proteomics method: [pSCoPE](https://scp.slavovlab.net/sSCoPE)
-**Sample preparation method: [nPOP](https://scp.slavovlab.net/nPOP)**
+### Single-cell proteomics method: [pSCoPE](pSCoPE)
+**Sample preparation method: [nPOP](nPOP)**
 
 ### Model systems:  Primary murine bone marrow derived macrophages and a pancreatic ductal adenocarcinoma (PDAC) cell line.
 
