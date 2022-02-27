@@ -24,7 +24,7 @@ Methods & Data
 
 ------------
 
-Biological processes involve changes in protein abundance, modifications and interactions. These pages are devoted to the analysis of proteins at single-cell resolution. They include both [single-cell proteomics methods](methods) and [data](data) from single mammalian cells, both primary cells and cell lines.  
+Each cell performs its biological functions by changing the abundance, localization, modifications and interactions of its proteins. Analyzing these processes requires quantifying proteins at single-cell resolution, which is the focus on this web portal. It includes pages devoted both to [single-cell proteomics methods](methods) and to [data](data) from single mammalian cells, both primary cells and cell lines.  
 
 
 ------------
@@ -35,7 +35,7 @@ Biological processes involve changes in protein abundance, modifications and int
 ## Perspectives
 * [Learning from natural variation across the proteomes of single cells](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001512), *PLOS Biology*
 * [Driving Single Cell Proteomics Forward with Innovation](https://pubmed.ncbi.nlm.nih.gov/34597050/), *Journal of Proteome Research*
-* [Unpicking the proteome in single cells](https://science.sciencemag.org/content/367/6477/512), *Science*
+* [Unpicking the proteome in single cells](https://www.science.org/doi/10.1126/science.aaz6695), *Science*
 * [Transformative Opportunities for Single-Cell Proteomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089608/), *Journal of Proteome Research*
 
 
@@ -47,7 +47,8 @@ Biological processes involve changes in protein abundance, modifications and int
 
 ## Highlights
 * [Highlight by C&EN](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40)
-* [Highlight by Nature Methods](https://www.nature.com/articles/s41592-021-01243-y)
+* [Highlight by *Nature*](https://www.nature.com/articles/d41586-021-02530-6)
+* [Highlight by *Nature Methods*](https://www.nature.com/articles/s41592-021-01243-y)
 * [Technology feature at Nature Methods](https://www.nature.com/articles/s41592-019-0540-6)
 * [Single-cell proteomics for the Human Cell Atlas](https://news.northeastern.edu/2019/07/08/northeastern-university-proteomics-researcher-receives-grant-from-chan-zuckerberg-initiative-to-help-map-all-cells-in-the-human-body-to-better-understand-cancer-diabetes-and-other-diseases/)
 * [News in Proteomics Research](http://proteomicsnews.blogspot.com/2019/12/over-1000-single-cell-proteomes-2700.html)
