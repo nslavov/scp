@@ -15,7 +15,8 @@ parent: Methods
 
 ## Data Websites
 * [Specht et al., 2019](https://scp.slavovlab.net/Specht_et_al_2019)
-* [Petelski et al., 2019](https://scp.slavovlab.net/Petelski_et_al_2021)
+* [Petelski et al., 2021](https://scp.slavovlab.net/Petelski_et_al_2021)
+* [Leduc et al., 2021](https://scp.slavovlab.net/Leduc_et_al_2021)
 
 &nbsp;
 

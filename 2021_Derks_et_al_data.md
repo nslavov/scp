@@ -12,7 +12,7 @@ parent: Data
 
 ## Single-cell protein data from [Derks et al, 2022](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v1)
 
-## [Data Website](https://scp.slavovlab.net/Derks_et_al_2021)
+
 
 &nbsp;
 
