@@ -8,13 +8,16 @@ parent: Data
 ---
 {% include social-media-links.html %}
 
-# SCoPE2 Protocol:
-
-## Single-cell protein ([SCoPE2](https://scp.slavovlab.net/SCoPE2)) data from [Petelski et al, 2021](https://www.biorxiv.org/content/10.1101/2021.03.12.435034v2)
+## Article: [Petelski et al, 2021](https://www.biorxiv.org/content/10.1101/2021.03.12.435034v2)
 **Peer reviewed article:** Petelski, A.A., Emmott, E., Leduc, A. et al. Multiplexed single-cell proteomics using SCoPE2. Nat Protoc 16, 5398–5425 (2021). [10.1038/s41596-021-00616-z
 ](https://doi.org/10.1038/s41596-021-00616-z), [Protocol Website](https://scope2.slavovlab.net/mass-spec/protocol)
 
-&nbsp;
+## Single-cell proteomics method: [SCoPE2](https://scp.slavovlab.net/SCoPE2)
+**Sample preparation method:**  [mPOP](https://scp.slavovlab.net/mPOP)
+
+## Model systems
+Cell lines of monocytes (U937 cells) and Hela cells.
+
 
 &nbsp;
 

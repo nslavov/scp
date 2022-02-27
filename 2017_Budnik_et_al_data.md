@@ -16,8 +16,6 @@ parent: Data
 
 &nbsp;
 
-&nbsp;
-
 
 [RAW and Processed SCoPE-MS Data]({{site.baseurl}}#RAW-single-cell-protein-data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
