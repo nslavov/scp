@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2017: SCoPE-MS
+title: 2017, SCoPE-MS
 nav_order: 1
 permalink: SCoPE-MS
 description: "Single-cell proteomics by mass-spectrometry, SCoPE-MS | Slavov Laboratory"
