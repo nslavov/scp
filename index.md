@@ -46,13 +46,12 @@ Each cell performs its biological functions by changing the abundance, localizat
 
 
 ## Highlights
-* [Highlight by C&EN](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40)
+* [Highlight by *C&EN*](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40)
 * [Highlight by *Nature*](https://www.nature.com/articles/d41586-021-02530-6)
 * [Highlight by *Nature Methods*](https://www.nature.com/articles/s41592-021-01243-y)
-* [Technology feature at Nature Methods](https://www.nature.com/articles/s41592-019-0540-6)
+* [Technology feature at *Nature Methods*](https://www.nature.com/articles/s41592-019-0540-6)
 * [Single-cell proteomics for the Human Cell Atlas](https://news.northeastern.edu/2019/07/08/northeastern-university-proteomics-researcher-receives-grant-from-chan-zuckerberg-initiative-to-help-map-all-cells-in-the-human-body-to-better-understand-cancer-diabetes-and-other-diseases/)
-* [News in Proteomics Research](http://proteomicsnews.blogspot.com/2019/12/over-1000-single-cell-proteomes-2700.html)
-* [The single cell proteomics revolution](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/)
+
 
 
 
