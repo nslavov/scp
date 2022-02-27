@@ -13,7 +13,7 @@ parent: Data
 ](https://doi.org/10.1038/s41596-021-00616-z), [Protocol Website](https://scope2.slavovlab.net/mass-spec/protocol)
 
 ### Single-cell proteomics method: [SCoPE2](https://scp.slavovlab.net/SCoPE2)
-**Sample preparation method:**  [mPOP](https://scp.slavovlab.net/mPOP)
+**Sample preparation method:  [mPOP](https://scp.slavovlab.net/mPOP)**
 
 ### Model systems: Cell lines of monocytes (U937 cells) and Hela cells.
 

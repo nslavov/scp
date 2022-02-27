@@ -8,9 +8,15 @@ parent: Data
 ---
 {% include social-media-links.html %}
 
-# Hela and U937 cells
 
-## Single-cell protein ([SCoPE2](https://scp.slavovlab.net/SCoPE2)) data from [Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v1)
+## Article: Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v1)
+<!-- **Peer reviewed article:** -->
+
+### Single-cell proteomics method: [SCoPE2](https://scp.slavovlab.net/SCoPE2)
+**Sample preparation method: [nPOP](https://scp.slavovlab.net/nPOP)**
+
+### Model systems:  Cell lines of monocytes (U937 cells) and Hela cells.
+
 
 &nbsp;
 

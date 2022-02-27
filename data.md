@@ -12,6 +12,6 @@ has_children: true
 
 &nbsp;
 
-This section organizes data repositories for projects from the [Slavov Laboratory](https://slavovlab.net). The projects are organized by the corresponding publications denoted by the first author and year of first publication, which is often a preprint.
+This section organizes single-cell proteomics data repositories for projects from the [Slavov Laboratory](https://slavovlab.net). The projects are organized by the corresponding publications denoted by the first author and year of first publication as a preprint.
 
 Each data webpage links to the corresponding technology used for protein analysis, which is described in the [methods](methods) section of this website.
