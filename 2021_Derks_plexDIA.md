@@ -8,7 +8,7 @@ parent: Methods
 ---
 {% include social-media-links.html %}
 
-# plexDIA:
+# plexDIA
 
 ## Single-cell proteomics method by [Derks et al, 2021](hhttps://www.biorxiv.org/content/10.1101/665307v2)
 
