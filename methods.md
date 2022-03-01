@@ -17,7 +17,7 @@ This section organizes methods for single-cell protein analysis developed in the
 ------------
 
 ## Shotgun single-cell proteomics
-[SCoPE-MS](SCoPE-MS) and its second version [SCoPE-MS](SCoPE2) can analyze thousands of proteins selected in order of their abundance in the samples.
+[SCoPE-MS](SCoPE-MS) and its second version [SCoPE2](SCoPE2) can analyze thousands of proteins selected in order of their abundance in the samples.
 
 
 ## Prioritized single-cell proteomics
