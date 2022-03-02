@@ -8,7 +8,7 @@ parent: Methods
 ---
 {% include social-media-links.html %}
 
-# plexDIA:
+# pSCoPE
 
 ## Prioritized single-cell proteomics method by [Huffman et al, 2022](hhttps://www.biorxiv.org/content/10.1101/665307v2)
 
@@ -20,14 +20,13 @@ parent: Methods
 
 &nbsp;
 
-
-Current mass-spectrometry methods enable high-throughput proteomics of large sample amounts, but proteomics of low sample amounts remains limited in depth and throughput. We aimed to increase throughput for analyzing limited samples while achieving high proteome coverage and quantitative accuracy. We developed a general experimental and computational framework, plexDIA, for simultaneously multiplexing the analysis of both peptides and samples. Multiplexed analysis with plexDIA increases throughput multiplicatively with the number of labels without reducing proteome coverage or quantitative accuracy. By using using 3-plex nonisobaric mass tags, plexDIA enables quantifying 3-fold more protein ratios among nanogram-level samples. Using 1 hour active gradients and first-generation Q Exactive, plexDIA quantified about 8,000 proteins in each sample of labeled 3-plex sets. Furthermore, plexDIA increases the consistency of protein quantification, resulting in over 2-fold reduction of missing data across samples. We applied plexDIA to quantify proteome dynamics during the cell division cycle in cells isolated based on their DNA content. The high sensitivity and accuracy of plexDIA detected many classical cell cycle proteins and discovered new ones. These results establish a general framework for increasing the throughput of highly sensitive and quantitative protein analysis.
+Major aims of single-cell proteomics include increasing the consistency, sensitivity, and depth of protein quantification, especially for proteins and modifications of biological interest. To simultaneously advance all of these aims, we developed prioritized Single Cell ProtEomics (pSCoPE). pSCoPE ensures duty-cycle time for analyzing prioritized peptides across all single cells (thus increasing data consistency) while analyzing identifiable peptides at full duty-cycle, thus increasing proteome depth. These strategies increased the quantified data points for challenging peptides and the overall proteome coverage about 2-fold.
 
 ---
 
-
+<!--
 [![plexDIA](https://plexdia.slavovlab.net/mass-spec/Figures/plexDIA.png){: width="50%" .center-image}](https://plexdia.slavovlab.net/)
-
+-->
 
 
 

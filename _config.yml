@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: scProteomics
 long_title: Single-Cell Protromics by Mass-Spectrometry  | Slavov Laboratory
-description: Data from and Methods for Single-Cell Protromics by Mass-Spectrometry | Slavov Laboratory
+description: Single-Cell Protromics Data and Methods from the Slavov Laboratory. Mass-Spectrometry based Single Cell Protein Analysis
 baseurl: ~ # the subpath of your site, e.g. /blog
 url: https://scp.slavovlab.net # the base hostname & protocol for your site
 
