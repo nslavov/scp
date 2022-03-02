@@ -10,7 +10,7 @@ parent: Methods
 
 # plexDIA
 
-## Single-cell proteomics method by [Derks et al, 2021](https://www.biorxiv.org/content/10.1101/665307v2)
+## Single-cell proteomics method by [Derks et al, 2021](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v1)
 
 
 ## Data Websites
