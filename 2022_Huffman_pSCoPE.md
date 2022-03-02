@@ -24,9 +24,7 @@ Major aims of single-cell proteomics include increasing the consistency, sensiti
 
 ---
 
-<!--
-[![plexDIA](https://plexdia.slavovlab.net/mass-spec/Figures/plexDIA.png){: width="50%" .center-image}](https://plexdia.slavovlab.net/)
--->
+[![pSCoPE](Figs/pSCoPE.png){: width="50%" .center-image}](https://scp.slavovlab.net/pSCoPE)
 
 
 
