@@ -10,7 +10,7 @@ parent: Methods
 
 # pSCoPE
 
-## Prioritized single-cell proteomics method by [Huffman et al, 2022](hhttps://www.biorxiv.org/content/10.1101/665307v2)
+## Prioritized single-cell proteomics method by [Huffman et al, 2022](https://www.biorxiv.org/content/10.1101/665307v2)
 
 ## Data Websites
  * [Huffman et al., 2022](https://scp.slavovlab.net/Huffman_et_al_2022)
