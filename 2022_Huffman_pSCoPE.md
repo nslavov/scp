@@ -10,7 +10,7 @@ parent: Methods
 
 # pSCoPE
 
-## Prioritized single-cell proteomics method by [Huffman et al, 2022](https://www.biorxiv.org/content/10.1101/665307v2)
+## Prioritized single-cell proteomics method by [Huffman et al, 2022][pSCoPE_Preprint]
 
 ## Data Websites
  * [Huffman et al., 2022](https://scp.slavovlab.net/Huffman_et_al_2022)
@@ -28,8 +28,8 @@ Major aims of single-cell proteomics include increasing the consistency, sensiti
 
 &nbsp;
 
-## implementation
-pSCoPE is implemented as a module of MaxQuant.Live, starting with [version 2.1](http://www.maxquant.live) and is compatible with all all Orbitrap instruments. All additional code is needed for pSCoPE is available at [github.com/SlavovLab/pSCoPE](https://github.com/SlavovLab/pSCoPE).
+## Implementation
+pSCoPE is implemented as a module of MaxQuant.Live, starting with [version 2.1](http://www.maxquant.live) and is compatible with all all Orbitrap instruments. All additional code needed for pSCoPE and reproducing [Huffman et al., 2022][pSCoPE_Preprint] is available at [github.com/SlavovLab/pSCoPE](https://github.com/SlavovLab/pSCoPE).
 
 &nbsp;  
 
@@ -47,6 +47,8 @@ pSCoPE is implemented as a module of MaxQuant.Live, starting with [version 2.1](
 &nbsp;
 
 &nbsp;
+
+[pSCoPE_Preprint]: https://scp.slavovlab.net/ "Prioritized Single Cell ProtEomics by Mass-Spectrometry"
 
 &nbsp;
 
