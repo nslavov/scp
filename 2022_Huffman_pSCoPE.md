@@ -14,7 +14,7 @@ parent: Methods
 
 ## Data Websites
  * [Huffman et al., 2022](https://scp.slavovlab.net/Huffman_et_al_2022)
- * [Leduc et al., 2022](https://scp.slavovlab.net/Leduc_et_al_2022)
+ <!-- * [Leduc et al., 2022](https://scp.slavovlab.net/Leduc_et_al_2022) -->
 
 &nbsp;
 
@@ -26,7 +26,10 @@ Major aims of single-cell proteomics include increasing the consistency, sensiti
 
 [![pSCoPE](Figs/pSCoPE.png){: width="50%" .center-image}](https://scp.slavovlab.net/pSCoPE)
 
+&nbsp;
 
+## implementation
+pSCoPE is implemented as a module of MaxQuant.Live, starting with [version 2.1](http://www.maxquant.live) and is compatible with all all Orbitrap instruments. All additional code is needed for pSCoPE is available at [github.com/SlavovLab/pSCoPE](https://github.com/SlavovLab/pSCoPE).
 
 &nbsp;  
 
