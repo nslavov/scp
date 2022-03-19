@@ -29,7 +29,7 @@ Major aims of single-cell proteomics include increasing the consistency, sensiti
 &nbsp;
 
 ## Implementation
-pSCoPE is implemented as a module of MaxQuant.Live, starting with [version 2.1](http://www.maxquant.live) and is compatible with all all Orbitrap instruments. All additional code needed for pSCoPE and reproducing [Huffman et al., 2022][pSCoPE_Preprint] is available at [github.com/SlavovLab/pSCoPE](https://github.com/SlavovLab/pSCoPE).
+pSCoPE is implemented as a module of MaxQuant.Live, starting with [version 2.1](http://www.maxquant.live) and is compatible with all Orbitrap instruments. All additional code needed for pSCoPE and reproducing [Huffman et al., 2022][pSCoPE_Preprint] is available at [github.com/SlavovLab/pSCoPE](https://github.com/SlavovLab/pSCoPE).
 
 &nbsp;  
 
