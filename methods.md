@@ -19,9 +19,13 @@ This section organizes methods for single-cell protein analysis developed in the
 ## Shotgun single-cell proteomics
 [SCoPE-MS](SCoPE-MS) and its second version [SCoPE2](SCoPE2) can analyze thousands of proteins selected in order of their abundance in the samples.
 
+&nbsp;
 
 ## Prioritized single-cell proteomics
-[pSCoPE](pSCoPE) can analyze thousands of proteins selected in order of their priority for the biological question and project of interest.
+[pSCoPE](pSCoPE) can analyze thousands of proteins selected in order of their priority for the biological questions and projects of interest.
+
+
+&nbsp;
 
 
 ## Parallel analysis of both single cells and peptides
