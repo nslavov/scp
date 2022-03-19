@@ -48,7 +48,7 @@ pSCoPE is implemented as a module of MaxQuant.Live, starting with [version 2.1](
 
 &nbsp;
 
-[pSCoPE_Preprint]: https://scp.slavovlab.net/ "Prioritized Single Cell ProtEomics by Mass-Spectrometry"
+[pSCoPE_Preprint]: https://www.biorxiv.org/content/10.1101/2022.03.16.484655v1 "Prioritized Single Cell ProtEomics by Mass-Spectrometry"
 
 &nbsp;
 
