@@ -18,7 +18,7 @@ parent: Methods
 
 &nbsp;
 
-plexDIA enables parallel analysis of both peptides and single cells, which allows for [multiplicative]() increase of proteomics throughput. These advantages generalize to [bulk samples](https://plexDIA.slavovlab.net/) and to [single cells](https://scp.slavovlab.net/Derks_et_al_2022), resulting in 1000 proteins / cells using 5 min of active chromatography / cell.
+plexDIA enables parallel analysis of both peptides and single cells, which allows for [multiplicative](https://doi.org/10.1101/2021.11.03.467007) increase of proteomics throughput. These advantages generalize to [bulk samples](https://plexDIA.slavovlab.net/) and to [single cells](https://scp.slavovlab.net/Derks_et_al_2022), resulting in 1,000 proteins / single cell using 5 min of active chromatography / cell.
 
 &nbsp;
 
