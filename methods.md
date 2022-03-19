@@ -25,4 +25,4 @@ This section organizes methods for single-cell protein analysis developed in the
 
 
 ## Parallel analysis of both single cells and peptides
-[plexDIA](plexDIA) can analyze about a thousand proteins while parallelizing the analysis of both single cells and peptides. It does not use a carrier sample.
+[plexDIA](plexDIA) quantifies about a thousand proteins per single cell while parallelizing the analysis of both single cells and peptides. It does not use a carrier sample.
