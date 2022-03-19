@@ -9,7 +9,7 @@ parent: Data
 {% include social-media-links.html %}
 
 
-## Article: [Huffman et al, 2022](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v1)
+## Article: [Huffman et al, 2022](https://www.biorxiv.org/content/10.1101/2022.03.16.484655v1)
 <!-- **Peer reviewed article:** -->
 
 ### Single-cell proteomics method: [pSCoPE](pSCoPE)
