@@ -10,8 +10,8 @@ parent: Methods
 
 # plexDIA
 
-## Parallelized single-cell proteomics method by [Derks et al, 2021](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v1)
-
+## Parallelized single-cell proteomics method by [Derks et al, 2021](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v2)
+ * Code available at: [github.com/SlavovLab/plexDIA](https://github.com/SlavovLab/plexDIA)
 
 ## Data Websites
  * [Derks et al., 2022](https://scp.slavovlab.net/Derks_et_al_2022)
