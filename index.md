@@ -51,6 +51,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 ## Reviews
 * [Single-cell protein analysis by mass spectrometry](https://doi.org/10.1016/j.cbpa.2020.04.018), *Current Opinion in Chemical Biology*
 * [Single cell protein analysis for systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204083/),	*Essays in biochemistry*
+* [Scaling up single-cell proteomics](https://doi.org/10.1016/j.mcpro.2021.100179), *Molecular and Cellular Proteomics*
 
 
 ## Highlights
