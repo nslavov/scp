@@ -11,6 +11,7 @@ parent: Methods
 # pSCoPE
 
 ## Prioritized single-cell proteomics method by [Huffman et al, 2022][pSCoPE_Preprint]
+ * Code available at: [github.com/SlavovLab/pSCoPE](https://github.com/SlavovLab/pSCoPE)
 
 ## Data Websites
  * [Huffman et al., 2022](https://scp.slavovlab.net/Huffman_et_al_2022)
