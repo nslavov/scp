@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Single-cell proteomics methods and data from the Slavov Laboratory"
+description: "Single-cell proteomics methods and data from the Slavov Laboratory | Single-cell protein analysis by mass-spectrometry"
 permalink: /
 ---
 {% include social-media-links.html %}
