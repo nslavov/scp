@@ -23,7 +23,7 @@ parent: Data
 
 [RAW Data](#raw_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Code](https://github.com/Andrew-Leduc/nPOP){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Protocol](https://www.protocols.io/view/npop-4r3l24r7qg1y/v1)
+[Protocol](https://www.protocols.io/view/npop-4r3l24r7qg1y/v1){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Processed Data](#proc_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Videos](#talks){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
