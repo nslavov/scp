@@ -3,7 +3,7 @@ layout: default
 title: Leduc et al, 2022
 nav_order: 5
 permalink: Leduc_et_al_2022
-description: "Exploring functional protein covariation across single cells using nPOP | Slavov Laboratory"
+description: "Data from exploring functional protein covariation across single cells using nPOP | Slavov Laboratory"
 parent: Data
 ---
 {% include social-media-links.html %}
@@ -15,7 +15,7 @@ parent: Data
 ### Single-cell proteomics method: [pSCoPE](https://scp.slavovlab.net/pSCoPE)
 **Sample preparation method: [nPOP](https://scp.slavovlab.net/nPOP)**
 
-### Model systems:  Cell lines of monocytes (U937 cells) and melanoma cells.
+### Model systems:  Cell lines of monocytes (U937 cells) and melanoma (WM989) cells.
 
 
 &nbsp;
