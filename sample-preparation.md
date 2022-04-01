@@ -12,7 +12,7 @@ has_children: true
 
 &nbsp;
 
-High accuracy and throughput of single-cell proteomics begin with efficient and [automated sample preparation](https://sample-prep.slavovlab.net/). The pages of this section summarize methods that use solely MS-compatible reagents and allow parallel preparation of hundreds of single cells in small volumes:
+Accurate and scalable single-cell protein analysis begins with an efficient and [automated sample preparation](https://sample-prep.slavovlab.net/). The pages of this section summarize methods that use solely MS-compatible reagents and allow parallel preparation of thousands of single cells in small volumes:
 
 [Minimal sample preparation](https://sample-prep.slavovlab.net/mass-spec/mPOP){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 .center} &nbsp;
 [Droplet sample preparation](https://sample-prep.slavovlab.net/POP){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 .center-btn}
