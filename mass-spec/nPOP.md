@@ -14,12 +14,10 @@ parent: Sample preparation
 
 &nbsp;
 
-<span class="text-center"></span>
-[bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v2){: .btn .fs-5 .mr-4 }
-
-<span class="text-center"></span>
+<span class="text-center">
+[bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3){: .btn .fs-5 .mr-4 }
 [Step by Step Protocol](https://www.protocols.io/view/npop-bwy7pfzn){: .btn .fs-5 .mr-4 }
-
+</span>
 
 **Table of Contents**
 
@@ -31,7 +29,8 @@ parent: Sample preparation
 
 
 ## Introduction
-Mass spectrometry methods have enabled quantifying thousands of proteins at the single cell level. These methods open the door to many biological opportunities, such as characterizing heterogeneity in the tumor micro-environment, signaling pathways driving stem cell differentiation, and intrinsically single-cell processes, such as the cell division cycle. To further advance single-cell MS analysis, we developed an automated nano-ProteOmic sample Preparation (nPOP). nPOP uses piezo acoustic dispensing to isolate individual cells in 300 picoliter volumes and performs all subsequent preparation steps in small droplets on a hydrophobic slide. This allows massively parallel sample preparation, including lysing, digesting, and labeling individual cells in volumes below 20 nanoliters.
+Mass spectrometry methods have enabled quantifying thousands of proteins at the single cell level. These methods open the door to many biological opportunities, such as characterizing heterogeneity in the tumor micro-environment, signaling pathways driving stem cell differentiation, and intrinsically single-cell processes, such as the cell division cycle. To further advance single-cell MS analysis, we developed an automated nano-ProteOmic sample Preparation (nPOP). nPOP uses piezo acoustic dispensing to isolate individual cells in 300 picoliter volumes and performs all subsequent preparation steps in small droplets on a hydrophobic slide. This allows parallel sample preparation, including lysing, digesting, and labeling individual cells in volumes below 20 nanoliters. It can prepare thousands of single cells as a single batch.
+
 
 ## Application
 Single-cell protein analysis using nPOP classified cells by cell type and by cell cycle phase. Furthermore, the data allowed us to quantify the covariation between cell cycle protein markers and thousands of proteins. Based on this covariation, we identify cell cycle associated proteins and functions that are shared across cell types and those that differ between cell types.   
