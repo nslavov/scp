@@ -4,7 +4,7 @@ title: Petelski et al, 2021
 nav_order: 3
 permalink: Petelski_et_al_2021
 description: "Single-cell proteomics by data from the SCoPE2 protocol | Slavov Laboratory"
-parent: Data
+parent: Single-cell protein data
 ---
 {% include social-media-links.html %}
 

@@ -4,7 +4,7 @@ title: Huffman et al, 2022
 nav_order: 5
 permalink: Huffman_et_al_2022
 description: "Single-cell proteomics by data from prioritized SCoPE, pSCoPE | Slavov Laboratory"
-parent: Data
+parent: Single-cell protein data
 ---
 {% include social-media-links.html %}
 

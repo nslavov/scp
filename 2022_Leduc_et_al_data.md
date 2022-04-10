@@ -4,7 +4,7 @@ title: Leduc et al, 2022
 nav_order: 5
 permalink: Leduc_et_al_2022
 description: "Data from exploring functional protein covariation across single cells using nPOP | Slavov Laboratory"
-parent: Data
+parent: Single-cell protein data
 ---
 {% include social-media-links.html %}
 

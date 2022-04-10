@@ -4,7 +4,7 @@ title: Leduc et al, 2021
 nav_order: 3.5
 permalink: Leduc_et_al_2021
 description: "Single-cell proteomics by SCoPE2 and nPOP | Slavov Laboratory"
-parent: Data
+parent: Single-cell protein data
 ---
 {% include social-media-links.html %}
 

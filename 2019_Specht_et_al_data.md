@@ -4,7 +4,7 @@ title: Specht et al, 2019
 nav_order: 2
 permalink: Specht_et_al_2019
 description: "download single-cell proteomics data from SCoPE2, a second generation SCoPE-MS"
-parent: Data
+parent: Single-cell protein data
 ---
 {% include social-media-links.html %}
 

@@ -4,7 +4,7 @@ title: Budnik et al, 2017
 nav_order: 1
 permalink: Budnik_et_al_2017
 description: "download single-cell proteomics data from SCoPE-MS"
-parent: Data
+parent: Single-cell protein data
 ---
 {% include social-media-links.html %}
 
