@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Methods
+title: Mass-spec methods
 nav_order: 2
 permalink: methods
 description: "Methods for single-cell proteomics by mass-spectrometry"

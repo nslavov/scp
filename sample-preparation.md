@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sample preparation
-nav_order: 4
+nav_order: 1.2
 permalink: sample-preparation
 description: "Sample preparation methods for single-cell proteomics by mass-spectrometry. Automated and massively parallel sample preparation."
 has_children: true

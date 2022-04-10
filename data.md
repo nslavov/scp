@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data
+title: SCP data
 nav_order: 2
 permalink: data
 description: "Data from single-cell proteomics by mass-spectrometry"
