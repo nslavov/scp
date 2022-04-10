@@ -4,7 +4,7 @@ title: 2022, pSCoPE
 nav_order: 4
 permalink: pSCoPE
 description: "Prioritized Single-cell proteomics, pSCoPE | Slavov Laboratory"
-parent: Methods
+parent: Mass-spec methods
 ---
 {% include social-media-links.html %}
 

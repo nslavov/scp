@@ -4,7 +4,7 @@ title: 2021, plexDIA
 nav_order: 4
 permalink: plexDIA
 description: "Single-cell proteomics by multiplexed DIA, plexDIA | Slavov Laboratory"
-parent: Methods
+parent: Mass-spec methods
 ---
 {% include social-media-links.html %}
 
