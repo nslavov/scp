@@ -18,6 +18,7 @@ parent: Mass-spec methods
 * [Petelski et al., 2021](https://scp.slavovlab.net/Petelski_et_al_2021)
 * [Leduc et al., 2021](https://scp.slavovlab.net/Leduc_et_al_2021)
 
+
 &nbsp;
 
 SCoPE2 is a second generation method improving upon [SCoPE-MS](https://scp.slavovlab.net/SCoPE-MS) and has a dedicated website at: [scope2.slavovlab.net](https://scope2.slavovlab.net/), which includes a [detailed protocol](https://scope2.slavovlab.net/protocol).
