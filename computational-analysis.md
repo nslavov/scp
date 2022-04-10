@@ -3,12 +3,12 @@ layout: default
 title: Computational analysis
 nav_order: 4
 permalink: computational-analysis
-description: "Data analysis pipelines for single-cell proteomics by mass-spectrometry"
+description: "Computational analysis pipelines for single-cell proteomics by mass-spectrometry"
 has_children: true
 ---
 {% include social-media-links.html %}
 
-# Computational analysis of single-cell proteomics data
+# Analysis of single-cell proteomics data
 
 &nbsp;
 
