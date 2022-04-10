@@ -1,7 +1,7 @@
 ---
 layout: default
-title: SCP data
-nav_order: 2
+title: Single-cell protein data
+nav_order: 3
 permalink: data
 description: "Data from single-cell proteomics by mass-spectrometry"
 has_children: true
