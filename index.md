@@ -8,7 +8,8 @@ permalink: /
 {% include social-media-links.html %}
 
 # **Single Cell Proteomics**
-{: .fs-10 }
+
+{: .fs-9 }
 Methods & Data
 {: .fs-6 .fw-300}
 
