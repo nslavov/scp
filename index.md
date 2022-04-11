@@ -18,7 +18,7 @@ Methods & Data
 
 
 [Perspectives]({{site.baseurl}}#perspectives){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Reviews]({{site.baseurl}}#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Reviews]({{site.baseurl}}#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 [Highlights]({{site.baseurl}}#highlights){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
@@ -33,9 +33,10 @@ Each cell performs its biological functions by changing the abundance, localizat
 
 &nbsp;
 
-[Metods](methods){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Data](data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Sample prep](sample-preparation){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Metods](methods){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } &nbsp;
+[Data](data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } &nbsp;
+[Sample prep](sample-preparation){: .btn .fs-5 .mb-4 .mb-md-0 } &nbsp;
+[Computation](computational-analysis){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ------------
 
