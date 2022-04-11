@@ -10,6 +10,11 @@ has_children: true
 
 # Single-cell proteomics data
 
+{: .fs-8 }
+
+Data & Metadata
+{: .fs-6 .fw-300}
+
 &nbsp;
 
 This section organizes single-cell proteomics data repositories for projects from the [Slavov Laboratory](https://slavovlab.net). The projects are organized by the corresponding publications denoted by the first author and year of first publication as a preprint.
