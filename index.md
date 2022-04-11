@@ -9,7 +9,7 @@ permalink: /
 
 # **Single Cell Proteomics**
 
-{: .fs-9 }
+{: .fs-10 }
 
 Methods & Data
 {: .fs-6 .fw-300}
@@ -18,7 +18,7 @@ Methods & Data
 
 
 [Perspectives]({{site.baseurl}}#perspectives){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Reviews]({{site.baseurl}}#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[Reviews]({{site.baseurl}}#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Highlights]({{site.baseurl}}#highlights){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
