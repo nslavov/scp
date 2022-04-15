@@ -14,6 +14,11 @@ parent: Sample preparation
 
 &nbsp;
 
+
+[![plexDIA](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}](https://doi.org/10.1101/2021.04.24.441211)
+
+&nbsp;
+
 <span class="text-center">
 [bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3){: .btn .fs-5 .mr-4 }
 [Step by Step Protocol](https://www.protocols.io/view/npop-bwy7pfzn){: .btn .fs-5 .mr-4 }
