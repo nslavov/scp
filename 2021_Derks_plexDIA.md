@@ -34,6 +34,9 @@ Current mass-spectrometry methods enable high-throughput proteomics of large sam
 [![plexDIA](Figs/plexDIA_3.png){: width="90%" .center-image}](https://plexdia.slavovlab.net/)
 
 
+## Github release of [DIA-NN 1.8.1](https://github.com/vdemichev/DiaNN/releases/tag/1.8.1)
+
+
 
 
 &nbsp;  
