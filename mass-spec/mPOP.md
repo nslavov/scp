@@ -3,7 +3,7 @@ layout: default
 title: mPOP
 nav_order: 1
 permalink: mPOP
-description: "Minimal ProteOmic sample Preparation (mPOP)"
+description: "Minimal ProteOmic sample Preparation (mPOP) for single-cell proteomics by mass-spectrometry"
 parent: Sample preparation
 
 ---
@@ -70,7 +70,7 @@ To increase the throughput and quantitative accuracy of single-cell protein anal
 This project on developing an automated sample preparation method for single-cell proteomics was supported by funding from the [NIH Director's Award](https://projectreporter.nih.gov/project_info_description.cfm?aid=9167004&icde=31336575).
 
 
-[mPOP_Preprint]: https://doi.org/10.1101/399774 "Minimal ProteOmic sample Preparation (mPOP) method for single-cell proteomics"
+[mPOP_Preprint]: https://doi.org/10.1101/399774 "Minimal ProteOmic sample Preparation (mPOP) method for single-cell proteomics by mass-spectrometry"
 
 &nbsp;  
 

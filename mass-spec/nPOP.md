@@ -3,7 +3,7 @@ layout: default
 title: nPOP
 nav_order: 1
 permalink: nPOP
-description: "nano-ProteOmic sample Preparation (nPOP)"
+description: "nano-ProteOmic droplet sample Preparation (nPOP) for single-cell proteomics by mass-spectrometry"
 parent: Sample preparation
 
 ---
@@ -15,7 +15,7 @@ parent: Sample preparation
 &nbsp;
 
 
-[![nano-ProteOmic sample Preparation (nPOP) method for single-cell proteomics](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}][nPOP_Preprint]
+[![nano-ProteOmic droplet sample Preparation (nPOP) method for single-cell proteomics by mass-spectrometry](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}][nPOP_Preprint]
 
 &nbsp;
 
@@ -94,7 +94,7 @@ Single-cell protein analysis using nPOP classified cells by cell type and by cel
 
 
 
-[nPOP_Preprint]: https://doi.org/10.1101/2021.04.24.441211 "nano-ProteOmic sample Preparation (nPOP) method for single-cell proteomics"
+[nPOP_Preprint]: https://doi.org/10.1101/2021.04.24.441211 "nano-ProteOmic droplet sample Preparation (nPOP) method for single-cell proteomics by mass-spectrometry"
 
 
 
