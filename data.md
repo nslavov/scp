@@ -19,7 +19,9 @@ Each data webpage links to the corresponding technology used for protein analysi
 
 &nbsp;
 
-{: .fs-7 }
+{: .fs-8 }
 
-Data & Metadata for ~ 5,000 single cells
+Data & Metadata
 {: .fs-6 .fw-300}
+
+## # Single cells ~ 5,000
