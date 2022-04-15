@@ -15,8 +15,13 @@ parent: Sample preparation
 
 &nbsp;
 
+[![Minimal ProteOmic sample Preparation (mPOP) method for single-cell proteomics](Figs/mPOP_SamplePrep.png){: width="90%" .center-image}][mPOP_Preprint]
+
+&nbsp;
+
 <span class="text-center"></span>
-[bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/399774v1){: .btn .fs-5 .mr-4 }
+[nPOP Article](https://www.biorxiv.org/content/10.1101/399774v1){: .btn .fs-5 .mr-4 }
+[nPOP Protocol](https://doi.org/10.1038/s41596-021-00616-z){: .btn .fs-5 .mr-4 }
 
 **Table of Contents**
 
@@ -63,6 +68,9 @@ To increase the throughput and quantitative accuracy of single-cell protein anal
 ## About the project
 
 This project on developing an automated sample preparation method for single-cell proteomics was supported by funding from the [NIH Director's Award](https://projectreporter.nih.gov/project_info_description.cfm?aid=9167004&icde=31336575).
+
+
+[mPOP_Preprint]: https://doi.org/10.1101/399774 "Minimal ProteOmic sample Preparation (mPOP) method for single-cell proteomics"
 
 &nbsp;  
 
