@@ -15,7 +15,7 @@ parent: Sample preparation
 &nbsp;
 
 
-[![plexDIA](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}](https://doi.org/10.1101/2021.04.24.441211)
+[![nano-ProteOmic sample Preparation (nPOP) method for single-cell proteomics](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}][mPOP_Preprint]
 
 &nbsp;
 
@@ -91,6 +91,11 @@ Single-cell protein analysis using nPOP classified cells by cell type and by cel
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="talks" >Recorded video presentations</h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DJ1U_KpMNcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+[mPOP_Preprint]: https://doi.org/10.1101/2021.04.24.441211 "nano-ProteOmic sample Preparation (nPOP) method for single-cell proteomics"
+
 
 
 <!--
