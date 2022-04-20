@@ -41,6 +41,10 @@ parent: Data
    - Protein set enrichment analysis between melanoma sub-populations
 
 
+   &nbsp;
+
+   &nbsp;
+
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="raw_data" >Raw Data from experiments benchmarking nPOP</h2>
 
@@ -66,7 +70,10 @@ parent: Data
    - Supplementary tables from paper
 
 
+   &nbsp;
 
+   &nbsp;
+   
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="talks" >Recorded video presentations</h2>
 
