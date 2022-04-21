@@ -66,7 +66,7 @@ parent: Single-cell protein data
 * [Processed Data](https://drive.google.com/drive/folders/12-H2a1mfSHZUGf8O50Cr0pPZ4zIDjTac?usp=sharing)
    - This folder contains all processed data necessary for performing the analysis, as well as outputs from analysis
 
-* [Data Tables](https://drive.google.com/drive/folders/1224SUizVq1Vs1PJqkUFKvnUsxN7QUYvK?usp=sharing)
+* [Supplementary Tables](https://drive.google.com/drive/folders/1224SUizVq1Vs1PJqkUFKvnUsxN7QUYvK?usp=sharing) with data: Tables 1 - 5
    - Supplementary tables from paper
 
 * [DO-MS Report](DO-MS_Report_nPOP.html)
