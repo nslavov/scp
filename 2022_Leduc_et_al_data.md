@@ -69,8 +69,8 @@ parent: Single-cell protein data
 * [Data Tables](https://drive.google.com/drive/folders/1224SUizVq1Vs1PJqkUFKvnUsxN7QUYvK?usp=sharing)
    - Supplementary tables from paper
 
-  * [DO-MS Report](DO-MS_Report_nPOP.html)
-    - A [DO-MS](https://do-ms.slavovlab,net) report for a representative set of 8 mass-spectrometry runs   
+* [DO-MS Report](DO-MS_Report_nPOP.html)
+  - A [DO-MS](https://do-ms.slavovlab,net) report for a representative set of 8 mass-spectrometry runs   
 
 
    &nbsp;
