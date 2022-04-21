@@ -67,7 +67,7 @@ parent: Single-cell protein data
    - This folder contains all processed data necessary for performing the analysis, as well as outputs from analysis
 
 * [Supplementary Tables](https://drive.google.com/drive/folders/1224SUizVq1Vs1PJqkUFKvnUsxN7QUYvK?usp=sharing) with data: Tables 1 - 5
-   - Supplementary tables from paper
+   - Supplementary tables from [Leduc et al.](Leduc_et_al_2022)
 
 * [DO-MS Report](DO-MS_Report_nPOP.html)
   - A [DO-MS](https://do-ms.slavovlab,net) report for a representative set of 8 mass-spectrometry runs   
