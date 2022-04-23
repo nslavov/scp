@@ -38,13 +38,13 @@ The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to i
 
 
 ## Advantages of nPOP
-  1. nPOP can prepare thousands of single cells in a single batch
+  1. **nPOP can prepare thousands of single cells in a single batch**
      - This minimizes the # of batches and associated technical covariation
-  2. nPOP uses only mass-spec compatible chemicals and volumes below 20 nl
+  2. **nPOP uses only mass-spec compatible chemicals and volumes below 20 nl**
      - This results in very low contamination background
-  3. nPOP layout of droplets is computationally programmable and thus very flexible
+  3. **nPOP droplet layouts are computationally programmable and thus very flexible**
      - Thus nPOP can be used for all multiplexed or label-free workflows without specialized consumables  
-  4. nPOP uses accessible consumables and small amounts of labels  
+  4. **nPOP uses accessible consumables and small amounts of labels**  
      - This keeps costs down to about 10-20 cents / single cell.
 
 nPOP uses the CellenONE instrument, which is commercially available. If CellenONE is not available, one may use [mPOP](mPOP), which prepares only a few hundred single cells in parallel. Both mPOP and nPOP are fully compatible with all [mass-spectrometry methods](methods) described in this portal.
