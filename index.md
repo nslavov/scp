@@ -32,10 +32,11 @@ Each cell performs its biological functions by changing the abundance, localizat
 
 &nbsp;
 
-[Metods](methods){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } &nbsp;
+[Methods](methods){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } &nbsp;
 [Data](data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } &nbsp;
 [Sample prep](sample-preparation){: .btn .fs-5 .mb-4 .mb-md-0 } &nbsp;
-[Computation](computational-analysis){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Computation](computational-analysis){: .btn .fs-5 .mb-4 .mb-md-0 }  &nbsp;
+[Biology](biology){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ------------
 
