@@ -28,14 +28,16 @@ parent: Sample preparation
 **Table of Contents**
 
 1. [Introduction to droplet sample preparation for single-cell proteomics](#introduction)
-2. [Applications](#applications-&-data)
+2. [Distinct aspects](#distinct-aspects)
+3. [Applications](#applications-and-data)
 4. [Video presentations](#talks)
 
 
 ## Introduction
 The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to isolate individual cells in 300 picoliter volumes and performs all subsequent preparation steps in small droplets on a fluorocarbon-coated slide. This design enables simultaneous sample preparation of thousands of single cells, including lysing, digesting, and labeling individual cells in volumes below 20 nl.
 
-### Distinct aspects
+
+## Distinct aspects
   * nPOP can prepare thousands of single cells in a single batch
     - This minimizes the # of batches and associated technical covariation
   * nPOP uses only mass-spec compatible chemicals and volumes below 20 nl
@@ -43,10 +45,11 @@ The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to i
   * nPOP layout of droplets is computationally programmable and thus very flexible
     - Thus nPOP can used for all multiplexed or label free workflow without specialized consumables  
   * nPOP uses accessible consumables and small amounts of labels  
-    - This keeps cost to down to about 10-20 cents / single cell. 
+    - This keeps cost to down to about 10-20 cents / single cell.
 
 
-## Applications & data
+
+<h2 style="letter-spacing: 2px; font-size: 26px;" id="applications-and-data" >Applications & data</h2> ##
   *  [Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v2) used nPOP to prepare samples for [SCopE2](scope2) analysis of the cell division cycle of U937 and Hela cells. **[Leduc et al, 2021 data website](Leduc_et_al_2021)**
   *  [Derks et al, 2022](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v2) used nPOP to prepare samples for [plexDIA](plexDIA) analysis of single  melanoma, monocyte and pancreatic adenocarcinoma cells. **[Derks et al, 2022 data website](Derks_et_al_2022)**
   *  [Leduc et al, 2022](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3) used nPOP to prepare samples for [pSCopE](pscope) analysis of protein covariation in monocytes and melanoma cells. **[Leduc et al, 2022 data website](Leduc_et_al_2022)**
