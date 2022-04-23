@@ -9,20 +9,22 @@ parent: Sample preparation
 ---
 {% include social-media-links.html %}
 
+&nbsp;
+
 # Minimal Proteomic sample preparation (mPOP)
 
 
 &nbsp;
 
+<span class="text-center">
+[mPOP Article](https://www.biorxiv.org/content/10.1101/399774v1){: .btn .fs-5 .mr-4 }
+[mPOP Protocol](https://doi.org/10.1038/s41596-021-00616-z){: .btn .fs-5 .mr-4 }
+</span>
+
 [![Minimal ProteOmic sample Preparation (mPOP) method for single-cell proteomics](Figs/mPOP_SamplePrep.png){: width="90%" .center-image}][mPOP_Preprint]
 
 &nbsp;
 
-<span class="text-center"></span>
-[nPOP Article](https://www.biorxiv.org/content/10.1101/399774v1){: .btn .fs-5 .mr-4 }
-[nPOP Protocol](https://doi.org/10.1038/s41596-021-00616-z){: .btn .fs-5 .mr-4 }
-
-**Table of Contents**
 
 [Introduction](#abstract){: .btn .fs-4 .mr-3 }
 [RAW Data](#data){: .btn .fs-4 .mr-3 }
