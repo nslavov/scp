@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nPOP
-nav_order: 1
+nav_order: 2
 permalink: nPOP
 description: "nano-ProteOmic droplet sample Preparation (nPOP) for single-cell proteomics by mass-spectrometry"
 parent: Sample preparation
@@ -21,71 +21,34 @@ parent: Sample preparation
 
 <span class="text-center">
 [bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3){: .btn .fs-5 .mr-4 }
-[Step by Step Protocol](https://www.protocols.io/view/npop-bwy7pfzn){: .btn .fs-5 .mr-4 }
+[nPOP @ protocols.io](https://www.protocols.io/view/npop-bwy7pfzn){: .btn .fs-5 .mr-4 }
 </span>
 
 **Table of Contents**
 
 1. [Introduction to droplet sample preparation for single-cell proteomics](#introduction)
-2. [Application to the cell division cycle](#application)
-3. [RAW Data](#raw_data)
-4. [Processed Data](#proc_data)
+2. [Applications](#applications-&-data)
 4. [Video presentations](#talks)
 
 
 ## Introduction
-Mass spectrometry methods have enabled quantifying thousands of proteins at the single cell level. These methods open the door to many biological opportunities, such as characterizing heterogeneity in the tumor micro-environment, signaling pathways driving stem cell differentiation, and intrinsically single-cell processes, such as the cell division cycle. To further advance single-cell MS analysis, we developed an automated nano-ProteOmic sample Preparation (nPOP). nPOP uses piezo acoustic dispensing to isolate individual cells in 300 picoliter volumes and performs all subsequent preparation steps in small droplets on a hydrophobic slide. This allows parallel sample preparation, including lysing, digesting, and labeling individual cells in volumes below 20 nanoliters. It can prepare thousands of single cells as a single batch.
+The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to isolate individual cells in 300 picoliter volumes and performs all subsequent preparation steps in small droplets on a fluorocarbon-coated slide. This design enables simultaneous sample preparation of thousands of single cells, including lysing, digesting, and labeling individual cells in volumes below 20 nl.
+
+### Distinct aspects
+  * nPOP can prepare thousands of single cells in a single batch, thus minimizing the # of batches and associated technical covariation
+  * nPOP uses only mass-spec compatible chemicals and volumes below 20 nl, which results in very low contamination background
+  * nPOP is very flexible and can be adopted to any multiplexed or label free workflow by simply adjusting the layout of droplets
+  * pPOP uses accessible consumables and small amounts of labels, which keeps cost to down to about 10-20 cents / single cell.   
 
 
-## Application
-Single-cell protein analysis using nPOP classified cells by cell type and by cell cycle phase. Furthermore, the data allowed us to quantify the covariation between cell cycle protein markers and thousands of proteins. Based on this covariation, we identify cell cycle associated proteins and functions that are shared across cell types and those that differ between cell types.   
+
+## Applications & data
+  *  [Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v2) used nPOP to prepare samples for [SCopE2](scope2) analysis of the cell division cycle of U937 and Hela cells. **[Leduc et al, 2021 data website](Leduc_et_al_2021)**
+  *  [Derks et al, 2022](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v2) used nPOP to prepare samples for [plexDIA](plexDIA) analysis of single  melanoma, monocyte and pancreatic adenocarcinoma cells. **[Derks et al, 2022 data website](Derks_et_al_2022)**
+  *  [Leduc et al, 2022](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3) used nPOP to prepare samples for [pSCopE](pscope) analysis of protein covariation in monocytes and melanoma cells. **[Leduc et al, 2022 data website](Leduc_et_al_2022)**
 
 
-<h2 style="letter-spacing: 2px; font-size: 26px;" id="raw_data" >Raw Data from experiments benchmarking nPOP</h2>
 
-* **MassIVE Repository:**
-  - [**http:**  MSV000082841](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=0374fefddfc64cb8b400f77e4c19536e)
-  - [**ftp:** &nbsp; MSV000082841](ftp://massive.ucsd.edu/MSV000087152)
-  - [**http:**  MSV000088167](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=2f82c5f336a441d7a7aee378d84f7a58)
-  - [**ftp:** &nbsp; MSV000088167](ftp://massive.ucsd.edu/MSV000088167)
-
-  &nbsp;
-
-  &nbsp;
-
-<h2 style="letter-spacing: 2px; font-size: 26px;" id="proc_data" >Processed Data from experiments benchmarking nPOP</h2>
-
-* [Peptides-raw.csv](https://drive.google.com/file/d/1cVEq5KIHdyhVfDObo31W2GbFH5XgDne8/view?usp=sharing)
-   - `Peptides` **x** `single cells` at 1% FDR.  The first columns list the peptide sequences and each subsequent column corresponds to a single cell. Peptide identification is based on spectra analyzed by [MaxQuant](https://www.maxquant.org/)  and is enhanced by using [DART-ID](https://dart-id.slavovlab.net/) to incorporate retention time information. See [Specht et al., 2019](https://www.biorxiv.org/content/10.1101/665307v3) for details.
-
-&nbsp;
-
-* [Proteins-processed.csv](https://drive.google.com/file/d/1LHyHfE0WoyVWbMyhYD1DtnpVxfRz5a79/view?usp=sharing)
-   - `Proteins` **x** `single cells` at 1% FDR, imputed and batch corrected.
-
-&nbsp;
-
-* [Cells.csv](https://drive.google.com/file/d/1PKaGrIOizIxx9zmrM7ShZYiTaM49p_9R/view?usp=sharing)
-   - `Annotation` **x**  `single cells`. Each column corresponds to a single cell and the rows include relevant metadata, such as, cell type, measurements from the isolation of the cell, and derivative quantities, i.e., rRI, CVs, reliability. This file corresponds to Proteins-processed.csv and Peptides-raw.csv files.
-
-&nbsp;
-
-
-* [HeLa-proteins.csv](https://drive.google.com/file/d/1BMj5YF_qVu34JXkcBn54GhdB2fS2-_0z/view?usp=sharing)
-   - `Proteins` **x** `single cells` for HeLa cells at 1% FDR, unimputed and z-scored.
-
-&nbsp;
-
-* [U-937-proteins.csv](https://drive.google.com/file/d/1BLNher4z0agGGoJjM2VRRGAGS077ONYi/view?usp=sharing)
-   - `Proteins` **x** `single cells` for U-937 cells at 1% FDR, unimputed and z-scored.
-
-&nbsp;
-
-
-* [CellCycle-Proteins.csv](https://drive.google.com/file/d/1BM4ffkpu0vW_9rfSnmkPwA66RTGKRd21/view?usp=sharing)
-   - A list of cell cycle dependent proteins used in analysis. Cell cycle protein and phases information was used from [Whitfield et al, 2002](http://genome-www.stanford.edu/Human-CellCycle/Hela/).
-
-&nbsp;
 
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="talks" >Recorded video presentations</h2>

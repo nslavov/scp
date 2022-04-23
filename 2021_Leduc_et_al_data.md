@@ -3,13 +3,13 @@ layout: default
 title: Leduc et al, 2021
 nav_order: 3.5
 permalink: Leduc_et_al_2021
-description: "Single-cell proteomics by SCoPE2 and nPOP | Slavov Laboratory"
+description: "Droplet sample preparation for single-cell proteomics applied to the cell cycle using nPOP and SCoPE2 | Slavov Laboratory"
 parent: Single-cell protein data
 ---
 {% include social-media-links.html %}
 
 
-## Article: [Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v1)
+## Article: [Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v2)
 <!-- **Peer reviewed article:** -->
 
 ### Single-cell proteomics method: [SCoPE2](https://scp.slavovlab.net/SCoPE2)
@@ -21,10 +21,14 @@ parent: Single-cell protein data
 &nbsp;
 
 
+
 [RAW Data](#raw_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Processed Data](#proc_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Videos](#talks){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
+
+## Application to the cell division cycle
+Single-cell protein analysis using nPOP classified cells by cell type and by cell cycle phase. Furthermore, the data allowed us to quantify the covariation between cell cycle protein markers and thousands of proteins. Based on this covariation, we identify cell cycle associated proteins and functions that are shared across cell types and those that differ between cell types.
 
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="raw_data" >Raw Data from experiments benchmarking nPOP</h2>
@@ -58,12 +62,12 @@ parent: Single-cell protein data
 
 
 * [HeLa-proteins.csv](https://drive.google.com/file/d/1BMj5YF_qVu34JXkcBn54GhdB2fS2-_0z/view?usp=sharing)
-   - `Proteins` **x** `single cells` for HeLa cells at 1% FDR, unimputed and z-scored.
+   - `Proteins` **x** `single cells` for HeLa cells at 1% FDR, non imputed and z-scored.
 
 &nbsp;
 
 * [U-937-proteins.csv](https://drive.google.com/file/d/1BLNher4z0agGGoJjM2VRRGAGS077ONYi/view?usp=sharing)
-   - `Proteins` **x** `single cells` for U-937 cells at 1% FDR, unimputed and z-scored.
+   - `Proteins` **x** `single cells` for U-937 cells at 1% FDR, non mputed and z-scored.
 
 &nbsp;
 
