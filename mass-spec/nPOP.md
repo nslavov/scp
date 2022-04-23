@@ -23,14 +23,10 @@ parent: Sample preparation
 
 &nbsp;
 
-
-
-**Table of Contents**
-
-1. [Introduction to droplet sample preparation for single-cell proteomics](#introduction)
-2. [Advantages of nPOP](#advantages-of-npop)
-3. [Applications](#applications-and-data)
-4. [Video presentations](#talks)
+[Introduction](#introduction){: .btn .fs-4 .mr-3 }
+[Advantages of nPOP](#advantages-of-npop){: .btn .fs-4 .mr-3 }
+[Applications](#applications-and-data){: .btn .fs-4 .mr-3 }
+[Videos](#talks){: .btn .fs-4 .mr-3 }
 
 
 ## Introduction
