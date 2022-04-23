@@ -49,6 +49,7 @@ The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to i
 
 A disadvantage of nPOP is that it uses an instrument, CellenONE, that while commercially available is not widely accessible.   
 
+&nbsp;
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="applications-and-data" >Applications & data</h2>
   *  [Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v2) used nPOP to prepare samples for [SCopE2](scope2) analysis of the cell division cycle of U937 and Hela cells. **[Leduc et al, 2021 data website](Leduc_et_al_2021)**
@@ -56,7 +57,9 @@ A disadvantage of nPOP is that it uses an instrument, CellenONE, that while comm
   *  [Leduc et al, 2022](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3) used nPOP to prepare samples for [pSCopE](pscope) analysis of protein covariation in monocytes and melanoma cells. **[Leduc et al, 2022 data website](Leduc_et_al_2022)**
 
 
+&nbsp;
 
+&nbsp;
 
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="talks" >Recorded video presentations</h2>
