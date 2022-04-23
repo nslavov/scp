@@ -3,7 +3,7 @@ layout: default
 title: nPOP
 nav_order: 2
 permalink: nPOP
-description: "nano-ProteOmic droplet sample Preparation (nPOP) for single-cell proteomics by mass-spectrometry"
+description: "nano-ProteOmic droplet sample Preparation (nPOP) for single-cell proteomics by mass-spectrometry. Automated and high-throughput sample prep for proteomics"
 parent: Sample preparation
 
 ---
