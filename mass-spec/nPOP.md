@@ -38,13 +38,13 @@ The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to i
 
 
 ## Distinct aspects
-  * nPOP can prepare thousands of single cells in a single batch
+  1. nPOP can prepare thousands of single cells in a single batch
     - This minimizes the # of batches and associated technical covariation
-  * nPOP uses only mass-spec compatible chemicals and volumes below 20 nl
+  2. nPOP uses only mass-spec compatible chemicals and volumes below 20 nl
     - This results in very low contamination background
-  * nPOP layout of droplets is computationally programmable and thus very flexible
+  3. nPOP layout of droplets is computationally programmable and thus very flexible
     - Thus nPOP can used for all multiplexed or label free workflow without specialized consumables  
-  * nPOP uses accessible consumables and small amounts of labels  
+  4. nPOP uses accessible consumables and small amounts of labels  
     - This keeps cost to down to about 10-20 cents / single cell.
 
 
