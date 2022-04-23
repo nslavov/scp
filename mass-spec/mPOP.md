@@ -9,9 +9,8 @@ parent: Sample preparation
 ---
 {% include social-media-links.html %}
 
-# Minimal sample preparation
+# Minimal Proteomic sample preparation (mPOP)
 
-## Minimal ProteOmic sample Preparation (mPOP)
 
 &nbsp;
 
@@ -25,11 +24,12 @@ parent: Sample preparation
 
 **Table of Contents**
 
-1. [Abstract](#abstract)
-2. [RAW Data](#data)
+[Introduction](#abstract){: .btn .fs-4 .mr-3 }
+[RAW Data](#data){: .btn .fs-4 .mr-3 }
+[Videos](#talks){: .btn .fs-4 .mr-3 }
 
 
-## Abstract
+## Introduction
 
 A major limitation to applying quantitative LC-MS/MS proteomics to small samples, such as single cells, are the losses incurred during sample cleanup. To relieve this limitation, we developed a Minimal ProteOmic sample Preparation (mPOP) method for culture-grown mammalian cells. mPOP obviates cleanup and thus eliminates cleanup-related losses while expediting sample preparation and simplifying its automation. Bulk SILAC samples processed by mPOP or by conventional urea-based methods indicated that mPOP results in complete cell lysis and accurate relative quantification. mPOP can be easily intergraded with the Single Cell ProtEomics by Mass Spectrometry (SCoPE-MS) and with its second generation SCoPE2 as described in this [protocol](https://www.biorxiv.org/content/10.1101/2021.03.12.435034v1).
 
@@ -49,8 +49,11 @@ To increase the throughput and quantitative accuracy of single-cell protein anal
 
   &nbsp;
 
+
   &nbsp;
-## Talks
+
+
+<h2 style="letter-spacing: 2px; font-size: 26px;" id="talks" >Recorded video presentations</h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mz6Yq2XSu-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
