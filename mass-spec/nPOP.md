@@ -8,14 +8,8 @@ parent: Sample preparation
 
 ---
 {% include social-media-links.html %}
-# Droplet sample preparation
+# Droplet sample preparation (nPOP)
 
-## nano-ProteOmic sample Preparation (nPOP)
-
-&nbsp;
-
-
-[![nano-ProteOmic droplet sample Preparation (nPOP) method for single-cell proteomics by mass-spectrometry](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}][nPOP_Preprint]
 
 &nbsp;
 
@@ -23,6 +17,13 @@ parent: Sample preparation
 [bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3){: .btn .fs-5 .mr-4 }
 [nPOP @ protocols.io](https://www.protocols.io/view/npop-bwy7pfzn){: .btn .fs-5 .mr-4 }
 </span>
+
+
+[![nano-ProteOmic droplet sample Preparation (nPOP) method for single-cell proteomics by mass-spectrometry](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}][nPOP_Preprint]
+
+&nbsp;
+
+
 
 **Table of Contents**
 
