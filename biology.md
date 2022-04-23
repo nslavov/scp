@@ -22,29 +22,27 @@ Proteome biology
 [Reviews](#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
-------------
-
-
 &nbsp;
 
 
 ## Research areas
  * **Immunology**
-   - Macrophage polarization: [Specht et al, 2019](Specht_et_al_2019), [Huffman et al, 2019](Huffman_et_al_2022)
+   - Macrophage polarization: [Specht et al, 2019](Specht_et_al_2019), [Huffman et al, 2022](Huffman_et_al_2022)
 
  * **Normal physiology**
-   - Cell division cycle: [Leduc et al, 2011, 2012](Leduc_et_al_2022), [Derks et al, 2021](Derks_et_al_2021)
+   - Cell division cycle: [Leduc et al, 2011, 2012](Leduc_et_al_2022), [Derks et al, 2022](Derks_et_al_2022)
    - Post-transcriptional regulation: [Specht et al, 2019](Specht_et_al_2019)
 
  * **Cancer biology**
    - Drug resistance: [Leduc et al, 2012](Leduc_et_al_2022)
 
  * **Development**
-   - Stem cell differentiation: [Budnik et al, 2017](Budnik_et_al_2019)
-
-&nbsp;
+   - Stem cell differentiation: [Budnik et al, 2017](Budnik_et_al_2017)
 
 ------------
+
+
+&nbsp;
 
 
 ## Perspectives
@@ -52,15 +50,17 @@ Proteome biology
 * [Unpicking the proteome in single cells](https://www.science.org/doi/10.1126/science.aaz6695), *Science*
 * [Transformative Opportunities for Single-Cell Proteomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089608/), *Journal of Proteome Research*
 
+------------
+
 &nbsp;
 
 ## Reviews
 * [Single cell protein analysis for systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204083/),	*Essays in biochemistry*
 * [Scaling up single-cell proteomics](https://doi.org/10.1016/j.mcpro.2021.100179), *Molecular and Cellular Proteomics*
 
+------------
 
 
-&nbsp;
 
 &nbsp;
 
