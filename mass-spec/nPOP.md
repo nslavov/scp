@@ -36,11 +36,14 @@ parent: Sample preparation
 The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to isolate individual cells in 300 picoliter volumes and performs all subsequent preparation steps in small droplets on a fluorocarbon-coated slide. This design enables simultaneous sample preparation of thousands of single cells, including lysing, digesting, and labeling individual cells in volumes below 20 nl.
 
 ### Distinct aspects
-  * nPOP can prepare thousands of single cells in a single batch, thus minimizing the # of batches and associated technical covariation
-  * nPOP uses only mass-spec compatible chemicals and volumes below 20 nl, which results in very low contamination background
-  * nPOP is very flexible and can be adopted to any multiplexed or label free workflow by simply adjusting the layout of droplets
-  * pPOP uses accessible consumables and small amounts of labels, which keeps cost to down to about 10-20 cents / single cell.   
-
+  * nPOP can prepare thousands of single cells in a single batch
+    - This minimizes the # of batches and associated technical covariation
+  * nPOP uses only mass-spec compatible chemicals and volumes below 20 nl
+    - This results in very low contamination background
+  * nPOP layout of droplets is computationally programmable and thus very flexible
+    - Thus nPOP can used for all multiplexed or label free workflow without specialized consumables  
+  * nPOP uses accessible consumables and small amounts of labels  
+    - This keeps cost to down to about 10-20 cents / single cell. 
 
 
 ## Applications & data
