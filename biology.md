@@ -31,7 +31,7 @@ Proteome biology
 
  * **Normal physiology**
    - Cell division cycle: [Leduc et al, 2011, 2012](Leduc_et_al_2022), [Derks et al, 2022](Derks_et_al_2022)
-   - Post-transcriptional regulation: [Specht et al, 2019](Specht_et_al_2019)
+   - Post-transcriptional regulation: [Budnik et al, 2017](Budnik_et_al_2017), [Specht et al, 2019](Specht_et_al_2019)
 
  * **Cancer biology**
    - Drug resistance: [Leduc et al, 2012](Leduc_et_al_2022)
