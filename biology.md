@@ -1,21 +1,25 @@
 ---
 layout: default
-title: Single Cell Biology
+title: Single cell biology
 nav_order: 6
 description: "Single-cell biology research and results from the Slavov Laboratory | Proteome biology "
 permalink: biology
 ---
 {% include social-media-links.html %}
 
-# Single Cell Biology
+# Single cell biology
 
+<!--
 {: .fs-9 }
 Proteome biology
 {: .fs-6 .fw-300}
+-->
 
+&nbsp;
 
-[Perspectives]({{site.baseurl}}#perspectives){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Reviews]({{site.baseurl}}#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Research areas](Research-areas){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Perspectives](#perspectives){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Reviews](#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 ------------
@@ -24,7 +28,7 @@ Proteome biology
 &nbsp;
 
 
-## Biological areas of investigation
+## Research areas
  * **Immunology**
    - Macrophage polarization: [Specht et al, 2019](Specht_et_al_2019), [Huffman et al, 2019](Huffman_et_al_2022)
 
@@ -48,7 +52,7 @@ Proteome biology
 * [Unpicking the proteome in single cells](https://www.science.org/doi/10.1126/science.aaz6695), *Science*
 * [Transformative Opportunities for Single-Cell Proteomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089608/), *Journal of Proteome Research*
 
-
+&nbsp;
 
 ## Reviews
 * [Single cell protein analysis for systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204083/),	*Essays in biochemistry*
@@ -56,12 +60,14 @@ Proteome biology
 
 
 
+&nbsp;
+
+&nbsp;
 
 
 
 
-
-
+## Funding support
 The research reported here has been supported by funding from the [NIH Director's Award](https://projectreporter.nih.gov/project_info_description.cfm?aid=9167004&icde=31336575) by an [Allen Distinguished Investigator Award](https://alleninstitute.org/what-we-do/frontiers-group/distinguished-investigators/projects/tracking-proteome-dynamics-single-cells) from the Paul G. Allen Frontiers Group and by [CZI](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/).
 
  &nbsp;
