@@ -28,7 +28,7 @@ parent: Sample preparation
 **Table of Contents**
 
 1. [Introduction to droplet sample preparation for single-cell proteomics](#introduction)
-2. [Distinct aspects](#distinct-aspects)
+2. [Advantages of nPOP](#advantages-of-npop)
 3. [Applications](#applications-and-data)
 4. [Video presentations](#talks)
 
@@ -37,7 +37,7 @@ parent: Sample preparation
 The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to isolate individual cells in 300 picoliter volumes and performs all subsequent preparation steps in small droplets on a fluorocarbon-coated slide. This design enables simultaneous sample preparation of thousands of single cells, including lysing, digesting, and labeling individual cells in volumes below 20 nl.
 
 
-## Distinct aspects
+## Advantages of nPOP
   1. nPOP can prepare thousands of single cells in a single batch
      - This minimizes the # of batches and associated technical covariation
   2. nPOP uses only mass-spec compatible chemicals and volumes below 20 nl
@@ -47,6 +47,7 @@ The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to i
   4. nPOP uses accessible consumables and small amounts of labels  
      - This keeps cost to down to about 10-20 cents / single cell.
 
+A disadvantage of nPOP is that it uses an instrument, CellenONE, that while commercially available is not widely accessible.   
 
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="applications-and-data" >Applications & data</h2>
