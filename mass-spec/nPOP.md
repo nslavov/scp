@@ -47,7 +47,7 @@ The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to i
   4. **nPOP uses accessible consumables and small amounts of labels**  
      - This keeps costs down to about 10-20 cents / single cell.
 
-nPOP uses the CellenONE instrument, which is commercially available. If CellenONE is not available, one may use [mPOP](mPOP), which prepares only a few hundred single cells in parallel. Both mPOP and nPOP are fully compatible with all [mass-spectrometry methods](methods) described in this portal.
+nPOP uses the CellenONE instrument, which is commercially available. Without access to CellenONE, one may use [mPOP](mPOP), which can prepares a few hundred single cells in parallel. Both mPOP and nPOP are fully compatible with all [mass-spectrometry methods](methods) described in this portal.
 
 &nbsp;
 
