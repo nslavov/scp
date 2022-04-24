@@ -60,9 +60,11 @@ To increase the throughput and quantitative accuracy of single-cell protein anal
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="applications-and-data" >Applications & data</h2>
   *  [Specht et al, 2019](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v2) used mPOP to prepare samples for [SCopE2](scope2) analysis of the emergence of macrophage polarization. **[Specht et al, 2019 data website](Specht_et_al_2019)**
   *  [Petelski et al, 2021](https://doi.org/10.1038/s41596-021-00616-z) demonstrated mPOP as part of a Nature Protocol for [SCopE2](scope2) analysis. **[Petelski et al, 2021 data website](Petelski_et_al_2021)**  
-  * Data from experiments benchmarking mPOP by [Specht et al, 2018][mPOP_Preprint]
-    - [**http:**  MSV000082841](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=bfd7f21d718940fdbaccc0d58ad6b122)
-    - [**ftp:** &nbsp; MSV000082841](ftp://massive.ucsd.edu/MSV000082841)
+  * [Specht et al, 2018][mPOP_Preprint] developed mPOP and below are links to the data from benchmarking experiments demonstrating that:
+     1. mPOP efficiently extracts proteins from all cellular compartments and delivers them for mass-spec analysis
+     2. mPOP supports accurate and precise protein quantification consistent with quantification obtained from standard urea lysis  
+       - [**http:**  MSV000082841](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=bfd7f21d718940fdbaccc0d58ad6b122)
+       - [**ftp:** &nbsp; MSV000082841](ftp://massive.ucsd.edu/MSV000082841)
 
   &nbsp;
 
