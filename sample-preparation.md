@@ -18,7 +18,7 @@ Accurate and scalable single-cell protein analysis begins with an efficient and 
 
 &nbsp;
 
-[![Automated_single-cell_sample_preparation](https://sample-prep.slavovlab.net/assets/images/Automated_single-cell_sample_preparation.png){: width="90%" .center-image}](https://sample-prep.slavovlab.net)
+[![Automated_single-cell_sample_preparation](https://sample-prep.slavovlab.net/assets/images/Automated_single-cell_sample_preparation.png){: width="90%" .center-image}](https://sample-prep.slavovlab.net){: title"Accessible and scalable methods for single-cell sample preparation for mass-spectrometry proteomics" }
 
 
  &nbsp;   &nbsp;  &nbsp;   &nbsp; [Minimal sample preparation page](mPOP){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 .center} &nbsp;
