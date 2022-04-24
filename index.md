@@ -9,9 +9,9 @@ permalink: /
 
 # **Single Cell Proteomics**
 
-{: .fs-9 }
+{: .fs-9 .fw-300}
 Methods & Data
-{: .fs-6 .fw-300}
+
 
 ### Quantifying proteins in single cells with mass spectrometry
 
