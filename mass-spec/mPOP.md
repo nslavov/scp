@@ -39,7 +39,7 @@ A major limitation to applying quantitative LC-MS/MS proteomics to small samples
 
 ## Advantages of mPOP
   1. **mPOP uses equipment found in most laboratories**
-     - Easy to adopt and implement in most laboratories
+     - Easy to adopt and implement without specialized equipment
   2. **mPOP uses only mass-spec compatible chemicals**
      - No cleanup steps are needed
   3. **mPOP is easy automate**
@@ -56,11 +56,13 @@ To increase the throughput and quantitative accuracy of single-cell protein anal
 &nbsp;
 
 
-<h2 style="letter-spacing: 2px; font-size: 26px;" id="data" >Data from experiments benchmarking mPOP</h2>
 
-* **MassIVE Repository:**
-  - [**http:**  MSV000082841](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=bfd7f21d718940fdbaccc0d58ad6b122)
-  - [**ftp:** &nbsp; MSV000082841](ftp://massive.ucsd.edu/MSV000082841)
+<h2 style="letter-spacing: 2px; font-size: 26px;" id="applications-and-data" >Applications & data</h2>
+  *  [Specht et al, 2019](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v2) used mPOP to prepare samples for [SCopE2](scope2) analysis of the emergence of macrophage polarization. **[Specht et al, 2019 data website](Specht_et_al_2019)**
+  *  [Petelski et al, 2021](https://doi.org/10.1038/s41596-021-00616-z) demonstrated mPOP as part of a Nature Protocol for [SCopE2](scope2) analysis. **[Petelski et al, 2021 data website](Petelski_et_al_2021)**  
+  * Data from experiments benchmarking mPOP by [Specht et al, 2018][mPOP_Preprint]
+    - [**http:**  MSV000082841](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=bfd7f21d718940fdbaccc0d58ad6b122)
+    - [**ftp:** &nbsp; MSV000082841](ftp://massive.ucsd.edu/MSV000082841)
 
   &nbsp;
 
