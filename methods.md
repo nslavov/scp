@@ -16,13 +16,15 @@ This section organizes mass spectrometry methods for single-cell protein analysi
 
 ------------
 
+&nbsp;
+
 ## Shotgun single-cell proteomics
 [SCoPE-MS](SCoPE-MS) and its second version [SCoPE2](SCoPE2) can analyze thousands of proteins selected in order of their abundance in the samples.
 
 &nbsp;
 
 ## Prioritized single-cell proteomics
-[pSCoPE](pSCoPE) can analyze thousands of proteins selected in order of their priority for the biological questions and projects of interest.
+[pSCoPE](pSCoPE) can analyze thousands of proteins selected in order of their priority for the [biological](biology) questions and projects of interest.
 
 
 &nbsp;
@@ -30,3 +32,5 @@ This section organizes mass spectrometry methods for single-cell protein analysi
 
 ## Parallel analysis of both single cells and peptides
 [plexDIA](plexDIA) quantifies about a thousand proteins per single cell while parallelizing the analysis of both single cells and peptides. It does not use a carrier sample.
+
+&nbsp;
