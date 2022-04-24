@@ -14,8 +14,8 @@ parent: Mass-spec methods
  * Code available at: [github.com/SlavovLab/pSCoPE](https://github.com/SlavovLab/pSCoPE)
 
 ## Data Websites
- * [Huffman et al., 2022](https://scp.slavovlab.net/Huffman_et_al_2022)
- * [Leduc et al., 2022](https://scp.slavovlab.net/Leduc_et_al_2022)
+ * [Huffman et al., 2022](Huffman_et_al_2022)
+ * [Leduc et al., 2022](Leduc_et_al_2022)
 
  [![pSCoPE](Figs/pSCoPE.png){: width="50%" .center-image}][pSCoPE_Preprint]
 
