@@ -12,7 +12,7 @@ parent: Sample preparation
 &nbsp;
 
 
-# Droplet sample preparation (nPOP)
+# Droplet proteomic sample preparation (nPOP)
 
 
 &nbsp;
