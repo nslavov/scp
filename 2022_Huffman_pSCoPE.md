@@ -3,7 +3,7 @@ layout: default
 title: 2022, pSCoPE
 nav_order: 4
 permalink: pSCoPE
-description: "Prioritized Single-cell proteomics, pSCoPE | Slavov Laboratory"
+description: "Prioritized single-cell proteomics (pSCoPE) increases data completeness and proteome coverage. pSCoPE also enables targeted analysis of thousands of peptides of biological interest | Slavov Laboratory"
 parent: Mass-spec methods
 ---
 {% include social-media-links.html %}
@@ -14,10 +14,11 @@ parent: Mass-spec methods
  * Code available at: [github.com/SlavovLab/pSCoPE](https://github.com/SlavovLab/pSCoPE)
 
 ## Data Websites
- * [Huffman et al., 2022](https://scp.slavovlab.net/Huffman_et_al_2022)
- <!-- * [Leduc et al., 2022](https://scp.slavovlab.net/Leduc_et_al_2022) -->
+ * [Huffman et al., 2022](Huffman_et_al_2022)
+ * [Leduc et al., 2022](Leduc_et_al_2022)
 
-&nbsp;
+ [![pSCoPE](Figs/pSCoPE.png){: width="50%" .center-image}][pSCoPE_Preprint]
+
 
 &nbsp;
 
@@ -25,7 +26,7 @@ Major aims of single-cell proteomics include increasing the consistency, sensiti
 
 ---
 
-[![pSCoPE](Figs/pSCoPE.png){: width="50%" .center-image}](https://scp.slavovlab.net/pSCoPE)
+
 
 &nbsp;
 
@@ -49,7 +50,7 @@ pSCoPE is implemented as a module of MaxQuant.Live, starting with [version 2.1](
 
 &nbsp;
 
-[pSCoPE_Preprint]: https://www.biorxiv.org/content/10.1101/2022.03.16.484655v1 "Prioritized Single Cell ProtEomics by Mass-Spectrometry"
+[pSCoPE_Preprint]: https://www.biorxiv.org/content/10.1101/2022.03.16.484655v1 "Prioritized Single Cell ProtEomics by Mass-Spectrometry enables high-throughput targeted proteomics"
 
 &nbsp;
 
