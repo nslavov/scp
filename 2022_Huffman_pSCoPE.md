@@ -3,7 +3,7 @@ layout: default
 title: 2022, pSCoPE
 nav_order: 4
 permalink: pSCoPE
-description: "Prioritized Single-cell proteomics, pSCoPE | Slavov Laboratory"
+description: "Prioritized single-cell proteomics (pSCoPE) increases data completeness and proteome coverage. pSCoPE also enables targeted analysis of thousands of peptides of biological interest | Slavov Laboratory"
 parent: Mass-spec methods
 ---
 {% include social-media-links.html %}
