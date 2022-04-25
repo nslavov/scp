@@ -18,7 +18,7 @@ parent: Sample preparation
 
 <span class="text-center">
 [mPOP Article](https://www.biorxiv.org/content/10.1101/399774v1){: .btn .fs-5 .mr-4 }
-[mPOP Protocol](https://doi.org/10.1038/s41596-021-00616-z){: .btn .fs-5 .mr-4 }
+[Nature Protocol](https://doi.org/10.1038/s41596-021-00616-z){: .btn .fs-5 .mr-4 }
 [JoVE Protocol](https://www.jove.com/t/63802/single-cell-proteomics-preparation-for-mass-spectrometry-analysis?status=a65808k){: .btn .fs-5 .mr-4 }
 </span>
 
