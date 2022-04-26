@@ -64,7 +64,17 @@ nPOP uses the CellenONE instrument, which is commercially available. Without acc
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="talks" >Recorded video presentations</h2>
 
+### [YouTube Playlist](https://youtube.com/playlist?list=PLHLRxq8iKFsKQWxfn4uZppIwyhpYrY0Fd)
+
+&nbsp;
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DJ1U_KpMNcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+&nbsp;
+
+&nbsp;
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TwVn6sw9l24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
