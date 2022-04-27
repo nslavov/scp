@@ -43,7 +43,7 @@ A major limitation to applying quantitative LC-MS/MS proteomics to small samples
      - Easy to adopt and implement without specialized equipment
   2. **mPOP uses only mass-spec compatible chemicals**
      - No cleanup steps are needed
-  3. **mPOP is easy automate**
+  3. **mPOP is easy to automate**
      - Thus mPOP can prepare hundreds of single cells with little human handling
   4. **mPOP uses inexpensive and accessible consumables**  
      - This keeps costs below 1 USD / single cell.
