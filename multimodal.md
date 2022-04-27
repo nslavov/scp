@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Single cell biology
-nav_order: 7
-description: "Single-cell biology research and results from the Slavov Laboratory | Proteome biology "
-permalink: biology
+title: Multimodal analysis
+nav_order: 6
+description: "Single-cell multimodal analysis of biological systems from the Slavov Laboratory | Proteome biology "
+permalink: multimodal
+has_children: false
+nav_exclude: true
 ---
 {% include social-media-links.html %}
 
-# Single cell biology
+# Multimodal analysis
 
 <!--
 {: .fs-9 }
@@ -16,7 +18,7 @@ Proteome biology
 -->
 
 &nbsp;
-
+<!--
 [Research areas](Research-areas){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Perspectives](#perspectives){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Reviews](#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
