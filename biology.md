@@ -17,7 +17,7 @@ Proteome biology
 
 &nbsp;
 
-[Research areas](Research-areas){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Research areas](#research-areas){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Perspectives](#perspectives){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Reviews](#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
@@ -75,3 +75,7 @@ The research reported here has been supported by funding from the [NIH Director'
  &nbsp;
 
  &nbsp;  
+
+ &nbsp;
+
+ &nbsp;
