@@ -124,7 +124,7 @@
 
 body {
   position: relative;
-  padding-bottom: $sp-20;
+  padding-bottom: $sp-10;
 
   @include mq(md) {
     position: static;
