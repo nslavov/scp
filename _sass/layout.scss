@@ -91,9 +91,9 @@
     @include mq(md) {
       display: flex;
       justify-content: flex-end;
-      height: 80px;
+      height: 120px;
       padding-top: $sp-4;
-      padding-bottom: $sp-6;
+      padding-bottom: $sp-7;
       border-bottom: $border $border-color;
     }
   }
