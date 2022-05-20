@@ -91,9 +91,9 @@
     @include mq(md) {
       display: flex;
       justify-content: flex-end;
-      height: 120px;
+      height: 60px;
       padding-top: $sp-4;
-      padding-bottom: $sp-7;
+      padding-bottom: $sp-4;
       border-bottom: $border $border-color;
     }
   }
@@ -124,7 +124,7 @@
 
 body {
   position: relative;
-  padding-bottom: $sp-10;
+  padding-bottom: $sp-20;
 
   @include mq(md) {
     position: static;
