@@ -44,4 +44,4 @@ This section organizes computational pipelines for the analysis of single-cell p
 
 ## Pipelines by colleagues
  * Chris Vanderaa and Laurent Gatto have developed a Bioconductor package [scp](http://bioconductor.org/packages/release/bioc/html/scp.html) for manipulating, processing, and analyzing mass spectrometry-based single-cell proteomics data. The package implemented workflows from the [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954) using the 'QFeatures' package and added new functions.
- * Erwin Schoof and colleagues developed SCeptre, a Python pipeline used for processing data single-cell proteomics data generated using an isobaric carrier experimental design.
+ * Erwin Schoof and colleagues developed SCeptre, a Python pipeline used for processing single-cell proteomics data generated using an isobaric carrier experimental design.
