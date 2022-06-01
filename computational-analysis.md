@@ -20,7 +20,7 @@ This section organizes computational pipelines for the analysis of single-cell p
 
 
 ## SCoPE2 pipeline
-The [pipeline](https://github.com/SlavovLab/SCoPE2/tree/master/code) was developed to process the [SCoPE2](scope2) data from [Spech et al., 2019](Specht_et_al_2019), but with small modifications it has been used with [plexDIA](plexDIA) and [pSCoPE](pSCoPE) data as well.
+The [pipeline](https://doi.org/10.5281/zenodo.4339954) was developed to process the [SCoPE2](scope2) data from [Spech et al., 2019](Specht_et_al_2019), but with small modifications it has been used with [plexDIA](plexDIA) and [pSCoPE](pSCoPE) data as well.
 
 &nbsp;
 
