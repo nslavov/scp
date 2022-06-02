@@ -33,6 +33,6 @@ Accurate and scalable single-cell protein analysis begins with an efficient and 
 
 &nbsp;
 
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/chinY96ngi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/chinY96ngi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{: .center}
 
 &nbsp;
