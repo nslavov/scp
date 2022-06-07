@@ -35,8 +35,13 @@ The [pipeline](https://doi.org/10.5281/zenodo.4339954) was developed to process 
 
 ---
 
+## Community guidelines and recommendations
 
+Analyzing proteins from single cells by tandem mass spectrometry (MS) has become technically feasible. While such analysis has the potential to accurately quantify thousands of proteins across thousands of single cells, the accuracy and reproducibility of such results may be undermined by numerous factors affecting experimental design, sample preparation, data acquisition, and data analysis. Establishing community guidelines and standardized metrics will enhance rigor, data quality, and alignment between laboratories. The community has proposed best practices, quality controls, and data reporting guidelines to assist in the broad adoption of reliable quantitative workflows for single-cell proteomics.
 
+[>>](https://single-cell.net/guidelines)
+
+---
 
 &nbsp;
 
@@ -45,3 +50,10 @@ The [pipeline](https://doi.org/10.5281/zenodo.4339954) was developed to process 
 ## Pipelines by colleagues
  * Chris Vanderaa and Laurent Gatto have developed a Bioconductor package [scp](http://bioconductor.org/packages/release/bioc/html/scp.html) for manipulating, processing, and analyzing mass spectrometry-based single-cell proteomics data. The package implemented workflows from the [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954) using the 'QFeatures' package and added new functions.
  * Erwin Schoof and colleagues developed SCeptre, a Python pipeline used for processing single-cell proteomics data generated using an isobaric carrier experimental design.
+
+&nbsp;
+
+&nbsp;
+
+
+&nbsp;
