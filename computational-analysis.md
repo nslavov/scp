@@ -39,7 +39,7 @@ The [pipeline](https://doi.org/10.5281/zenodo.4339954) was developed to process 
 
 Analyzing proteins from single cells by tandem mass spectrometry (MS) has become technically feasible. While such analysis has the potential to accurately quantify thousands of proteins across thousands of single cells, the accuracy and reproducibility of such results may be undermined by numerous factors affecting experimental design, sample preparation, data acquisition, and data analysis. Establishing community guidelines and standardized metrics will enhance rigor, data quality, and alignment between laboratories. The community has proposed best practices, quality controls, and data reporting guidelines to assist in the broad adoption of reliable quantitative workflows for single-cell proteomics.
 
-[>>](https://single-cell.net/guidelines)
+[Best practices >>](https://single-cell.net/guidelines)
 
 ---
 
