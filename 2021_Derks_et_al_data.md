@@ -3,7 +3,7 @@ layout: default
 title: Derks et al, 2022
 nav_order: 5
 permalink: Derks_et_al_2022
-description: "Single-cell proteomics by data from multiplexed DIA, plexDIA | Slavov Laboratory"
+description: "Single-cell proteomics with plexDIA, a multiplexed DIA framework | Slavov Laboratory"
 parent: Single-cell protein data
 ---
 {% include social-media-links.html %}
