@@ -32,6 +32,14 @@ Current mass-spectrometry methods enable high-throughput proteomics of large sam
 
 ---
 
+&nbsp;
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GWHzvHGvUTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+&nbsp;
+
 [![plexDIA](Figs/plexDIA_3.png){: width="90%" .center-image}](https://plexdia.slavovlab.net/)
 
 
