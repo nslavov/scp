@@ -12,6 +12,7 @@ parent: Mass-spec methods
 
 ## Parallelized single-cell proteomics method by [Derks et al, 2021](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v2)
  * Code available at: [github.com/SlavovLab/plexDIA](https://github.com/SlavovLab/plexDIA) & [DIA-NN 1.8.1 release](https://github.com/vdemichev/DiaNN/releases/tag/1.8.1)
+ * **Peer reviewed article:** Derks, J., Leduc, A., Wallmann, G. *et al.* Increasing the throughput of sensitive proteomics by plexDIA. *Nat Biotechnol*  (2022). [10.1038/s41587-022-01389-w ](https://doi.org/10.1038/s41587-022-01389-w)
 
 ## Data Websites
  * [Derks et al., 2022](https://scp.slavovlab.net/Derks_et_al_2022)
@@ -30,6 +31,14 @@ plexDIA enables parallel analysis of both peptides and single cells, which allow
 Current mass-spectrometry methods enable high-throughput proteomics of large sample amounts, but proteomics of low sample amounts remains limited in depth and throughput. To increase the throughput of sensitive proteomics, we developed an experimental and computational framework, plexDIA, for simultaneously multiplexing the analysis of both peptides and samples. Multiplexed analysis with plexDIA increases throughput multiplicatively with the number of labels without reducing proteome coverage or quantitative accuracy. By using 3-plex nonisobaric mass tags, plexDIA enables quantifying 3-fold more protein ratios among nanogram-level samples. When applied to single human cells, plexDIA quantified about 1,000 proteins per cell and achieved 98% data completeness within a plexDIA set while using about 5 min of active chromatography per cell. These results establish a general framework for increasing the throughput of sensitive and quantitative protein analysis.
 
 ---
+
+&nbsp;
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GWHzvHGvUTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+&nbsp;
 
 [![plexDIA](Figs/plexDIA_3.png){: width="90%" .center-image}](https://plexdia.slavovlab.net/)
 
