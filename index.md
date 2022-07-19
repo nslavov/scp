@@ -42,6 +42,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 
 
 ## Perspectives
+* [Framework for multiplicative scaling of single-cell proteomics](https://www.nature.com/articles/s41587-022-01411-1), *Nature Biotechnology*
 * [Learning from natural variation across the proteomes of single cells](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001512), *PLOS Biology*
 * [Driving Single Cell Proteomics Forward with Innovation](https://pubmed.ncbi.nlm.nih.gov/34597050/), *Journal of Proteome Research*
 * [Unpicking the proteome in single cells](https://www.science.org/doi/10.1126/science.aaz6695), *Science*
