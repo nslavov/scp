@@ -10,7 +10,7 @@ parent: Single-cell protein data
 
 
 ## Article: [Derks et al, 2022](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v2)
-  **Peer reviewed article:** Derks, J., Leduc, A., Wallmann, G. *et al.* Increasing the throughput of sensitive proteomics by plexDIA. *Nat Biotechnol* (2022). [10.1038/s41587-022-01389-w ](https://doi.org/10.1038/s41587-022-01389-w)
+  **Peer reviewed article:** Derks, J., Leduc, A., Wallmann, G. *et al.* Increasing the throughput of sensitive proteomics by plexDIA. *Nat Biotechnol* (2022). [10.1038/s41587-022-01389-w ](https://doi.org/10.1038/s41587-022-01389-w), [Nature Research Briefing](https://rdcu.be/cSKRX)
 
 
 ### Single-cell proteomics method: [plexDIA](https://scp.slavovlab.net/plexDIA)
