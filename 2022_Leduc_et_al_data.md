@@ -65,6 +65,9 @@ parent: Single-cell protein data
 
 * [Processed Data](https://drive.google.com/drive/folders/12-H2a1mfSHZUGf8O50Cr0pPZ4zIDjTac?usp=sharing)
    - This folder contains all processed data necessary for performing the analysis, as well as outputs from analysis
+   - [Summary of all files](https://docs.google.com/spreadsheets/d/14bEk9BxUKUAb-hKaTRDUqbZMgt55Q-RE/edit#gid=996174492)
+   - Metadata: [Description of each cell](https://drive.google.com/file/d/12ITQN1ZX8QKAr7Es_y-AdVgsVNFDt5HY/view?usp=sharing)
+
 
 * [Supplementary Tables](https://drive.google.com/drive/folders/1224SUizVq1Vs1PJqkUFKvnUsxN7QUYvK?usp=sharing) with data: Tables 1 - 5
    - Supplementary tables from [Leduc et al.](Leduc_et_al_2022)
