@@ -18,7 +18,7 @@ parent: Sample preparation
 &nbsp;
 
 <span class="text-center">
-[bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3){: .btn .fs-5 .mr-4 }
+[bioRxiv Preprint][nPOP_Preprint]{: .btn .fs-5 .mr-4 }
 [nPOP @ protocols.io](https://www.protocols.io/view/npop-bwy7pfzn){: .btn .fs-5 .mr-4 }
 [GitHub](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mr-4 }
 [Q&A](https://groups.google.com/g/npop-sample-prep){: .btn .fs-5 .mr-4 }
