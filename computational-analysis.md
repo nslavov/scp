@@ -20,9 +20,13 @@ This section organizes computational pipelines for the analysis of single-cell p
 
 
 ## Pipelines for data processing
+### Pipelines from [Slavov Laboratory](https://slavovlab.net)
 * The [Scripts and Pipelines for Proteomics (SPP)](https://github.com/SlavovLab/SPP) provides computational utilities for single-cell proteomics data. The code originated from the [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954), which was abstracted and generalized so that it can be used for analyzing data from other projects, including data acquired by [plexDIA](plexDIA), [pSCoPE](pSCoPE), and other [mass-spec methods](methods) for single-cell proteomics.
-* The SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954) was developed to process the [SCoPE2](scope2) data from [Specht et al., 2019](Specht_et_al_2019), but with small modifications it has been used with [plexDIA](plexDIA) and [pSCoPE](pSCoPE) data as well.
-* [Pipelines by colleagues](#pipelines-by-colleagues).
+* The [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954) was developed to process the [SCoPE2](scope2) data from [Specht et al., 2019](Specht_et_al_2019) and it has been generalized in the SPP collection of scripts and pipelines.
+
+### Pipelines by colleagues
+ * Chris Vanderaa and Laurent Gatto have developed a Bioconductor package [scp](http://bioconductor.org/packages/release/bioc/html/scp.html) for manipulating, processing, and analyzing mass spectrometry-based single-cell proteomics data. The package implemented workflows from the [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954) using the 'QFeatures' package and added new functions.
+ * Erwin Schoof and colleagues developed SCeptre, a Python pipeline used for processing single-cell proteomics data generated using an isobaric carrier experimental design.
 
 &nbsp;
 
@@ -48,9 +52,7 @@ Analyzing proteins from single cells by tandem mass spectrometry (MS) has become
 
 
 
-## Pipelines by colleagues
- * Chris Vanderaa and Laurent Gatto have developed a Bioconductor package [scp](http://bioconductor.org/packages/release/bioc/html/scp.html) for manipulating, processing, and analyzing mass spectrometry-based single-cell proteomics data. The package implemented workflows from the [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954) using the 'QFeatures' package and added new functions.
- * Erwin Schoof and colleagues developed SCeptre, a Python pipeline used for processing single-cell proteomics data generated using an isobaric carrier experimental design.
+
 
 &nbsp;
 
