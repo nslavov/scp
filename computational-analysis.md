@@ -19,7 +19,7 @@ This section organizes computational pipelines for the analysis of single-cell p
 &nbsp;
 
 
-## Pipelines
+## Pipelines for data processing
 * The [Scripts and Pipelines for Proteomics (SPP)](https://github.com/SlavovLab/SPP) provides computational utilities for single-cell proteomics data. The code originated from the [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954), which was abstracted and generalized so that it can be used for analyzing data from other projects, including data acquired by [plexDIA](plexDIA), [pSCoPE](pSCoPE), and other [mass-spec methods](methods) for single-cell proteomics.
 * The SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954) was developed to process the [SCoPE2](scope2) data from [Specht et al., 2019](Specht_et_al_2019), but with small modifications it has been used with [plexDIA](plexDIA) and [pSCoPE](pSCoPE) data as well.
 * [Pipelines by colleagues](#pipelines-by-colleagues).
