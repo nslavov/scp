@@ -61,7 +61,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 * [Highlight of SCoPE-MS and mPOP](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40), *C&EN*
 * [Highlight of SCoPE-MS and nPOP](https://www.nature.com/articles/d41586-021-02530-6), *Nature*
 * [Highlight of SCoPE2](https://www.nature.com/articles/s41592-021-01243-y),  *Nature Methods*
-* [Technology feature at *Nature Methods*](https://www.nature.com/articles/s41592-019-0540-6)
+* [Technology feature](https://www.nature.com/articles/s41592-019-0540-6),  *Nature Methods*
 * [Single-cell proteomics for the Human Cell Atlas](https://news.northeastern.edu/2019/07/08/northeastern-university-proteomics-researcher-receives-grant-from-chan-zuckerberg-initiative-to-help-map-all-cells-in-the-human-body-to-better-understand-cancer-diabetes-and-other-diseases/)
 
 
