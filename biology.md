@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Single cell biology
+title: Biological applications
 nav_order: 7
 description: "Single-cell biology research and results from the Slavov Laboratory | Proteome biology "
 permalink: biology
 ---
 {% include social-media-links.html %}
 
-# Single cell biology
+# Biological projects using single-cell proteomics
 
 <!--
 {: .fs-9 }
