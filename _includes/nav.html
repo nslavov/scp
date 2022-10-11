@@ -14,7 +14,7 @@
               <ul class="navigation-list-child-list ">
                 {% for child in children_list %}
                   {% if child.parent == node.title %}
-                   {% unless node.nav_exclude %}
+                   {% unless node.nav_exclude %} <!--  Trying to exclude pages -->
                     <li class="navigation-list-item {% if page.url == child.url or page.parent == child.title %} active{% endif %}">
                       {% if page.url == child.url or page.parent == child.title %}
                         {% assign second_level_url = child.url | absolute_url %}
@@ -33,6 +33,7 @@
                         </ul>
                       {% endif %}
                     </li>
+                   {% endunless %} <!--   unless node.nav_exclude -->
                   {% endif %}
                 {% endfor %}
               </ul>
