@@ -14,6 +14,7 @@
               <ul class="navigation-list-child-list ">
                 {% for child in children_list %}
                   {% if child.parent == node.title %}
+                   {% unless node.nav_exclude %}
                     <li class="navigation-list-item {% if page.url == child.url or page.parent == child.title %} active{% endif %}">
                       {% if page.url == child.url or page.parent == child.title %}
                         {% assign second_level_url = child.url | absolute_url %}
