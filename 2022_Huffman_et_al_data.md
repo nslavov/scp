@@ -9,13 +9,14 @@ parent: Single-cell protein data
 {% include social-media-links.html %}
 
 
-## Article: [Huffman et al, 2022](https://www.biorxiv.org/content/10.1101/2022.03.16.484655v1)
+## Article: [Huffman et al, 2022, version 2](https://www.biorxiv.org/content/10.1101/2022.03.16.484655v2)
+* The data from [version 1](https://www.biorxiv.org/content/10.1101/2022.03.16.484655v1) are available at [Huffman et al, 2022, version 1](Huffman_et_al_2022_v1)
 <!-- **Peer reviewed article:** -->
 
 ### Single-cell proteomics method: [pSCoPE](pSCoPE)
 **Sample preparation method: [nPOP](nPOP)**
 
-### Model systems:  Primary murine bone marrow derived macrophages and a pancreatic ductal adenocarcinoma (PDAC) cell line.
+### Model systems:  Primary murine bone-marrow-derived macrophages, as well as HEK293 and melanoma cell lines.
 
 
 
@@ -32,20 +33,20 @@ parent: Single-cell protein data
 &nbsp;
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >pSCoPE data processed to ASCII text matrices</h2>
-<h3 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Benchmarking experiments: Figure 1b/e data</h3>
+<h3 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Benchmarking experiments: Figure 2a data, pSCoPE acquisition</h3>
 
-* [Peptides-raw.csv](https://drive.google.com/file/d/1gbbn_SgwaPYAYG3iiQqpEHSw34hpKp5M/view?usp=sharing)
+* [Peptides-raw.csv](https://drive.google.com/file/d/1ln3k08jrHS7IyMK0HBJ_0YMHYQ1Hx0fu/view?usp=sharing)
   - `Peptides` **x** `single cells` at 1% FDR.  The first 2 columns list the corresponding protein identifiers and peptide sequences and each subsequent column corresponds to a single cell. Peptide identification is based on spectra analyzed by [MaxQuant](https://www.maxquant.org/).
   <!-- See [Specht et al., 2019](https://www.biorxiv.org/content/10.1101/665307v3) for details. -->  
 
 &nbsp;
 
-* [Proteins-processed.csv](https://drive.google.com/file/d/1l1DvtdYrfj6rjq1TZKcsWqG4iYBOtpKq/view?usp=sharing)
+* [Proteins-processed.csv](https://drive.google.com/file/d/1l_oiiLFnQwlRwQprU2tOC-fOa9Gpjyhz/view?usp=sharing)
    - `Proteins` **x** `single cells` at 1% FDR, imputed and batch corrected.
 
 &nbsp;
 
-* [Cells.csv](https://drive.google.com/file/d/1J7sBHYwo5669w8igY4ldojPcLwuqX7I-/view?usp=sharing)
+* [Cells.csv](https://drive.google.com/file/d/1lQKsHj0C2ABbOG-IFO4lIdKPDnH2AJnf/view?usp=sharing)
    - `Annotation` **x**  `single cells`. Each row corresponds to a single cell annotated with relevant metadata, such as, cell type if known, measurements from the isolation of the cell, and derivative quantities, i.e., rRI, CVs, reliability.
 
 &nbsp;
@@ -63,20 +64,38 @@ parent: Single-cell protein data
 <!--* [Signal-to-noise data](https://drive.google.com/file/d/16dmI7qNdpJlPOn83dOZFhHfXv0du5Dip/view?usp=sharing)
   - `Peptides` and `Proteins` **x** `single cells` at 1% FDR.  The first 2 columns list the corresponding protein identifiers and peptide sequences and each subsequent column corresponds to a single cell. The quantitation is the Signal-to-noise (S/N) ratio for each single cell's corresponding reporter ion extracted from the RAW file. The single cell identification numbers are [mapped](https://drive.google.com/file/d/1PUfiGhmInYP3JW5Xoul7Tikl9RSHyQcN/view?usp=sharing) to cell type and RAW file. Complete extracted S/N for each RAW file can be found [here](https://drive.google.com/drive/folders/18_BQ15_JQKzbDt1JZo36MaJuOhN3tJCX?usp=sharing).  -->
 
-<h3 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Benchmarking experiments: Figure 1c/d data</h3>
+<h3 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Benchmarking experiments: Figure 2b/c/d/e data, pSCoPE acquisition</h3>
 
-* [Peptides-raw.csv](https://drive.google.com/file/d/1VS-ko7rDsy0t2V5JNfB049txTLpzGPr0/view?usp=sharing)
+* [Peptides-raw.csv](https://drive.google.com/file/d/1klNkkwmZGGbSN_7-PSW0B3Npm7f61mej/view?usp=sharing)
   - `Peptides` **x** `single cells` at 1% FDR.  The first 2 columns list the corresponding protein identifiers and peptide sequences and each subsequent column corresponds to a single cell. Peptide identification is based on spectra analyzed by [MaxQuant](https://www.maxquant.org/).
   <!-- See [Specht et al., 2019](https://www.biorxiv.org/content/10.1101/665307v3) for details. -->
 
 &nbsp;
 
-* [Proteins-processed.csv](https://drive.google.com/file/d/1PSg-FA5eqYeLEekVZ8Yr_nx902K4Aink/view?usp=sharing)
+* [Proteins-processed.csv](https://drive.google.com/file/d/1klrNDcw9D3DFTwSD8YuuNj2iVYLjIxXx/view?usp=sharing)
    - `Proteins` **x** `single cells` at 1% FDR, imputed and batch corrected.
 
 &nbsp;
 
-* [Cells.csv](https://drive.google.com/file/d/1z6vah8XfzqxEM62oFMmGP7q7UDYhfS6D/view?usp=sharing)
+* [Cells.csv](https://drive.google.com/file/d/1kj78MqYLuuGNGrrbdo6yn6rcYrW1VFh_/view?usp=sharing)
+   - `Annotation` **x**  `single cells`. Each row corresponds to a single cell annotated with relevant metadata, such as, cell type if known, measurements from the isolation of the cell, and derivative quantities, i.e., rRI, CVs, reliability.
+
+&nbsp;
+
+<h3 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Benchmarking experiments: Figure 2a/b/c/d data, Shotgun acquisition</h3>
+
+* [Peptides-raw.csv](https://drive.google.com/file/d/1lwTcbxCtzFeSLWQZVkSR_9-tXmTP67zc/view?usp=sharing)
+  - `Peptides` **x** `single cells` at 1% FDR.  The first 2 columns list the corresponding protein identifiers and peptide sequences and each subsequent column corresponds to a single cell. Peptide identification is based on spectra analyzed by [MaxQuant](https://www.maxquant.org/).
+  <!-- See [Specht et al., 2019](https://www.biorxiv.org/content/10.1101/665307v3) for details. -->
+
+&nbsp;
+
+* [Proteins-processed.csv](https://drive.google.com/file/d/1m1jxJavwqxEv11hOVhwiGOlCP_6Lg4l6/view?usp=sharing)
+   - `Proteins` **x** `single cells` at 1% FDR, imputed and batch corrected.
+
+&nbsp;
+
+* [Cells.csv](https://drive.google.com/file/d/1lrItjbGeBwlqblG1Vx4Mk8fta0lSbyU7/view?usp=sharing)
    - `Annotation` **x**  `single cells`. Each row corresponds to a single cell annotated with relevant metadata, such as, cell type if known, measurements from the isolation of the cell, and derivative quantities, i.e., rRI, CVs, reliability.
 
 &nbsp;
@@ -84,7 +103,7 @@ parent: Single-cell protein data
 <!-- * [sdrf_meta_data.tsv](https://drive.google.com/file/d/1T8BTfNDlYQkBTs8La6YRSCyD1RwNTvqk/view?usp=sharing)
    -  Meta data following the [Sample to Data file format (SDRF) for Proteomics project guidelines](https://github.com/bigbio/proteomics-metadata-standard) for  for all single cells used in analysis constituting all figures. -->  
 
-<h3 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Bone-marrow-derived macrophage experiments: Figures 2, 3, and 4</h3>
+<h3 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Bone-marrow-derived macrophage experiments: Figures 4, 5, and 6</h3>
 
 * [Peptides-raw.csv](https://drive.google.com/file/d/1mCNeDcxUT5eWKwSruC-aThnKM9PNtEcO/view?usp=sharing)
   - `Peptides` **x** `single cells` at 1% FDR.  The first 2 columns list the corresponding protein identifiers and peptide sequences and each subsequent column corresponds to a single cell. Peptide identification is based on spectra analyzed by [MaxQuant](https://www.maxquant.org/)  and is enhanced by using [DART-ID](https://dart-id.slavovlab.net/) to incorporate retention time information.
@@ -120,7 +139,7 @@ parent: Single-cell protein data
 
 &nbsp;
 
-* [Additional data files](https://drive.google.com/file/d/1WRVpDCJPxYjfOX-QWvoq86RqfKbmVfGc/view?usp=sharing) necessary for generating figures from the pSCoPE preprint.
+* [Additional data files](https://drive.google.com/file/d/1MDbBtue0UgI6qhAHeiXW-YnIk4ONHqST/view?usp=sharing) necessary for generating figures from the pSCoPE preprint.
 <!-- [SCoPE2 article](https://doi.org/10.1101/665307). -->
 
 
@@ -138,11 +157,11 @@ The Massive repository below contains RAW mass-spectrometry data files generated
 
 <!--* [MaxQuant results descriptions](https://drive.google.com/open?id=1qXThKpGPx1tBcxvYFvNM0zCSeyILDzE6) -->
 
-* [Raw file descriptions](https://docs.google.com/spreadsheets/d/1EoBFPIgXXSYqP5khTAp7LMG75HYGK2uT/edit?usp=sharing&ouid=109814487119977139380&rtpof=true&sd=true)
+* [Raw file descriptions](https://docs.google.com/spreadsheets/d/1EoBFPIgXXSYqP5khTAp7LMG75HYGK2uT/edit?usp=sharing&rtpof=true&sd=true)
 
 * **MassIVE Repository:**
-  - [**http:**  MSV000089055](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=b15cafc7489147e99b93bd7c718388b2)
-  - [**ftp:** &nbsp; MSV000089055](ftp://massive.ucsd.edu/MSV000089055/)
+  - [**http:**  MSV000090383](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=76188b5c13714a6da059d2845fca1c64)
+  - [**ftp:** &nbsp; MSV000090383](ftp://massive.ucsd.edu/MSV000090383/)
 
 <!-- * **MassIVE Repository 2:**
   - [**http:**  MSV000084660](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?accession=MSV000084660)
