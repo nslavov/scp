@@ -11,7 +11,7 @@ nav_exclude: true
 
 
 ## Article: [Huffman et al, 2022, version 1](https://www.biorxiv.org/content/10.1101/2022.03.16.484655v1)
-* * The data from [version 2](https://www.biorxiv.org/content/10.1101/2022.03.16.484655v2) are available at [Huffman et al, 2022, version 2](Huffman_et_al_2022)
+* The data from [version 2](https://www.biorxiv.org/content/10.1101/2022.03.16.484655v2) are available at [Huffman et al, 2022, version 2](Huffman_et_al_2022)
 <!-- **Peer reviewed article:** -->
 
 ### Single-cell proteomics method: [pSCoPE](pSCoPE)
