@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2017, HIquant
-nav_order: 4
+nav_order: 1
 permalink: HIquant
 description: "Quantifying homologous proteins and proteoforms from bottom up mass-spectrometry data | Slavov Laboratory"
 parent: Computational analysis
