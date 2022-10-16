@@ -38,7 +38,7 @@ HIquant is available as a python package from [github.com/SlavovLab/HIquant](htt
 
 &nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SP0x3gAALtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r1ZqvU0JVug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;  
 
