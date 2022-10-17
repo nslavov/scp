@@ -9,6 +9,10 @@ has_children: true
 {% include social-media-links.html %}
 
 # Analysis of single-cell proteomics data
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the section header
+{:toc}
 
 &nbsp;
 
@@ -49,14 +53,5 @@ Analyzing proteins from single cells by tandem mass spectrometry (MS) has become
 ---
 
 &nbsp;
-
-
-
-
-
-&nbsp;
-
-&nbsp;
-
 
 &nbsp;
