@@ -13,7 +13,7 @@ parent: Mass-spec methods
 ## Parallelized single-cell proteomics method by [Derks et al, 2021](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v2)
  * Code available at: [github.com/SlavovLab/plexDIA](https://github.com/SlavovLab/plexDIA) & [DIA-NN 1.8.1 release](https://github.com/vdemichev/DiaNN/releases/tag/1.8.1)
  * **Peer reviewed article:** Derks, J., Leduc, A., Wallmann, G. *et al.* Increasing the throughput of sensitive proteomics by plexDIA. *Nat Biotechnol*  (2022). [10.1038/s41587-022-01389-w](https://doi.org/10.1038/s41587-022-01389-w), [Research Briefing](https://www.nature.com/articles/s41587-022-01411-1)
-  * **Perspective:**  Derks, J., Slavov N., Strategies for increasing the depth and throughput of protein analysis by plexDIA,  [10.1101/2022.11.05.515287](https://doi.org/10.1101/2022.11.05.515287)
+  * **Perspective:**  Derks, J., Slavov N., Strategies for increasing the depth and throughput of protein analysis by plexDIA,  [10.1101/2022.11.05.515287](https://doi.org/10.1101/2022.11.05.515287), [GitHub](https://github.com/SlavovLab/plexDIA_perspective)
 
 
 ## Data Websites
