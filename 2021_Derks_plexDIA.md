@@ -51,7 +51,7 @@ Current mass-spectrometry methods enable high-throughput proteomics of large sam
 
 ## plexDIA Perspective
 
-Derks, J., Slavov N., Strategies for increasing the depth and throughput of protein analysis by plexDIA, *bioRxiv* (2022). [10.1101/2022.11.05.515287](https://doi.org/10.1101/2022.11.05.515287)
+Derks, J., Slavov N., [Strategies for increasing the depth and throughput of protein analysis by plexDIA](https://www.biorxiv.org/content/10.1101/2022.11.05.515287v1), *bioRxiv* (2022). [10.1101/2022.11.05.515287](https://doi.org/10.1101/2022.11.05.515287), [PDF](https://www.biorxiv.org/content/10.1101/2022.11.05.515287v1.full.pdf)
  * [Code @ GitHub](https://github.com/SlavovLab/plexDIA_perspective)
  * [Data @ massIVE](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=6f609a85f7e24961bf6af1c592c2277d)
 
