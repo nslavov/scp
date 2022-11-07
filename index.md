@@ -19,6 +19,7 @@ Methods & Data
 [Perspectives]({{site.baseurl}}#perspectives){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Reviews]({{site.baseurl}}#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Highlights]({{site.baseurl}}#highlights){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Resources]({{site.baseurl}}#community-resources){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
 ------------
@@ -66,6 +67,9 @@ Each cell performs its biological functions by changing the abundance, localizat
 * [Single-cell proteomics for the Human Cell Atlas](https://news.northeastern.edu/2019/07/08/northeastern-university-proteomics-researcher-receives-grant-from-chan-zuckerberg-initiative-to-help-map-all-cells-in-the-human-body-to-better-understand-cancer-diabetes-and-other-diseases/), *NEU News*
 
 
+## Community Resources
+* **White Paper:** [*Performing, benchmarking, and reporting single-cell proteomics experiments*](https://arxiv.org/abs/2207.10815), [preprint](https://doi.org/10.48550/arXiv.2207.10815), [Code](https://github.com/SlavovLab/SCP_recommendations), [Guidelines website](Guidelines Web)
+* **Protocols & Tutorials:** [Disseminating Portal](https://center.single-cell.net/single-cell-proteomics/dissemination)
 
 
 ## About
