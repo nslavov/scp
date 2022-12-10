@@ -15,13 +15,15 @@ parent: Mass-spec methods
  * **Peer reviewed article:** Derks, J., Leduc, A., Wallmann, G. *et al.* Increasing the throughput of sensitive proteomics by plexDIA. *Nat Biotechnol*  (2022). [10.1038/s41587-022-01389-w](https://doi.org/10.1038/s41587-022-01389-w), [Research Briefing](https://www.nature.com/articles/s41587-022-01411-1)
   * **Perspective:**  Derks, J., Slavov N., [Increasing the depth and throughput of plexDIA](#plexdia-perspective)
 
-## Analyzing plexDIA data
- * [Video tutorial on searching plexDIA data with DIA-NN](DIA-NN to analyze plexDIA data) | [Slides](https://plexdia.slavovlab.net/mass-spec/Searching-plexDIA-data-with-DIA-NN.pdf)
- * [Pipeline for processing plexDIA data](https://github.com/SlavovLab/SPP)
 
 ## Data Websites
  * [Derks et al., 2022](https://scp.slavovlab.net/Derks_et_al_2022)
  * [Leduc et al., 2022](Leduc_et_al_2022)
+
+
+## Analyzing plexDIA data
+  * [Video tutorial on searching plexDIA data with DIA-NN](DIA-NN to analyze plexDIA data), [Slides](https://plexdia.slavovlab.net/mass-spec/Searching-plexDIA-data-with-DIA-NN.pdf)
+  * [Pipeline for processing plexDIA data @ GitHub](https://github.com/SlavovLab/SPP)
 
 &nbsp;
 
