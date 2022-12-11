@@ -13,7 +13,7 @@ parent: Single-cell protein data
 **Peer reviewed article:**  Leduc, A., Huffman RG, Cantlon J, Khan S, Slavov N.
 Exploring functional protein covariation across single cells using nPOP *Genome Biology*  (2022)
 
-### Single-cell proteomics method: [pSCoPE](pSCoPE) and [plexDIA](plexDIA)
+### Single-cell proteomics methods: [pSCoPE](pSCoPE) and [plexDIA](plexDIA)
 **Sample preparation method: [nPOP](https://scp.slavovlab.net/nPOP)**
 
 ### Model systems:  Cell lines of monocytes (U937 cells) and melanoma cells.
