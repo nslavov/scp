@@ -16,9 +16,21 @@ parent: Sample preparation
 
 ## Massively parallel sample prep method by [Leduc et al, 2021][nPOP_Preprint]
  * Code available at: [github.com/SlavovLab/nPOP](https://github.com/SlavovLab/nPOP)
- * **Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N, [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5)
+ * **Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N, [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5), [Data Websites](#data-websites)
 <!--  * **Perspective:**  Slavov N., [Learning from natural variation across the proteomes of single cells](https://doi.org/10.1371/journal.pbio.3001512) -->
 
+
+<span class="text-center">
+[Research Article][nPOP_GeneomeBiology]{: .btn .fs-5 .mr-4 }
+[nPOP @ protocols.io](https://www.protocols.io/view/npop-bwy7pfzn){: .btn .fs-5 .mr-4 }
+[GitHub](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mr-4 }
+[Q&A](https://groups.google.com/g/npop-sample-prep){: .btn .fs-5 .mr-4 }
+</span>
+
+
+[![nano-ProteOmic droplet sample Preparation (nPOP) method for single-cell proteomics by mass-spectrometry](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}][nPOP_Preprint]
+
+&nbsp;
 
 ## Data Websites
  * [Leduc et al., 2021](Leduc_et_al_2021)
@@ -30,18 +42,6 @@ parent: Sample preparation
 &nbsp;
 
 
-<span class="text-center">
-[Research Article][nPOP_GeneomeBiology]{: .btn .fs-5 .mr-4 }
-[nPOP @ protocols.io](https://www.protocols.io/view/npop-bwy7pfzn){: .btn .fs-5 .mr-4 }
-[GitHub](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mr-4 }
-[Q&A](https://groups.google.com/g/npop-sample-prep){: .btn .fs-5 .mr-4 }
-</span>
-
-
-
-[![nano-ProteOmic droplet sample Preparation (nPOP) method for single-cell proteomics by mass-spectrometry](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}][nPOP_Preprint]
-
-&nbsp;
 
 [Introduction](#introduction){: .btn .fs-4 .mr-3 }
 [Advantages of nPOP](#advantages-of-npop){: .btn .fs-4 .mr-3 }
