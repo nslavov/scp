@@ -12,7 +12,8 @@ parent: Sample preparation
 &nbsp;
 
 # Minimal Proteomic sample preparation (mPOP)
-## Sample prep method by [Specht et al, 2018](https://www.biorxiv.org/content/10.1101/399774v1), [Data Websites](#data-websites)
+## Sample prep method by [Specht et al, 2018](https://www.biorxiv.org/content/10.1101/399774v1)
+* [Data Websites](#data-websites)
 
 &nbsp;
 
