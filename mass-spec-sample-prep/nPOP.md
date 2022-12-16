@@ -14,10 +14,17 @@ parent: Sample preparation
 
 # Droplet proteomic sample preparation (nPOP)
 
-## massively parallelized sample preparation method by [Leduc et al, 2021][nPOP_Preprint]
+## Massively parallel sample prep method by [Leduc et al, 2021][nPOP_Preprint]
  * Code available at: [github.com/SlavovLab/nPOP](https://github.com/SlavovLab/nPOP)
  * **Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N, [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5)
 <!--  * **Perspective:**  Slavov N., [Learning from natural variation across the proteomes of single cells](https://doi.org/10.1371/journal.pbio.3001512) -->
+
+
+## Data Websites
+ * [Leduc et al., 2021](Leduc_et_al_2021)
+ * [Derks et al., 2022](Derks_et_al_2022)
+ * [Leduc et al., 2022](Leduc_et_al_2022)
+ * [Huffman et al., 2022](Huffman_et_al_2022)
 
 
 &nbsp;
@@ -30,11 +37,6 @@ parent: Sample preparation
 [Q&A](https://groups.google.com/g/npop-sample-prep){: .btn .fs-5 .mr-4 }
 </span>
 
-
-## Data Websites
- * [Derks et al., 2022](https://scp.slavovlab.net/Derks_et_al_2022)
- * [Leduc et al., 2022](Leduc_et_al_2022)
- * [Huffman et al., 2022](Huffman_et_al_2022)
 
 
 [![nano-ProteOmic droplet sample Preparation (nPOP) method for single-cell proteomics by mass-spectrometry](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}][nPOP_Preprint]
