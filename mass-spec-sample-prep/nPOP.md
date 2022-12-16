@@ -15,8 +15,7 @@ parent: Sample preparation
 # Droplet proteomic sample preparation (nPOP)
 
 ## Massively parallel sample prep method by [Leduc et al, 2021][nPOP_Preprint]
- * Code available at: [github.com/SlavovLab/nPOP](https://github.com/SlavovLab/nPOP)
- * **Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N, [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5), [Data Websites](#data-websites)
+**Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N, [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5), [Data Websites](#data-websites)
 <!--  * **Perspective:**  Slavov N., [Learning from natural variation across the proteomes of single cells](https://doi.org/10.1371/journal.pbio.3001512) -->
 
 &nbsp;
