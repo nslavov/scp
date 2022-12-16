@@ -12,7 +12,7 @@ parent: Sample preparation
 &nbsp;
 
 # Minimal Proteomic sample preparation (mPOP)
-
+## Sample prep method by [Specht et al, 2018](https://www.biorxiv.org/content/10.1101/399774v1), [Data Websites](#data-websites)
 
 &nbsp;
 
@@ -25,6 +25,15 @@ parent: Sample preparation
 [![Minimal ProteOmic sample Preparation (mPOP) method for single-cell proteomics](Figs/mPOP_SamplePrep.png){: width="90%" .center-image}][mPOP_Preprint]
 
 &nbsp;
+
+## Data Websites
+ * [Specht et al., 2018](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=bfd7f21d718940fdbaccc0d58ad6b122)
+ * [Specht et al., 2019](Specht_et_al_2019)
+ * [Petelski et al., 2021](Petelski_et_al_2021)
+
+
+&nbsp;
+
 
 
 [Introduction](#abstract){: .btn .fs-4 .mr-3 }
