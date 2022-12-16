@@ -10,13 +10,13 @@ parent: Single-cell protein data
 
 
 ## Article: [Leduc et al, 2022](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3)
-**Peer reviewed article:**  Leduc, A., Huffman RG, Cantlon J, Khan S, Slavov N.
-Exploring functional protein covariation across single cells using nPOP *Genome Biology*  (2022)
+* Code available at: [github.com/SlavovLab/nPOP](https://github.com/SlavovLab/nPOP)
+* **Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N, [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5)
 
 ### Single-cell proteomics methods: [pSCoPE](pSCoPE) and [plexDIA](plexDIA)
 **Sample preparation method: [nPOP](https://scp.slavovlab.net/nPOP)**
 
-### Model systems:  Cell lines of monocytes (U937 cells) and melanoma cells.
+### Model systems:  Cell lines of monocytes (U937 cells) and melanoma cells (WM989-A6-G3).
 
 
 &nbsp;
@@ -31,7 +31,7 @@ Exploring functional protein covariation across single cells using nPOP *Genome 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="supp_tables" >Supplementary tables</h2>
 
 * [Supp Table 1: Data Organization](https://docs.google.com/spreadsheets/d/1wtPtyAX8wykhplSDhEvv4S6lJEMqTOkT/edit?usp=sharing&ouid=105737144695616543623&rtpof=true&sd=true)
-  - A table describing all data from nPOP paper including the MassIVE repository, proccessed data, and supplmental data
+  - A table describing all data from nPOP paper including the MassIVE repository, processed data, and supplemental data
 * [Supp Software 2: CellenONE instrument files](https://drive.google.com/drive/folders/14D_wmMCJRE5Zvf7XG-_nwKx4LY8FwQFu?usp=sharing)
   - All CellenONE software files needed for performing nPOP
 * [Supp Video 3: Video of Pickup](https://drive.google.com/file/d/1dYDNEFNUy6tT8Muw0C5UB8-QK0u1gfbV/view?usp=sharing)
@@ -42,12 +42,12 @@ Exploring functional protein covariation across single cells using nPOP *Genome 
   - Protein set enrichment analysis between melanoma sub-populations
 * [Supp Table 6: CDC analysis](https://docs.google.com/spreadsheets/d/1XFOsxSQF8zIROELmdGp3l1FRCzpq5I7l/edit?usp=sharing&ouid=105737144695616543623&rtpof=true&sd=true)
   - Cell cycle analysis containing differential proteins from bulk, proteins used to create CDC markers, proteins that correlate significantly to CDC phases, and protein set enrichment computed from CDC correlations
-* [Supp Table 7:  Melanoma subopulation analysis](https://docs.google.com/spreadsheets/d/1KAT2Xt0LlfNoB1MUkGRKZcrNWHuXEmyg/edit?usp=sharing&ouid=105737144695616543623&rtpof=true&sd=true)
+* [Supp Table 7:  Melanoma subpopulation analysis](https://docs.google.com/spreadsheets/d/1KAT2Xt0LlfNoB1MUkGRKZcrNWHuXEmyg/edit?usp=sharing&ouid=105737144695616543623&rtpof=true&sd=true)
   - Differentially abundant proteins between melanoma sub-populations and protein set enrichment analysis
 * [Supp Figures 8: Supplemental figures](https://drive.google.com/file/d/11Regaf55cxgbDdRzfoIbtuhxlC0T4vj-/view?usp=sharing)
   - The three supplemental figures from the paper
-* [Supp Data 9: Proccessed data](https://drive.google.com/file/d/1OlChCyz6HR_Z5Kc9Z4DrgvE1-DV74IMx/view?usp=sharing)
-  - Normalized and imputed protein x single cell matricies for pSCoPE and plexDIA data
+* [Supp Data 9: Processed data](https://drive.google.com/file/d/1OlChCyz6HR_Z5Kc9Z4DrgvE1-DV74IMx/view?usp=sharing)
+  - Normalized and imputed protein x single cell matrices for pSCoPE and plexDIA data
 
 
 
