@@ -26,6 +26,7 @@ parent: Sample preparation
 [nPOP @ protocols.io](https://www.protocols.io/view/npop-bwy7pfzn){: .btn .fs-5 .mr-4 }
 [GitHub](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mr-4 }
 [Q&A](https://groups.google.com/g/npop-sample-prep){: .btn .fs-5 .mr-4 }
+[Videos](#talks){: .btn .fs-5 .mr-4 }
 </span>
 
 
