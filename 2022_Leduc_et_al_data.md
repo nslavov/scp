@@ -12,6 +12,8 @@ parent: Single-cell protein data
 ## Article: [Leduc et al, 2022](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3)
 * Code available at: [github.com/SlavovLab/nPOP](https://github.com/SlavovLab/nPOP)
 * **Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N, [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5)
+ * **Perspective:**  Slavov N., [Learning from natural variation across the proteomes of single cells](https://doi.org/10.1371/journal.pbio.3001512), *PLoS Biology* 20(1): e3001512
+
 
 ### Single-cell proteomics methods: [pSCoPE](pSCoPE) and [plexDIA](plexDIA)
 **Sample preparation method: [nPOP](https://scp.slavovlab.net/nPOP)**
@@ -87,6 +89,7 @@ parent: Single-cell protein data
 
 &nbsp;
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ped9A3rsJdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;
 
