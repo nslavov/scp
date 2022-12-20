@@ -12,10 +12,18 @@ parent: Mass-spec methods
 
 ## Parallelized single-cell proteomics method by [Derks et al, 2021](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v2)
  * Code available at: [github.com/SlavovLab/plexDIA](https://github.com/SlavovLab/plexDIA) & [DIA-NN 1.8.1 release](https://github.com/vdemichev/DiaNN/releases/tag/1.8.1)
- * **Peer reviewed article:** Derks, J., Leduc, A., Wallmann, G. *et al.* Increasing the throughput of sensitive proteomics by plexDIA. *Nat Biotechnol*  (2022). [10.1038/s41587-022-01389-w ](https://doi.org/10.1038/s41587-022-01389-w), [Research Briefing](https://www.nature.com/articles/s41587-022-01411-1)
+ * **Peer reviewed article:** Derks, J., Leduc, A., Wallmann, G. *et al.* Increasing the throughput of sensitive proteomics by plexDIA. *Nat Biotechnol*  (2022). [10.1038/s41587-022-01389-w](https://doi.org/10.1038/s41587-022-01389-w), [Research Briefing](https://www.nature.com/articles/s41587-022-01411-1)
+  * **Perspective:**  Derks, J., Slavov N., [Increasing the depth and throughput of plexDIA](#plexdia-perspective)
+
 
 ## Data Websites
  * [Derks et al., 2022](https://scp.slavovlab.net/Derks_et_al_2022)
+ * [Leduc et al., 2022](Leduc_et_al_2022)
+
+
+## Analyzing plexDIA data
+  * [Video tutorial on searching plexDIA data with DIA-NN](DIA-NN to analyze plexDIA data), [Slides](https://plexdia.slavovlab.net/mass-spec/Searching-plexDIA-data-with-DIA-NN.pdf)
+  * [Pipeline for processing plexDIA data @ GitHub](https://github.com/SlavovLab/SPP)
 
 &nbsp;
 
@@ -38,12 +46,23 @@ Current mass-spectrometry methods enable high-throughput proteomics of large sam
 
 ---
 
+
 &nbsp;
 
-[![plexDIA](Figs/plexDIA_3.png){: width="90%" .center-image}](https://plexdia.slavovlab.net/)
+[![plexDIA](Figs/plexDIA_3.png){: width="80%" .center-image}](https://plexdia.slavovlab.net/) | [DIA-NN 1.8.1](https://github.com/vdemichev/DiaNN/releases/tag/1.8.1){: .fs-6} | [Research Briefing](https://www.nature.com/articles/s41587-022-01411-1){: .fs-6}
+
+--------
+
+&nbsp;
+
+## plexDIA Perspective
+
+Derks, J., Slavov N., [Strategies for increasing the depth and throughput of protein analysis by plexDIA](https://www.biorxiv.org/content/10.1101/2022.11.05.515287v1), *bioRxiv* (2022). [10.1101/2022.11.05.515287](https://doi.org/10.1101/2022.11.05.515287), [PDF](https://www.biorxiv.org/content/10.1101/2022.11.05.515287v1.full.pdf)
+ * [Code @ GitHub](https://github.com/SlavovLab/plexDIA_perspective)
+ * [Data @ massIVE](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=6f609a85f7e24961bf6af1c592c2277d)
 
 
-## Github release of [DIA-NN 1.8.1](https://github.com/vdemichev/DiaNN/releases/tag/1.8.1)
+Accurate protein quantification is key to identifying protein markers, regulatory relationships between proteins, and pathophysiological mechanisms. Realizing this potential requires sensitive and deep protein analysis of a large number of samples. Toward this goal, proteomics throughput can be increased by parallelizing the analysis of both precursors and samples using multiplexed data independent acquisition (DIA) implemented by the plexDIA framework. Here we demonstrate the improved precisions of RT estimates within plexDIA and how this enables more accurate protein quantification. plexDIA has demonstrated multiplicative gains in throughput, and these gains may be substantially amplified by improving the multiplexing reagents, data acquisition and interpretation. We discuss future directions for advancing plexDIA, which include engineering optimized mass-tags for high-plexDIA and developing algorithms that utilize the regular structures of plexDIA data to improve sensitivity, proteome coverage and quantitative accuracy. These advances in plexDIA will increase the throughput of functional proteomic assays, including quantifying protein conformations, turnover dynamics, modifications states and activities. The sensitivity of these assays will extend to single-cell analysis, thus enabling functional single-cell protein analysis.
 
 
 

@@ -3,12 +3,16 @@ layout: default
 title: Computational analysis
 nav_order: 4
 permalink: computational-analysis
-description: "Computational analysis pipelines for single-cell proteomics by mass-spectrometry"
-has_children: false
+description: "Computational analysis pipelines, tools and algorithms for single-cell proteomics by mass-spectrometry"
+has_children: true
 ---
 {% include social-media-links.html %}
 
 # Analysis of single-cell proteomics data
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the section header
+{:toc}
 
 &nbsp;
 
@@ -49,14 +53,5 @@ Analyzing proteins from single cells by tandem mass spectrometry (MS) has become
 ---
 
 &nbsp;
-
-
-
-
-
-&nbsp;
-
-&nbsp;
-
 
 &nbsp;

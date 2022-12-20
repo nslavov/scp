@@ -17,7 +17,8 @@ parent: Mass-spec methods
  * [Huffman et al., 2022](Huffman_et_al_2022)
  * [Leduc et al., 2022](Leduc_et_al_2022)
 
- [![pSCoPE](Figs/pSCoPE.png){: width="50%" .center-image}][pSCoPE_Preprint]
+ <!-- [![pSCoPE](Figs/pSCoPE.png){: width="50%" .center-image}][pSCoPE_Preprint] -->
+ [![pSCoPE](Figs/prioritized-proteomics-pSCoPE.png){: width="80%" .center-image}][pSCoPE_Preprint]
 
 
 &nbsp;

@@ -19,6 +19,7 @@ Methods & Data
 [Perspectives]({{site.baseurl}}#perspectives){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Reviews]({{site.baseurl}}#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Highlights]({{site.baseurl}}#highlights){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Resources]({{site.baseurl}}#community-resources){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
 ------------
@@ -41,6 +42,9 @@ Each cell performs its biological functions by changing the abundance, localizat
 ------------
 
 
+&nbsp;
+
+
 ## Perspectives
 * [Framework for multiplicative scaling of single-cell proteomics](https://www.nature.com/articles/s41587-022-01411-1), *Nature Biotechnology*
 * [Learning from natural variation across the proteomes of single cells](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001512), *PLOS Biology*
@@ -49,6 +53,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 * [Transformative Opportunities for Single-Cell Proteomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089608/), *Journal of Proteome Research*
 
 
+&nbsp;
 
 ## Reviews
 * [Single-cell protein analysis by mass spectrometry](https://doi.org/10.1016/j.cbpa.2020.04.018), *Current Opinion in Chemical Biology*
@@ -56,7 +61,10 @@ Each cell performs its biological functions by changing the abundance, localizat
 * [Scaling up single-cell proteomics](https://doi.org/10.1016/j.mcpro.2021.100179), *Molecular and Cellular Proteomics*
 
 
+&nbsp;
+
 ## Highlights
+* [Uncovering Proteomic Patterns One Cell at a Time](https://www.genengnews.com/topics/omics/uncovering-proteomic-patterns-one-cell-at-a-time/), *GEN*
 * [Highlight of plexDIA](https://www.nature.com/articles/s41592-022-01611-2), *Nature Methods*
 * [Highlight of SCoPE-MS and mPOP](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40), *C&EN*
 * [Highlight of SCoPE-MS and nPOP](https://www.nature.com/articles/d41586-021-02530-6), *Nature*
@@ -65,6 +73,19 @@ Each cell performs its biological functions by changing the abundance, localizat
 * [Single-cell proteomics for the Human Cell Atlas](https://news.northeastern.edu/2019/07/08/northeastern-university-proteomics-researcher-receives-grant-from-chan-zuckerberg-initiative-to-help-map-all-cells-in-the-human-body-to-better-understand-cancer-diabetes-and-other-diseases/), *NEU News*
 
 
+&nbsp;
+
+
+## Community Resources
+* **White Paper:** [*Performing, benchmarking, and reporting single-cell proteomics experiments*](https://arxiv.org/abs/2207.10815), [preprint](https://doi.org/10.48550/arXiv.2207.10815), [Code](https://github.com/SlavovLab/SCP_recommendations), [Guidelines website](Guidelines Web)
+* **Protocols & Tutorials:** [Disseminating Portal](https://center.single-cell.net/single-cell-proteomics/dissemination)
+
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 ## About
@@ -78,3 +99,6 @@ The research reported here has been supported by funding from the [NIH Director'
  &nbsp;
 
  &nbsp;  
+
+
+ &nbsp;

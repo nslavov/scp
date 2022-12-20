@@ -12,7 +12,8 @@ parent: Sample preparation
 &nbsp;
 
 # Minimal Proteomic sample preparation (mPOP)
-
+## Sample prep method by [Specht et al, 2018](https://www.biorxiv.org/content/10.1101/399774v1)
+* [Data Websites](#data-websites)
 
 &nbsp;
 
@@ -26,6 +27,15 @@ parent: Sample preparation
 
 &nbsp;
 
+## Data Websites
+ * [Specht et al., 2018](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=bfd7f21d718940fdbaccc0d58ad6b122)
+ * [Specht et al., 2019](Specht_et_al_2019)
+ * [Petelski et al., 2021](Petelski_et_al_2021)
+
+
+&nbsp;
+
+
 
 [Introduction](#abstract){: .btn .fs-4 .mr-3 }
 [Advantages of mPOP](#advantages-of-mpop){: .btn .fs-4 .mr-3 }
@@ -35,7 +45,7 @@ parent: Sample preparation
 
 ## Introduction
 
-A major limitation to applying quantitative LC-MS/MS proteomics to small samples, such as single cells, are the losses incurred during sample cleanup. To relieve this limitation, Minimal ProteOmic sample Preparation (mPOP) uses only mass-spectrometry compatible chemicals and thus obviates cleanup while expediting sample preparation and simplifying its automation. Bulk SILAC samples processed by mPOP or by conventional urea-based methods [demonstrated][mPOP_Preprint] that mPOP results in complete, unbiased cell lysis and accurate relative quantification. mPOP can be easily intergraded with all [methods](methods) for single-cell proteomics by mass-spectrometry. Details of its integration with [SCoPE2](scope2) are described in this [Nature protocol](https://www.biorxiv.org/content/10.1101/2021.03.12.435034v1).
+A major limitation to applying quantitative LC-MS/MS proteomics to small samples, such as single cells, are the losses incurred during sample cleanup. To relieve this limitation, **[Specht et al., 2018][mPOP_Preprint]** developed Minimal ProteOmic sample Preparation (mPOP). mPOP lyses cells by a freeze-heat cycle and uses only mass-spectrometry compatible chemicals, thus obviating sample cleanup. This approach expediting sample preparation in multi-well plates and simplifies its automation. Bulk SILAC samples processed by mPOP or by conventional urea-based methods [demonstrated][mPOP_Preprint] that mPOP results in complete, unbiased cell lysis and accurate relative quantification. mPOP can be easily intergraded with all [methods](methods) for single-cell proteomics by mass-spectrometry. Details of its integration with [SCoPE2](scope2) are described in a [Nature protocol](https://www.biorxiv.org/content/10.1101/2021.03.12.435034v1) and a [JoVE video protocol](https://www.jove.com/t/63802/single-cell-proteomics-preparation-for-mass-spectrometry-analysis?status=a65808k).
 
 
 ## Advantages of mPOP

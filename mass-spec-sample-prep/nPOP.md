@@ -14,20 +14,36 @@ parent: Sample preparation
 
 # Droplet proteomic sample preparation (nPOP)
 
+## Massively parallel sample prep method by [Leduc et al, 2021][nPOP_Preprint]
+**Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N, [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5), [Data Websites](#data-websites)
+<!--  * **Perspective:**  Slavov N., [Learning from natural variation across the proteomes of single cells](https://doi.org/10.1371/journal.pbio.3001512) -->
 
 &nbsp;
 
+
 <span class="text-center">
-[bioRxiv Preprint][nPOP_Preprint]{: .btn .fs-5 .mr-4 }
+[Research Article][nPOP_GeneomeBiology]{: .btn .fs-5 .mr-4 }
 [nPOP @ protocols.io](https://www.protocols.io/view/npop-bwy7pfzn){: .btn .fs-5 .mr-4 }
 [GitHub](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mr-4 }
 [Q&A](https://groups.google.com/g/npop-sample-prep){: .btn .fs-5 .mr-4 }
+[Videos](#talks){: .btn .fs-5 .mr-4 }
 </span>
 
 
 [![nano-ProteOmic droplet sample Preparation (nPOP) method for single-cell proteomics by mass-spectrometry](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}][nPOP_Preprint]
 
 &nbsp;
+
+## Data Websites
+ * [Leduc et al., 2021](Leduc_et_al_2021)
+ * [Derks et al., 2022](Derks_et_al_2022)
+ * [Leduc et al., 2022](Leduc_et_al_2022)
+ * [Huffman et al., 2022](Huffman_et_al_2022)
+
+
+&nbsp;
+
+
 
 [Introduction](#introduction){: .btn .fs-4 .mr-3 }
 [Advantages of nPOP](#advantages-of-npop){: .btn .fs-4 .mr-3 }
@@ -87,6 +103,7 @@ nPOP uses the CellenONE instrument, which is commercially available. Without acc
 
 
 [nPOP_Preprint]: https://doi.org/10.1101/2021.04.24.441211 "nano-ProteOmic droplet sample Preparation (nPOP) method for single-cell proteomics by mass-spectrometry"
+[nPOP_GeneomeBiology]: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5 "Exploring functional protein covariation across single cells using nPOP enabled single-cell proteomics by mass-spectrometry"
 
 
 
