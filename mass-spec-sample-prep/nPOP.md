@@ -23,7 +23,7 @@ parent: Sample preparation
 
 <span class="text-center">
 [Research Article][nPOP_GeneomeBiology]{: .btn .fs-5 .mr-4 }
-[nPOP @ protocols.io](https://www.protocols.io/view/npop-bwy7pfzn){: .btn .fs-5 .mr-4 }
+[nPOP @ protocols.io](https://dx.doi.org/10.17504/protocols.io.b67erhje){: .btn .fs-5 .mr-4 }
 [GitHub](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mr-4 }
 [Q&A](https://groups.google.com/g/npop-sample-prep){: .btn .fs-5 .mr-4 }
 [Videos](#talks){: .btn .fs-5 .mr-4 }
