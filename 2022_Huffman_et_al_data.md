@@ -109,6 +109,11 @@ parent: Single-cell protein data
 
 <h3 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Bone-marrow-derived macrophage experiments: Figures 4, 5, and 6</h3>
 
+* **Metadata:** [Cells.csv](https://drive.google.com/file/d/1OHEf8PQ7REerh0kFlnxj3bHFQ2HTmRKL/view?usp=sharing)
+   - `Annotation` **x**  `single cells`. Each row corresponds to a single cell annotated with relevant metadata, such as, cell type if known, measurements from the isolation of the cell, and derivative quantities, i.e., rRI, CVs, reliability.
+
+&nbsp;
+
 * [Peptides-raw.csv](https://drive.google.com/file/d/1mCNeDcxUT5eWKwSruC-aThnKM9PNtEcO/view?usp=sharing)
   - `Peptides` **x** `single cells` at 1% FDR.  The first 2 columns list the corresponding protein identifiers and peptide sequences and each subsequent column corresponds to a single cell. Peptide identification is based on spectra analyzed by [MaxQuant](https://www.maxquant.org/)  and is enhanced by using [DART-ID](https://dart-id.slavovlab.net/) to incorporate retention time information.
   <!-- See [Specht et al., 2019](https://www.biorxiv.org/content/10.1101/665307v3) for details. -->  
@@ -120,16 +125,10 @@ parent: Single-cell protein data
 
 &nbsp;
 
-* [Cells.csv](https://drive.google.com/file/d/1OHEf8PQ7REerh0kFlnxj3bHFQ2HTmRKL/view?usp=sharing)
-   - `Annotation` **x**  `single cells`. Each row corresponds to a single cell annotated with relevant metadata, such as, cell type if known, measurements from the isolation of the cell, and derivative quantities, i.e., rRI, CVs, reliability.
-
-&nbsp;
 
 <!-- * [sdrf_meta_data.tsv](https://drive.google.com/file/d/1T8BTfNDlYQkBTs8La6YRSCyD1RwNTvqk/view?usp=sharing)
    -  Meta data following the [Sample to Data file format (SDRF) for Proteomics project guidelines](https://github.com/bigbio/proteomics-metadata-standard) for  for all single cells used in analysis constituting all figures. -->
 
-
-&nbsp;
 <!-- * [DART-ID input](https://drive.google.com/drive/folders/1ohLco5KHX95jyXIZUAZDvrrbip1RzZ_1?usp=sharing) -->
 
 
@@ -145,11 +144,6 @@ parent: Single-cell protein data
 
 * [Additional data files](https://drive.google.com/file/d/1MDbBtue0UgI6qhAHeiXW-YnIk4ONHqST/view?usp=sharing) necessary for generating figures from the pSCoPE preprint.
 <!-- [SCoPE2 article](https://doi.org/10.1101/665307). -->
-
-
-&nbsp;
-
-
 
 
 
