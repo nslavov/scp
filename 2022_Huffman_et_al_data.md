@@ -32,8 +32,13 @@ parent: Single-cell protein data
 
 &nbsp;
 
-<h2 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >pSCoPE data processed to ASCII text matrices</h2>
+<h2 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Metadata and data processed to ASCII text matrices</h2>
 <h3 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Benchmarking experiments: Figure 2a data, pSCoPE acquisition</h3>
+
+* **Metadata:** [Cells.csv](https://drive.google.com/file/d/1lQKsHj0C2ABbOG-IFO4lIdKPDnH2AJnf/view?usp=sharing)
+   - `Annotation` **x**  `single cells`. Each row corresponds to a single cell annotated with relevant metadata, such as, cell type if known, measurements from the isolation of the cell, and derivative quantities, i.e., rRI, CVs, reliability.
+
+&nbsp;   
 
 * [Peptides-raw.csv](https://drive.google.com/file/d/1ln3k08jrHS7IyMK0HBJ_0YMHYQ1Hx0fu/view?usp=sharing)
   - `Peptides` **x** `single cells` at 1% FDR.  The first 2 columns list the corresponding protein identifiers and peptide sequences and each subsequent column corresponds to a single cell. Peptide identification is based on spectra analyzed by [MaxQuant](https://www.maxquant.org/).
@@ -44,10 +49,6 @@ parent: Single-cell protein data
 * [Proteins-processed.csv](https://drive.google.com/file/d/1l_oiiLFnQwlRwQprU2tOC-fOa9Gpjyhz/view?usp=sharing)
    - `Proteins` **x** `single cells` at 1% FDR, imputed and batch corrected.
 
-&nbsp;
-
-* [Cells.csv](https://drive.google.com/file/d/1lQKsHj0C2ABbOG-IFO4lIdKPDnH2AJnf/view?usp=sharing)
-   - `Annotation` **x**  `single cells`. Each row corresponds to a single cell annotated with relevant metadata, such as, cell type if known, measurements from the isolation of the cell, and derivative quantities, i.e., rRI, CVs, reliability.
 
 &nbsp;
 
@@ -66,6 +67,11 @@ parent: Single-cell protein data
 
 <h3 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Benchmarking experiments: Figure 2b/c/d/e data, pSCoPE acquisition</h3>
 
+* **Metadata:** [Cells.csv](https://drive.google.com/file/d/1kj78MqYLuuGNGrrbdo6yn6rcYrW1VFh_/view?usp=sharing)
+   - `Annotation` **x**  `single cells`. Each row corresponds to a single cell annotated with relevant metadata, such as, cell type if known, measurements from the isolation of the cell, and derivative quantities, i.e., rRI, CVs, reliability.
+
+&nbsp;
+
 * [Peptides-raw.csv](https://drive.google.com/file/d/1klNkkwmZGGbSN_7-PSW0B3Npm7f61mej/view?usp=sharing)
   - `Peptides` **x** `single cells` at 1% FDR.  The first 2 columns list the corresponding protein identifiers and peptide sequences and each subsequent column corresponds to a single cell. Peptide identification is based on spectra analyzed by [MaxQuant](https://www.maxquant.org/).
   <!-- See [Specht et al., 2019](https://www.biorxiv.org/content/10.1101/665307v3) for details. -->
@@ -77,12 +83,14 @@ parent: Single-cell protein data
 
 &nbsp;
 
-* [Cells.csv](https://drive.google.com/file/d/1kj78MqYLuuGNGrrbdo6yn6rcYrW1VFh_/view?usp=sharing)
+
+
+<h3 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Benchmarking experiments: Figure 2a/b/c/d data, Shotgun acquisition</h3>
+
+* **Metadata:** [Cells.csv](https://drive.google.com/file/d/1lrItjbGeBwlqblG1Vx4Mk8fta0lSbyU7/view?usp=sharing)
    - `Annotation` **x**  `single cells`. Each row corresponds to a single cell annotated with relevant metadata, such as, cell type if known, measurements from the isolation of the cell, and derivative quantities, i.e., rRI, CVs, reliability.
 
 &nbsp;
-
-<h3 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >Benchmarking experiments: Figure 2a/b/c/d data, Shotgun acquisition</h3>
 
 * [Peptides-raw.csv](https://drive.google.com/file/d/1lwTcbxCtzFeSLWQZVkSR_9-tXmTP67zc/view?usp=sharing)
   - `Peptides` **x** `single cells` at 1% FDR.  The first 2 columns list the corresponding protein identifiers and peptide sequences and each subsequent column corresponds to a single cell. Peptide identification is based on spectra analyzed by [MaxQuant](https://www.maxquant.org/).
@@ -95,10 +103,6 @@ parent: Single-cell protein data
 
 &nbsp;
 
-* [Cells.csv](https://drive.google.com/file/d/1lrItjbGeBwlqblG1Vx4Mk8fta0lSbyU7/view?usp=sharing)
-   - `Annotation` **x**  `single cells`. Each row corresponds to a single cell annotated with relevant metadata, such as, cell type if known, measurements from the isolation of the cell, and derivative quantities, i.e., rRI, CVs, reliability.
-
-&nbsp;
 
 <!-- * [sdrf_meta_data.tsv](https://drive.google.com/file/d/1T8BTfNDlYQkBTs8La6YRSCyD1RwNTvqk/view?usp=sharing)
    -  Meta data following the [Sample to Data file format (SDRF) for Proteomics project guidelines](https://github.com/bigbio/proteomics-metadata-standard) for  for all single cells used in analysis constituting all figures. -->  
