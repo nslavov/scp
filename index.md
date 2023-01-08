@@ -64,6 +64,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 &nbsp;
 
 ## Highlights
+* [Untangling the Complexities of Single Cell Protein Analysis](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/single-cell-technology/untangling-the-complexities-of-single-cell-protein-analysis/), *Precision Medicine*
 * [Uncovering Proteomic Patterns One Cell at a Time](https://www.genengnews.com/topics/omics/uncovering-proteomic-patterns-one-cell-at-a-time/), *GEN*
 * [Highlight of plexDIA](https://www.nature.com/articles/s41592-022-01611-2), *Nature Methods*
 * [Highlight of SCoPE-MS and mPOP](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40), *C&EN*
