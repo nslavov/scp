@@ -26,7 +26,7 @@ parent: Single-cell protein data
 [Supplementary tables](#supp_tables){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [RAW Data](#raw_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Code](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Protocol](https://www.protocols.io/view/highly-parallel-droplet-sample-preparation-for-sin-b8uyrwxw){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Protocol](https://dx.doi.org/10.17504/protocols.io.4r3l24r7qg1y/v3){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Processed Data](#proc_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Videos](#talks){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
