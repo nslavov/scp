@@ -23,6 +23,8 @@ parent: Sample preparation
 [JoVE Protocol](https://www.jove.com/t/63802/single-cell-proteomics-preparation-for-mass-spectrometry-analysis?status=a65808k){: .btn .fs-5 .mr-4 }
 </span>
 
+
+
 [![Minimal ProteOmic sample Preparation (mPOP) method for single-cell proteomics](Figs/mPOP_SamplePrep.png){: width="90%" .center-image}][mPOP_Preprint]
 
 &nbsp;
@@ -108,6 +110,8 @@ This project on developing an automated sample preparation method for single-cel
 
 
 [mPOP_Preprint]: https://doi.org/10.1101/399774 "Minimal ProteOmic sample Preparation (mPOP) method for single-cell proteomics by mass-spectrometry"
+
+<!-- Petelski, A. A., Slavov, N., Specht, H. Single-Cell Proteomics Preparation for Mass Spectrometry Analysis Using Freeze-Heat Lysis and an Isobaric Carrier. J. Vis. Exp. (190), e63802, doi:10.3791/63802 (2022). -->
 
 &nbsp;  
 
