@@ -23,10 +23,11 @@ parent: Sample preparation
 
 <span class="text-center">
 [Research Article][nPOP_GeneomeBiology]{: .btn .fs-5 .mr-4 }
-[nPOP @ protocols.io](https://dx.doi.org/10.17504/protocols.io.b67erhje){: .btn .fs-5 .mr-4 }
+[nPOP @ protocols.io](https://www.protocols.io/view/highly-parallel-droplet-sample-preparation-for-sin-b8uyrwxw){: .btn .fs-5 .mr-4 }
 [GitHub](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mr-4 }
 [Q&A](https://groups.google.com/g/npop-sample-prep){: .btn .fs-5 .mr-4 }
 [Videos](#talks){: .btn .fs-5 .mr-4 }
+
 </span>
 
 
@@ -46,6 +47,7 @@ parent: Sample preparation
 
 
 [Introduction](#introduction){: .btn .fs-4 .mr-3 }
+[Resources](#Resources){: .btn .fs-4 .mr-3 }
 [Advantages of nPOP](#advantages-of-npop){: .btn .fs-4 .mr-3 }
 [Applications](#applications-and-data){: .btn .fs-4 .mr-3 }
 [Videos](#talks){: .btn .fs-4 .mr-3 }
@@ -53,6 +55,11 @@ parent: Sample preparation
 
 ## Introduction
 The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to isolate individual cells in 300 picoliter volumes and performs all subsequent preparation steps in small droplets on a fluorocarbon-coated slide. This design enables simultaneous sample preparation of thousands of single cells, including lysing, digesting, and labeling individual cells in volumes below 20 nl.
+
+## Resources
+The nPOP protocol can be found [here](https://www.protocols.io/view/highly-parallel-droplet-sample-preparation-for-sin-b8uyrwxw) and the cellenONE software files for performing sample prep can be found [here](https://drive.google.com/drive/folders/1EBeHGCQksMt3jItFVPxf-POEYiXQ7mGs).
+
+Additionally, tools for mapping single cell image data from the cellenONE to sets run for LC/MS are available here on this [GitHub](https://github.com/Andrew-Leduc/CellenONE_mapper) page.
 
 
 ## Advantages of nPOP

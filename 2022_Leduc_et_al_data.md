@@ -26,7 +26,7 @@ parent: Single-cell protein data
 [Supplementary tables](#supp_tables){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [RAW Data](#raw_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Code](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Protocol](dx.doi.org/10.17504/protocols.io.b67erhje){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Protocol](https://www.protocols.io/view/highly-parallel-droplet-sample-preparation-for-sin-b8uyrwxw){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Processed Data](#proc_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Videos](#talks){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
@@ -46,10 +46,10 @@ parent: Single-cell protein data
   - Cell cycle analysis containing differential proteins from bulk, proteins used to create CDC markers, proteins that correlate significantly to CDC phases, and protein set enrichment computed from CDC correlations
 * [Supp Table 7:  Melanoma subpopulation analysis](https://docs.google.com/spreadsheets/d/1KAT2Xt0LlfNoB1MUkGRKZcrNWHuXEmyg/edit?usp=sharing&ouid=105737144695616543623&rtpof=true&sd=true)
   - Differentially abundant proteins between melanoma sub-populations and protein set enrichment analysis
-* [Supp Figures 8: Supplemental figures](https://drive.google.com/file/d/11Regaf55cxgbDdRzfoIbtuhxlC0T4vj-/view?usp=sharing)
-  - The three supplemental figures from the paper
-* [Supp Data 9: Processed data](https://drive.google.com/file/d/1OlChCyz6HR_Z5Kc9Z4DrgvE1-DV74IMx/view?usp=sharing)
-  - Normalized and imputed protein x single cell matrices for pSCoPE and plexDIA data
+* [Supp Figures 8: Supplemental figures](https://drive.google.com/file/d/1wPX_oLEiGAtCPjo2zeCG0nNp7njQcjkw/view?usp=share_link)
+  - Supplemental figures from the paper
+* [Supp Data 9: Processed data](https://drive.google.com/drive/folders/116XGOyPpn6g0qWz8i32ZU215kjSZm-KJ?usp=share_link)
+  - Searched data, processed data, and additional data files for completing analysis performed [Here](https://github.com/SlavovLab/nPOP)
 
 
 
@@ -72,7 +72,7 @@ parent: Single-cell protein data
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="proc_data" >Processed Data from experiments benchmarking nPOP</h2>
 
-* [Processed Data](https://drive.google.com/drive/folders/12-H2a1mfSHZUGf8O50Cr0pPZ4zIDjTac?usp=sharing)
+* [Processed Data](https://drive.google.com/drive/folders/116XGOyPpn6g0qWz8i32ZU215kjSZm-KJ?usp=share_link)
    - This folder contains all processed data necessary for performing the analysis, as well as outputs from analysis
 
    &nbsp;
