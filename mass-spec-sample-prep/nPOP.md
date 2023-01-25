@@ -21,14 +21,13 @@ parent: Sample preparation
 &nbsp;
 
 
-<span class="text-center">
+
 [Research Article][nPOP_GeneomeBiology]{: .btn .fs-5 .mr-4 }
 [nPOP @ protocols.io](https://www.protocols.io/view/highly-parallel-droplet-sample-preparation-for-sin-b8uyrwxw){: .btn .fs-5 .mr-4 }
 [GitHub](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mr-4 }
 [Q&A](https://groups.google.com/g/npop-sample-prep){: .btn .fs-5 .mr-4 }
 [Videos](#talks){: .btn .fs-5 .mr-4 }
 
-</span>
 
 
 [![nano-ProteOmic droplet sample Preparation (nPOP) method for single-cell proteomics by mass-spectrometry](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}][nPOP_Preprint]
