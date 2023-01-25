@@ -29,8 +29,10 @@ parent: Sample preparation
 [Videos](#talks){: .btn .fs-5 .mr-4 }
 
 
+&nbsp;
 
-[![nano-ProteOmic droplet sample Preparation (nPOP) method for single-cell proteomics by mass-spectrometry](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}][nPOP_Preprint]
+
+[![nano-ProteOmic droplet sample Preparation (nPOP) method for single-cell proteomics by mass-spectrometry](Figs/nPOP_SamplePrep.png){: width="90%" .center-image}][nPOP_GeneomeBiology]
 
 &nbsp;
 
