@@ -11,7 +11,7 @@ parent: Single-cell protein data
 
 ## Article: [Huffman et al, 2022, version 2](https://www.biorxiv.org/content/10.1101/2022.03.16.484655v2)
 * The data from [version 1](https://www.biorxiv.org/content/10.1101/2022.03.16.484655v1) are available at [Huffman et al, 2022, version 1](Huffman_et_al_2022_v1)
- * **Peer reviewed article:** Huffman RG, Leduc A, Wichmann C, ... and Slavov N, [Prioritized mass spectrometry increases the depth, sensitivity and data completeness of single-cell proteomics][pSCoPE_Nature-Methods]. *Nat Methods*  (2023). [10.1038/s41592-023-01830-1](https://doi.org/10.1038/s41592-023-01830-1)
+ * **Peer reviewed article:** Huffman RG, Leduc A, Wichmann C, ... and Slavov N, [Prioritized mass spectrometry increases the depth, sensitivity and data completeness of single-cell proteomics][pSCoPE_Nature-Methods]. *Nat Methods*, doi: [10.1038/s41592-023-01830-1](https://doi.org/10.1038/s41592-023-01830-1) (2023)
  * **Research Briefing:** [Extending the sensitivity, consistency and depth of single-cell proteomics](https://www.nature.com/articles/s41592-023-01786-2), [OA](https://rdcu.be/c9aAL)
 
 ### Single-cell proteomics method: [pSCoPE](pSCoPE)
