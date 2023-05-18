@@ -35,6 +35,6 @@ This section organizes mass spectrometry methods for single-cell protein analysi
 
 
 ## Parallel analysis of both single cells and peptides
-[plexDIA](plexDIA) quantifies about a thousand proteins per single cell while parallelizing the analysis of both single cells and peptides. It does not use a carrier sample.
+[plexDIA](plexDIA) can quantify thousands of proteins per single cell while parallelizing the analysis of both single cells and peptides. [Isotopologous carriers](https://pubs.acs.org/doi/10.1021/acs.jproteome.2c00721) can further increase the depth of proteome analysis.
 
 &nbsp;
