@@ -2,7 +2,7 @@
 layout: default
 title: Biological applications
 nav_order: 7
-description: "Single-cell biology research and results from the Slavov Laboratory | Proteome biology "
+description: "Single-cell biology and single-cell mass spectrometry proteomics research and results from the Slavov Laboratory | Proteome biology"
 permalink: biology
 ---
 {% include social-media-links.html %}
@@ -46,6 +46,7 @@ Proteome biology
 
 
 ## Perspectives
+* [Single-cell proteomics: quantifying post-transcriptional regulation](https://doi.org/10.1242/dev.201492), *Development*
 * [Learning from natural variation across the proteomes of single cells](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001512), *PLOS Biology*
 * [Unpicking the proteome in single cells](https://www.science.org/doi/10.1126/science.aaz6695), *Science*
 * [Transformative Opportunities for Single-Cell Proteomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089608/), *Journal of Proteome Research*
@@ -68,7 +69,7 @@ Proteome biology
 
 
 ## Funding support
-The research reported here has been supported by funding from the [NIH Director's Award](https://projectreporter.nih.gov/project_info_description.cfm?aid=9167004&icde=31336575) by an [Allen Distinguished Investigator Award](https://alleninstitute.org/what-we-do/frontiers-group/distinguished-investigators/projects/tracking-proteome-dynamics-single-cells) from the Paul G. Allen Frontiers Group and by [CZI](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/).
+The research reported here has been supported by funding from the [NIH Director's Award](https://projectreporter.nih.gov/project_info_description.cfm?aid=9167004&icde=31336575) by an [Allen Distinguished Investigator Award](https://alleninstitute.org/person/nikolai-slavov/) from the Paul G. Allen Frontiers Group and by [CZI](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/).
 
  &nbsp;
 
