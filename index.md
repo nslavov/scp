@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Single-cell proteomics methods and data from the Slavov Laboratory | Single-cell protein analysis by mass-spectrometry"
+description: "Single-cell proteomics methods and data from the Slavov Laboratory | Single-cell protein analysis by mass spectrometry"
 permalink: /
 ---
 {% include social-media-links.html %}
@@ -46,6 +46,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 
 
 ## Perspectives
+* [Sampling the proteome by emerging single-molecule and mass spectrometry methods](https://www.nature.com/articles/s41592-023-01802-5), *Nature Methods*
 * [Strategies for increasing the depth and throughput of protein analysis by plexDIA](https://pubs.acs.org/doi/10.1021/acs.jproteome.2c00721), *Journal of Proteome Research*
 * [Framework for multiplicative scaling of single-cell proteomics](https://www.nature.com/articles/s41587-022-01411-1), *Nature Biotechnology*
 * [Learning from natural variation across the proteomes of single cells](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001512), *PLOS Biology*
@@ -94,7 +95,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 This site provides resources and data for single-cell proteomics from the <a href="https://slavovlab.net">Slavov Laboratory</a>
 
 
-The research reported here has been supported by funding from the [NIH Director's Award](https://projectreporter.nih.gov/project_info_description.cfm?aid=9167004&icde=31336575) by an [Allen Distinguished Investigator Award](https://alleninstitute.org/what-we-do/frontiers-group/distinguished-investigators/projects/tracking-proteome-dynamics-single-cells) from the Paul G. Allen Frontiers Group and by [CZI](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/).
+The research reported here has been supported by funding from the [NIH Director's Award](https://projectreporter.nih.gov/project_info_description.cfm?aid=9167004&icde=31336575) by an [Allen Distinguished Investigator Award](https://alleninstitute.org/person/nikolai-slavov/) from the Paul G. Allen Frontiers Group and by [CZI](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/).
 
  &nbsp;
 
