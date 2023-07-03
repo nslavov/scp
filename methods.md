@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Mass-spec methods
+title: Mass spec methods
 nav_order: 2
 permalink: methods
-description: "Methods for single-cell proteomics by mass-spectrometry using multiplexed data dependent acquisition and data independent acquisition. Methods for accurate and high-throughput quantification of proteins in single mammalian cells"
+description: "Methods for single-cell proteomics by mass spectrometry using multiplexed data dependent acquisition and data independent acquisition. Methods for accurate and high-throughput quantification of proteins in single mammalian cells"
 has_children: true
 ---
 {% include social-media-links.html %}
