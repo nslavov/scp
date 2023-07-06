@@ -4,7 +4,7 @@ title: 2019, SCoPE2
 nav_order: 2
 permalink: SCoPE2
 description: "Single-cell proteomics by mass-spectrometry version 2, SCoPE2 | Slavov Laboratory"
-parent: Mass-spec methods
+parent: Mass spec methods
 ---
 {% include social-media-links.html %}
 
