@@ -24,7 +24,7 @@ Methods & Data
 
 ------------
 
-Each cell performs its biological functions by changing the abundance, localization, modifications and interactions of its proteins. Analyzing these processes requires quantifying proteins in single cells, which is the focus of this web portal. Its pages include both [single-cell proteomics methods](methods) and [data](data) from single mammalian cells, both primary cells and cell lines.  
+Each cell performs its biological functions by changing the abundance, localization, modifications and interactions of its proteins. Analyzing these processes at single-cell resolution requires quantifying proteins in single cells, which is the focus of this web portal. Its pages include [single-cell proteomics methods](methods), [computational analysis tools](computational-analysis), and [data and metadata](data) from single mammalian cells, both primary cells and cell lines.  
 
 
 
@@ -46,6 +46,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 
 
 ## Perspectives
+* [Extending the sensitivity, consistency and depth of single-cell proteomics](https://www.nature.com/articles/s41592-023-01786-2), *Nature Methods*
 * [Sampling the proteome by emerging single-molecule and mass spectrometry methods](https://www.nature.com/articles/s41592-023-01802-5), *Nature Methods*
 * [Strategies for increasing the depth and throughput of protein analysis by plexDIA](https://pubs.acs.org/doi/10.1021/acs.jproteome.2c00721), *Journal of Proteome Research*
 * [Framework for multiplicative scaling of single-cell proteomics](https://www.nature.com/articles/s41587-022-01411-1), *Nature Biotechnology*
@@ -58,9 +59,9 @@ Each cell performs its biological functions by changing the abundance, localizat
 &nbsp;
 
 ## Reviews
+* [Scaling up single-cell proteomics](https://doi.org/10.1016/j.mcpro.2021.100179), *Molecular and Cellular Proteomics*
 * [Single-cell protein analysis by mass spectrometry](https://doi.org/10.1016/j.cbpa.2020.04.018), *Current Opinion in Chemical Biology*
 * [Single cell protein analysis for systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204083/),	*Essays in biochemistry*
-* [Scaling up single-cell proteomics](https://doi.org/10.1016/j.mcpro.2021.100179), *Molecular and Cellular Proteomics*
 
 
 &nbsp;
