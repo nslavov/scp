@@ -12,7 +12,7 @@ has_children: true
 {:.no_toc}
 
 {: .fs-5 .fw-300}
-This section organizes computational pipelines for the analysis of single-cell proteomics data. These pipelines can be used with data generated from various [methods](methods) for single-cell proteomics.
+This section organizes computational pipelines for the analysis of single-cell proteomic and [proteogenomic](https://arxiv.org/abs/2308.07465) datasets. These pipelines can be used with the [data](data) and [methods](methods) of this portal.
 
 * Will be replaced with the ToC, excluding the section header
 {:toc}
