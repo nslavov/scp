@@ -9,7 +9,7 @@ parent: Single-cell protein data
 {% include social-media-links.html %}
 
 
-## Article: [Montalvo et al, 2022](https://www.biorxiv.org/content/10.1101/2023.08.11.552890v1)
+## Article: [Montalvo et al, 2023](https://www.biorxiv.org/content/10.1101/2023.08.11.552890v1)
 <!-- **Peer reviewed article:** -->
 
 ### Single-cell proteomics method: [SCoPE2](https://scp.slavovlab.net/SCoPE2)
