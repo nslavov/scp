@@ -21,6 +21,7 @@ This section organizes single-cell datasets from the [Slavov Laboratory](https:/
 
 ## Paired measurements
  * [Paired RNA and protein datasets from macrophages](Specht_et_al_2019)
+   - Methods: 10x Genomics, [SCoPE2](SCoPE2)
 
 
 &nbsp;
