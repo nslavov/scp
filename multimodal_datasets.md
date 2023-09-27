@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal datsets
+title: Datasets
 nav_order: 2
 description: "Single-cell multimodal datasets from the Slavov Laboratory | Proteome biology "
 permalink: datasets
