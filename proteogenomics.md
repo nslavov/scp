@@ -3,7 +3,7 @@ layout: default
 title: proteogenomics
 nav_order: 5
 description: "Single-cell proteogenomic analysis of biological systems from the Slavov Laboratory | Proteome biology "
-permalink: multimodal
+permalink: proteogenomics
 parent: Multimodal analysis
 nav_exclude: false
 ---
@@ -28,8 +28,8 @@ Biological functions stem from coordinated interactions among proteins, nucleic 
 
 ## Perspectives
 
-Leduc A,Harens H, Slavov N. (2023) [Modeling and interpretation of single-cell proteogenomic data](https://arxiv.org/abs/2308.07465) *arXiv*   doi: [10.48550/arXiv.2308.07465](
-https://doi.org/10.48550/arXiv.2308.07465),   [PDF](https://slavovlab.net/Slavov-Lab-Publications/2023_Proteogenomics.pdf)
+Leduc A,Harens H, Slavov N.  [Modeling and interpretation of single-cell proteogenomic data](https://arxiv.org/abs/2308.07465) *arXiv*   doi: [10.48550/arXiv.2308.07465](
+https://doi.org/10.48550/arXiv.2308.07465) (2023) [PDF](https://slavovlab.net/Slavov-Lab-Publications/2023_Proteogenomics.pdf)
 
 
 <!--
