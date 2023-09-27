@@ -1,7 +1,7 @@
 ---
 layout: default
-title: proteogenomics
-nav_order: 5
+title: Proteogenomics
+nav_order: 1
 description: "Single-cell proteogenomic analysis of biological systems from the Slavov Laboratory | Proteome biology "
 permalink: proteogenomics
 parent: Multimodal analysis
