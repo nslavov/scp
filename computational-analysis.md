@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Computational analysis
-nav_order: 4
+nav_order: 6
 permalink: computational-analysis
 description: "Computational analysis pipelines, tools and algorithms for single-cell proteomics by mass-spectrometry"
 has_children: true

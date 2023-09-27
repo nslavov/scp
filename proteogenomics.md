@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Multimodal analysis
+title: proteogenomics
 nav_order: 5
-description: "Single-cell multimodal analysis of biological systems from the Slavov Laboratory | Proteome biology "
+description: "Single-cell proteogenomic analysis of biological systems from the Slavov Laboratory | Proteome biology "
 permalink: multimodal
-has_children: true
+parent: Multimodal analysis
 nav_exclude: false
 ---
 {% include social-media-links.html %}
 
-# Multimodal analysis
+# Single-cell proteogenomics
 
 <!--
 {: .fs-9 }
@@ -19,9 +19,7 @@ Proteome biology
 
 &nbsp;
 
-Single-cell multimodal analysis techniques have also opened new opportunities for analyzing biological systems, such as quantifying [post-transcriptional regulation](https://doi.org/10.1371/journal.pcbi.1005535) at single-cell resolution.
-
-This section is devoted to methods that combine single-cell protein analysis with other omics analysis, such as single-cell RNA-seq.
+Biological functions stem from coordinated interactions among proteins, nucleic acids and small molecules. Mass spectrometry technologies for reliable, high throughput single-cell proteomics will add a new modality to genomics and enable data-driven modeling of the molecular mechanisms coordinating proteins and nucleic acids at single-cell resolution. This promising potential requires estimating the reliability of measurements and computational analysis so that models can distinguish biological regulation from technical artifacts. We discuss approaches for developing both abstract and mechanistic models that aim to biologically interpret the measured differences across modalities. Mechanistic models of direct molecular interactions will provide generalizable and predictive representations of biological systems.
 
 
 
@@ -32,7 +30,6 @@ This section is devoted to methods that combine single-cell protein analysis wit
 
 Leduc A,Harens H, Slavov N. (2023) [Modeling and interpretation of single-cell proteogenomic data](https://arxiv.org/abs/2308.07465) *arXiv*   doi: [10.48550/arXiv.2308.07465](
 https://doi.org/10.48550/arXiv.2308.07465),   [PDF](https://slavovlab.net/Slavov-Lab-Publications/2023_Proteogenomics.pdf)
-
 
 
 <!--
