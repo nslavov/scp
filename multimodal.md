@@ -28,10 +28,10 @@ This section is devoted to methods that combine single-cell protein analysis wit
 &nbsp;
 
 
-## Perspectives
 
-Leduc A,Harens H, Slavov N.  [Modeling and interpretation of single-cell proteogenomic data](https://arxiv.org/abs/2308.07465) *arXiv*   doi: [10.48550/arXiv.2308.07465](
-https://doi.org/10.48550/arXiv.2308.07465) (2023) [PDF](https://slavovlab.net/Slavov-Lab-Publications/2023_Proteogenomics.pdf)
+[![](Figs/Proteogenomics-models.jpg){:width="80%" .center-image}](https://slavovlab.net/Slavov-Lab-Publications/2023_Proteogenomics.pdf)
+
+[Modeling and interpretation of single-cell proteogenomic data](https://arxiv.org/abs/2308.07465),  doi: [10.48550/arXiv.2308.07465](https://doi.org/10.48550/arXiv.2308.07465)
 
 
 
