@@ -29,35 +29,35 @@ This section organizes computational pipelines for the analysis of single-cell p
 -->
 
 ## Pipelines for data processing
-### [Scripts and Pipelines for Proteomics (SPP)](https://github.com/SlavovLab/SPP)
-SPP provides computational utilities for single-cell proteomics data. The code originated from the [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954), which was abstracted and generalized so that it can be used for analyzing data from other projects, including data acquired by [plexDIA](plexDIA), [pSCoPE](pSCoPE), and other [mass-spec methods](methods) for single-cell proteomics.
+### Scripts and Pipelines for Proteomics (SPP)
+[SPP](https://github.com/SlavovLab/SPP) provides computational utilities for single-cell proteomics data. The code originated from the [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954), which was abstracted and generalized so that it can be used for analyzing data from other projects, including data acquired by [plexDIA](plexDIA), [pSCoPE](pSCoPE), and other [mass-spec methods](methods) for single-cell proteomics.
 
-### [QuantQC pipeline](https://scp.slavovlab.net/protocols)
-The QuantQC package generates HTML reports for evaluating [nPOP](nPOP) sample preparation, stability of data acquisition, and quantification performance that can be easily shared with colleagues. QuantQC also facilitates exploratory data analysis such as visualizing agreement between peptides mapping to the same protein across clusters.   
+### QuantQC pipeline
+The [QuantQC package](https://scp.slavovlab.net/protocols) generates HTML reports for evaluating [nPOP](nPOP) sample preparation, stability of data acquisition, and quantification performance that can be easily shared with colleagues. QuantQC also facilitates exploratory data analysis such as visualizing agreement between peptides mapping to the same protein across clusters.   
 
 
-### [scp package](http://bioconductor.org/packages/release/bioc/html/scp.html)
+### scp package
 The [scp](http://bioconductor.org/packages/release/bioc/html/scp.html) Bioconductor package was developed by Chris Vanderaa and Laurent Gatto for manipulating, processing, and analyzing mass spectrometry-based single-cell proteomics data. The package implemented workflows from the [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954) using the 'QFeatures' package and added new functions.
-<!--
-### SCeptre
-SCeptre is a Python pipeline developed by Erwin Schoof and colleagues. It is used for processing single-cell proteomics data generated using an isobaric carrier experimental design.-->
 
-### [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954)
-The SCoPE2 pipeline was developed to process the [SCoPE2](scope2) data from [Specht et al., 2019](Specht_et_al_2019) and it has been generalized in the SPP collection of scripts and pipelines.
+### SCeptre
+SCeptre is a Python pipeline developed by Erwin Schoof and colleagues. It is used for processing single-cell proteomics data generated using an isobaric carrier experimental design.
+
+### SCoPE2 pipeline
+The [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954) was developed to process the [SCoPE2](scope2) data from [Specht et al., 2019](Specht_et_al_2019) and it has been generalized in the SPP collection of scripts and pipelines.
 
 &nbsp;
 
 ## Enhancing peptide identifications
-### [DART-ID](https://dart-id.slavovlab.net/)
-Data-driven Alignment of Retention Times for IDentification (DART-ID) implements principled Bayesian frameworks for global retention time (RT) alignment and for incorporating RT estimates towards improved confidence estimates of peptide-spectrum-matches.
+### DART-ID
+Data-driven Alignment of Retention Times for IDentification ([DART-ID](https://dart-id.slavovlab.net/)) implements principled Bayesian frameworks for global retention time (RT) alignment and for incorporating RT estimates towards improved confidence estimates of peptide-spectrum-matches.
 ### Rescoring pipelines
 Peptides identified from search engines (both DDA and DIA acquisitions) can be rescored to increase the upgrade (increase conference in) correct identifications and downgrade incorrect ones. Two pipelines for such rescoring are  MSBooster and Oktoberfest.
 
 &nbsp;  
 
 ## Optimizing LC-MS/MS & Visualizing data
-### [DO-MS](https://do-ms.slavovlab.net)
-DO-MS is an [open source](https://github.com/SlavovLab/DO-MS) platform for optimizing LC-MS/MS workflows, identifying bottlenecks and performing QC. It supports both interactive and archival data visualization, including the generation of sharable reports. DO-MS stands for *Data-driven Optimization of MS (DO-MS)*
+### DO-MS: Data-driven Optimization of MS
+[DO-MS](https://do-ms.slavovlab.net) is an [open source](https://github.com/SlavovLab/DO-MS) platform for optimizing LC-MS/MS workflows, identifying bottlenecks and performing QC. It supports both interactive and archival data visualization, including the generation of sharable reports. DO-MS stands for *Data-driven Optimization of MS (DO-MS)*
 
 ---
 
