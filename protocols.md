@@ -13,10 +13,11 @@ parent: Mass spec methods
 {: .fs-5 .fw-300}
 This section organizes protocols for preparing LC-MS/MS systems for single-cell proteomic analysis, preparing single-cell samples, optimizing and performing the analysis.
 
+&nbsp;
+
+
 * Will be replaced with the ToC, excluding the section header
 {:toc}
-
-&nbsp;
 
 ------------
 
@@ -25,16 +26,16 @@ This section organizes protocols for preparing LC-MS/MS systems for single-cell 
 
 
 ## Preparing LC-MS/MS systems
-The liquid chromatography system and the mass spectrometer need to be optimized for analyzing tiny protein samples to a state described here as `single-cell ready`. This preparation can be accomplished using bulk samples diluted to single-cell levels. The preparation has been described in multiple protocols, including by [Petelski *et al.*](https://www.nature.com/articles/s41596-021-00616-z){: .btn .fs-4 .mr-2}, *Nature Protocols*.
+The liquid chromatography system and the mass spectrometer need to be optimized for analyzing tiny protein samples to a state described here as *single-cell ready*. This preparation can be accomplished using bulk samples diluted to single-cell levels. The preparation has been described in multiple protocols, including by [Petelski *et al.*](https://www.nature.com/articles/s41596-021-00616-z), *Nature Protocols*.
 
-Achieving `single-cell readiness` is also discussed in [workshops](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW) of the [Single Cell Proteomics Conference](https://single-cell.net/).   
+Achieving *single-cell readiness* is also discussed in [workshops](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW) of the Single Cell Proteomics Conference.
 
 ------------
 
 &nbsp;
 
 ## Preparing single-cell samples
-Preparing single cells for mass spectrometry protein analysis Ames to maximize protein delivery to the detectors while at the same time minimizing contaminations. These objectives are challenging, especially when we would like to prepare and analyze tens of thousands of single cells. A high-throughput sample preparation has been described by [Leduc *et al.*](https://doi.org/10.1186/s13059-022-02817-5){: .btn .fs-4 .mr-2}, *Geneome Biology*.
+Preparing single cells for mass spectrometry protein analysis Ames to maximize protein delivery to the detectors while at the same time minimizing contaminations. These objectives are challenging, especially when we would like to prepare and analyze tens of thousands of single cells. A high-throughput sample preparation has been described by [Leduc *et al.*](https://doi.org/10.1186/s13059-022-02817-5), *Geneome Biology*.
 
 ------------
 
