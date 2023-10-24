@@ -7,6 +7,8 @@ permalink: protocols
 parent: Mass spec methods
 ---
 
+{% include social-media-links.html %}
+
 # Protocols for singe-cell proteomics
 {:.no_toc}
 
@@ -41,7 +43,7 @@ Preparing single cells for mass spectrometry protein analysis Ames to maximize p
 
 &nbsp;
 
-## Optimizing and benchmarking LC-MS/MS analysis.
+## Optimizing and benchmarking LC-MS/MS analysis
 Our protocols for optimizing peptide separation and tandem mass spectrometry analysis include data driven pipelines named DO-MS. These protocols and the associated software tools are available at: [do-ms.slavovlab.net](https://do-ms.slavovlab.net/). DO-MS allows to optimization of duty cycle methods, peptide separation, number of survey scans per duty cycle, and quality control of single-cell data acquisition for [DDA](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00039) and [DIA](https://pubs.acs.org/doi/10.1021/acs.jproteome.3c00177) methods.
 
 ------------
@@ -55,7 +57,7 @@ Our protocols for optimizing peptide separation and tandem mass spectrometry ana
 
 &nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Eq_s6Jlzfnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5nV9zbF9DT0?si=jB6a9k90dz8uObDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 &nbsp;
 
