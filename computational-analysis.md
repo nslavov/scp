@@ -21,8 +21,6 @@ This section organizes computational pipelines for the analysis of single-cell p
 
 [*Perspective* on data analysis and interpretation](https://doi.org/10.48550/arXiv.2308.07465){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-&nbsp;
-
 ------------
 
 &nbsp;
@@ -40,8 +38,9 @@ The QuantQC package generates HTML reports for evaluating [nPOP](nPOP) sample pr
 
 ### [scp package](http://bioconductor.org/packages/release/bioc/html/scp.html)
 The [scp](http://bioconductor.org/packages/release/bioc/html/scp.html) Bioconductor package was developed by Chris Vanderaa and Laurent Gatto for manipulating, processing, and analyzing mass spectrometry-based single-cell proteomics data. The package implemented workflows from the [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954) using the 'QFeatures' package and added new functions.
+<!--
 ### SCeptre
-SCeptre is a Python pipeline developed by Erwin Schoof and colleagues. It is used for processing single-cell proteomics data generated using an isobaric carrier experimental design.
+SCeptre is a Python pipeline developed by Erwin Schoof and colleagues. It is used for processing single-cell proteomics data generated using an isobaric carrier experimental design.-->
 
 ### [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954)
 The SCoPE2 pipeline was developed to process the [SCoPE2](scope2) data from [Specht et al., 2019](Specht_et_al_2019) and it has been generalized in the SPP collection of scripts and pipelines.
