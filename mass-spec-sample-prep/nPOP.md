@@ -23,7 +23,7 @@ parent: Sample preparation
 
 
 [Research Article][nPOP_GeneomeBiology]{: .btn .fs-5 .mr-4 }
-[nPOP @ protocols.io](https://www.protocols.io/view/highly-parallel-droplet-sample-preparation-for-sin-b8uyrwxw){: .btn .fs-5 .mr-4 }
+[Protocols](#Resources)
 [GitHub](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mr-4 }
 [Q&A](https://groups.google.com/g/npop-sample-prep){: .btn .fs-5 .mr-4 }
 [Videos](#talks){: .btn .fs-5 .mr-4 }
@@ -42,6 +42,7 @@ parent: Sample preparation
  * [Leduc et al., 2022](Leduc_et_al_2022)
  * [Huffman et al., 2022](Huffman_et_al_2022)
  * [Montalvo et al., 2023](Montalvo_et_al_2023)
+ * [Leduc et al., 2023](Leduc_et_al_2023)
 
 
 &nbsp;
@@ -59,9 +60,14 @@ parent: Sample preparation
 The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to isolate individual cells in 300 picoliter volumes and performs all subsequent preparation steps in small droplets on a fluorocarbon-coated slide. This design enables simultaneous sample preparation of thousands of single cells, including lysing, digesting, and labeling individual cells in volumes below 20 nl.
 
 ## Resources
-The nPOP protocol can be found [here](https://www.protocols.io/view/highly-parallel-droplet-sample-preparation-for-sin-b8uyrwxw) and the cellenONE software files for performing sample prep can be found [here](https://drive.google.com/drive/folders/1EBeHGCQksMt3jItFVPxf-POEYiXQ7mGs).
 
-Additionally, tools for mapping single cell image data from the cellenONE to sets run for LC/MS are available here on this [GitHub](https://github.com/Andrew-Leduc/CellenONE_mapper) page.
+* The current protocol has been preprinted by [Leduc et al.](https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1). This latest version of the protocol was created in partnership with Cellenion, and the company provides support for implementing nPOP, including required software for the protocol, which can be obtained through our partnership program. Reaching out to Josh Cantlon (j.cantlon@cellenion.com) or Andrew Leduc (leduc.an@northeastern.edu) for more details.
+
+
+* The original version of the nPOP protocol can be found [here](https://www.protocols.io/view/highly-parallel-droplet-sample-preparation-for-sin-b8uyrwxw) and the cellenONE software files for performing sample prep can be found [here](https://drive.google.com/drive/folders/1EBeHGCQksMt3jItFVPxf-POEYiXQ7mGs).
+
+
+* Additionally, tools for mapping single cell image data from the cellenONE to sets run for LC/MS are available here on this [GitHub](https://github.com/Andrew-Leduc/CellenONE_mapper) page.
 
 
 ## Advantages of nPOP
@@ -79,6 +85,7 @@ nPOP uses the CellenONE instrument, which is commercially available. Without acc
 &nbsp;
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="applications-and-data" >Applications & data</h2>
+  *  [Leduc et al, 2023](https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1) used nPOP to prepare samples for [plexDIA](plexDIA) analysis of single  melanoma, monocyte and pancreatic adenocarcinoma cells. **[Leduc et al, 2022 data website](Leduc_et_al_2023)**
   *  [Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v2) used nPOP to prepare samples for [SCopE2](scope2) analysis of the cell division cycle of U937 and Hela cells. **[Leduc et al, 2021 data website](Leduc_et_al_2021)**
   *  [Derks et al, 2022](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v2) used nPOP to prepare samples for [plexDIA](plexDIA) analysis of single  melanoma, monocyte and pancreatic adenocarcinoma cells. **[Derks et al, 2022 data website](Derks_et_al_2022)**
   *  [Leduc et al, 2022](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3) used nPOP to prepare samples for [pSCopE](pscope) analysis of protein covariation in monocytes and melanoma cells. **[Leduc et al, 2022 data website](Leduc_et_al_2022)**
@@ -87,6 +94,7 @@ nPOP uses the CellenONE instrument, which is commercially available. Without acc
 &nbsp;
 
 &nbsp;
+
 
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="talks" >Recorded video presentations</h2>
