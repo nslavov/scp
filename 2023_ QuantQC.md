@@ -10,13 +10,11 @@ parent: Computational analysis
 
 # QuantQC
 
-## Package for quantitative evaluation and processing data by [Leduc et al, 2023][QuantQC_Preprint]
+## Quantitative evaluation and processing data by [Leduc et al, 2023][QuantQC_Preprint]
  * Code available at: [github.com/SlavovLab/QuantQC](https://github.com/SlavovLab/QuantQC)
+ * **Preprint article:** Leduc A, Luke Koury, Joshua Cantlon, Slavov N. (2023)
+Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP, doi: [10.1101/2023.11.27.568927](https://doi.org/10.1101/2023.11.27.568927)  
 
-  <!--
- * **Peer reviewed article:** Malioutov D., Chen T., Jaffe J., Airoldi E., Budnik B., Slavov N. (2017)
-Quantifying homologous proteins and proteoforms, Molecular & Cellular Proteomics, doi: [10.1074/mcp.TIR118.000947](https://doi.org/10.1074/mcp.TIR118.000947)  
- -->
 
 
 <!--
