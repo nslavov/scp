@@ -12,6 +12,7 @@ parent: Computational analysis
 
 ## Proteoform quantification method by [Leduc et al, 2023][QuantQC_Preprint]
  * Code available at: [github.com/SlavovLab/QuantQC](https://github.com/SlavovLab/QuantQC)
+
  <!--
  * **Peer reviewed article:** Malioutov D., Chen T., Jaffe J., Airoldi E., Budnik B., Slavov N. (2017)
 Quantifying homologous proteins and proteoforms, Molecular & Cellular Proteomics, doi: [10.1074/mcp.TIR118.000947](https://doi.org/10.1074/mcp.TIR118.000947)
@@ -20,6 +21,10 @@ Quantifying homologous proteins and proteoforms, Molecular & Cellular Proteomics
 <!--
 [![pSCoPE](Figs/pSCoPE.png){: width="50%" .center-image}][pSCoPE_Preprint]
  [![pSCoPE](Figs/prioritized-proteomics-pSCoPE.png){: width="80%" .center-image}][pSCoPE_Preprint]-->
+
+ &nbsp;
+
+ &nbsp;
 
  [![QuantQC](https://github.com/Andrew-Leduc/QuantQC/blob/main/img/head.png?raw=true){: width="50%" .center-image}](https://github.com/SlavovLab/QuantQC)
 
