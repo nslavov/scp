@@ -15,18 +15,17 @@ parent: Sample preparation
 # Droplet proteomic sample preparation (nPOP)
 
 ## Massively parallel sample prep method by [Leduc et al, 2021][nPOP_Preprint]
-**Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N, [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5), [Data Websites](#data-websites)
-<!--  * **Perspective:**  Slavov N., [Learning from natural variation across the proteomes of single cells](https://doi.org/10.1371/journal.pbio.3001512) -->
+**Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5), [Data Websites](#data-websites)
+**Protocol article:**  Leduc A, Koury L, Cantlon J,  Slavov N [Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP](https://doi.org/10.1101/2023.11.27.568927), *bioRxiv* 2023.11.27.568927
 
 &nbsp;
 
 
 
 [Research Article][nPOP_GeneomeBiology]{: .btn .fs-5 .mr-4 }
-[nPOP @ protocols.io](https://www.protocols.io/view/highly-parallel-droplet-sample-preparation-for-sin-b8uyrwxw){: .btn .fs-5 .mr-4 }
+[Protocols](#resources-and-protocols){: .btn .fs-4 .mr-3 }
 [GitHub](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mr-4 }
-[Q&A](https://groups.google.com/g/npop-sample-prep){: .btn .fs-5 .mr-4 }
-[Videos](#talks){: .btn .fs-5 .mr-4 }
+[nPOP videos](#nPOP-research-presentaions){: .btn .fs-5 .mr-4 }
 
 
 &nbsp;
@@ -42,6 +41,7 @@ parent: Sample preparation
  * [Leduc et al., 2022](Leduc_et_al_2022)
  * [Huffman et al., 2022](Huffman_et_al_2022)
  * [Montalvo et al., 2023](Montalvo_et_al_2023)
+ * [Leduc et al., 2023](Leduc_et_al_2023)
 
 
 &nbsp;
@@ -49,19 +49,15 @@ parent: Sample preparation
 
 
 [Introduction](#introduction){: .btn .fs-4 .mr-3 }
-[Resources](#Resources){: .btn .fs-4 .mr-3 }
+[Resources](#resources-and-protocols){: .btn .fs-4 .mr-3 }
 [Advantages of nPOP](#advantages-of-npop){: .btn .fs-4 .mr-3 }
 [Applications](#applications-and-data){: .btn .fs-4 .mr-3 }
-[Videos](#talks){: .btn .fs-4 .mr-3 }
+[Videos](#nPOP-research-presentaions){: .btn .fs-4 .mr-3 }
 
 
 ## Introduction
 The nano-ProteOmic sample Preparation (nPOP) uses piezo acoustic dispensing to isolate individual cells in 300 picoliter volumes and performs all subsequent preparation steps in small droplets on a fluorocarbon-coated slide. This design enables simultaneous sample preparation of thousands of single cells, including lysing, digesting, and labeling individual cells in volumes below 20 nl.
 
-## Resources
-The nPOP protocol can be found [here](https://www.protocols.io/view/highly-parallel-droplet-sample-preparation-for-sin-b8uyrwxw) and the cellenONE software files for performing sample prep can be found [here](https://drive.google.com/drive/folders/1EBeHGCQksMt3jItFVPxf-POEYiXQ7mGs).
-
-Additionally, tools for mapping single cell image data from the cellenONE to sets run for LC/MS are available here on this [GitHub](https://github.com/Andrew-Leduc/CellenONE_mapper) page.
 
 
 ## Advantages of nPOP
@@ -79,6 +75,7 @@ nPOP uses the CellenONE instrument, which is commercially available. Without acc
 &nbsp;
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="applications-and-data" >Applications & data</h2>
+  *  [Leduc et al, 2023](https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1) used nPOP to prepare samples for [plexDIA](plexDIA) analysis of single  melanoma, monocyte and pancreatic adenocarcinoma cells. **[Leduc et al, 2022 data website](Leduc_et_al_2023)**
   *  [Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v2) used nPOP to prepare samples for [SCopE2](scope2) analysis of the cell division cycle of U937 and Hela cells. **[Leduc et al, 2021 data website](Leduc_et_al_2021)**
   *  [Derks et al, 2022](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v2) used nPOP to prepare samples for [plexDIA](plexDIA) analysis of single  melanoma, monocyte and pancreatic adenocarcinoma cells. **[Derks et al, 2022 data website](Derks_et_al_2022)**
   *  [Leduc et al, 2022](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3) used nPOP to prepare samples for [pSCopE](pscope) analysis of protein covariation in monocytes and melanoma cells. **[Leduc et al, 2022 data website](Leduc_et_al_2022)**
@@ -89,9 +86,28 @@ nPOP uses the CellenONE instrument, which is commercially available. Without acc
 &nbsp;
 
 
-<h2 style="letter-spacing: 2px; font-size: 26px;" id="talks" >Recorded video presentations</h2>
+## Resources and protocols
 
-### [YouTube Playlist](https://youtube.com/playlist?list=PLHLRxq8iKFsKQWxfn4uZppIwyhpYrY0Fd)
+* The current protocol has been preprinted by [Leduc et al.](https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1). This latest version of the protocol was created in partnership with Cellenion, and the company provides support for implementing nPOP, including required software for the protocol, which can be obtained through our partnership program. Reaching out to Josh Cantlon (j.cantlon@cellenion.com) or Andrew Leduc (leduc.an@northeastern.edu) for more details.
+
+
+* The original version of the nPOP protocol can be found [here](https://www.protocols.io/view/highly-parallel-droplet-sample-preparation-for-sin-b8uyrwxw) and the cellenONE software files for performing sample prep can be found [here](https://drive.google.com/drive/folders/1EBeHGCQksMt3jItFVPxf-POEYiXQ7mGs).
+
+
+* Additionally, tools for mapping single cell image data from the cellenONE to sets run for LC/MS are available here on this [GitHub](https://github.com/Andrew-Leduc/CellenONE_mapper) page.
+
+
+
+A [google group](https://groups.google.com/g/npop-sample-prep) for questions and answers about nPOP.  
+
+&nbsp;
+
+&nbsp;
+
+
+<h2 style="letter-spacing: 2px; font-size: 26px;" id="nPOP-research-presentaions" >Recorded video presentations</h2>
+
+## [YouTube Playlist](https://youtube.com/playlist?list=PLHLRxq8iKFsKQWxfn4uZppIwyhpYrY0Fd)
 
 &nbsp;
 

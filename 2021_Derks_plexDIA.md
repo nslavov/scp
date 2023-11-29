@@ -19,6 +19,7 @@ parent: Mass spec methods
 ## Data Websites
  * [Derks et al., 2022](https://scp.slavovlab.net/Derks_et_al_2022)
  * [Leduc et al., 2022](Leduc_et_al_2022)
+ * [Leduc et al., 2023](Leduc_et_al_2023)
 
 
 ## Analyzing plexDIA data
