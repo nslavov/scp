@@ -33,7 +33,7 @@ This section organizes computational pipelines for the analysis of single-cell p
 [SPP](https://github.com/SlavovLab/SPP) provides computational utilities for single-cell proteomics data. The code originated from the [SCoPE2 pipeline](https://doi.org/10.5281/zenodo.4339954), which was abstracted and generalized so that it can be used for analyzing data from other projects, including data acquired by [plexDIA](plexDIA), [pSCoPE](pSCoPE), and other [mass-spec methods](methods) for single-cell proteomics.
 
 ### QuantQC pipeline
-The [QuantQC package](https://scp.slavovlab.net/protocols) generates HTML reports for evaluating [nPOP](nPOP) sample preparation, stability of data acquisition, and quantification performance that can be easily shared with colleagues. QuantQC also facilitates exploratory data analysis such as visualizing agreement between peptides mapping to the same protein across clusters.   
+The [QuantQC package](QuantQC) generates HTML reports for evaluating [nPOP](nPOP) sample preparation, stability of data acquisition, and quantification performance that can be easily shared with colleagues. QuantQC also facilitates exploratory data analysis such as visualizing agreement between peptides mapping to the same protein across clusters.   
 
 
 ### scp package
