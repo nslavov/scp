@@ -25,7 +25,7 @@ parent: Sample preparation
 [Research Article][nPOP_GeneomeBiology]{: .btn .fs-5 .mr-4 }
 [Protocols](#resources-and-protocols){: .btn .fs-4 .mr-3 }
 [GitHub](https://github.com/SlavovLab/nPOP){: .btn .fs-5 .mr-4 }
-[Videos](#talks){: .btn .fs-5 .mr-4 }
+[nPOP videos](#nPOP-research-presentaions){: .btn .fs-5 .mr-4 }
 
 
 &nbsp;
