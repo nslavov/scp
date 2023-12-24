@@ -3,7 +3,7 @@ layout: default
 title: Single-cell protein data
 nav_order: 3
 permalink: data
-description: "Single-cell proteomics datasets. The datasets are acquired by mass spectrometry and contain associated metadata"
+description: "Single-cell proteomics datasets. The datasets are acquired by mass spectrometry and are linked to the associated metadata"
 has_children: true
 ---
 {% include social-media-links.html %}
@@ -25,5 +25,3 @@ The datasets are reported in accordance with the [Community Guidelines](https://
 
 Data & Metadata
 {: .fs-6 .fw-300}
-
-## # Single cells ~ 5,000
