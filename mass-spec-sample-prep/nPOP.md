@@ -42,6 +42,7 @@ parent: Sample preparation
  * [Huffman et al., 2022](Huffman_et_al_2022)
  * [Montalvo et al., 2023](Montalvo_et_al_2023)
  * [Leduc et al., 2023](Leduc_et_al_2023)
+ * [Khan et al., 2023](Khan_et_al_2023)
 
 
 &nbsp;

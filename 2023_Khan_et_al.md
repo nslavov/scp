@@ -10,10 +10,7 @@ parent: Single-cell protein data
 ## Article: [Khan et al, 2023](https://www.biorxiv.org/content/10.1101/2023.12.21.572913v1)
 
 
-&nbsp;
-&nbsp;
-
-* bioRxiv Preprint:* Khan S, Conover R, Asthagiri A, Slavov N, [Dynamics of single-cell protein covariation during epithelial-mesenchymal transition]( https://doi.org/10.1101/2023.12.21.572913)
+* Preprint: Khan S, Conover R, Asthagiri A, Slavov N, [Dynamics of single-cell protein covariation during epithelial-mesenchymal transition]( https://doi.org/10.1101/2023.12.21.572913), *bioRxiv*, doi: [10.1101/2023.12.21.572913](https://doi.org/10.1101/2023.12.21.572913)
 * Code available at: [github.com/SlavovLab/EMT_TGFB_2023](https://github.com/SlavovLab/EMT_TGFB_2023)
 
 

@@ -35,6 +35,7 @@ Proteome biology
 
  * **Cancer biology**
    - Drug resistance: [Leduc et al, 2012](Leduc_et_al_2022)
+   - Epithelial-mesenchymal transition: [Khan et al., 2023](Khan_et_al_2023)
 
  * **Development**
    - Stem cell differentiation: [Budnik et al, 2017](Budnik_et_al_2017)
