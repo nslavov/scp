@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: Khan et al, 2023
 nav_order: 8
 permalink: Khan_et_al_2023
 description: "Dynamics of single-cell protein covariation during epithelial-mesenchymal transition | Slavov Laboratory"
@@ -19,9 +19,10 @@ parent: Single-cell protein data
 
 &nbsp;
 
-#### Single-cell proteomics methods: [SCoPE2](SCoPE2)
-#### Sample preparation method: [nPOP](nPOP)
-#### Model systems:  Cell lines of Breast Cancer cells (MCF-10A) differentiated to mesenchymal like using TGF-$\beta$
+### Single-cell proteomics methods: [SCoPE2](SCoPE2)
+**Sample preparation method: [nPOP](nPOP)**
+
+### Model systems:  Cell lines of Breast Cancer cells (MCF-10A) differentiated to mesenchymal like using TGF-&beta;
 
 
 
