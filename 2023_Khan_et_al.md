@@ -28,12 +28,11 @@ parent: Single-cell protein data
 
 &nbsp;
 
-[Supplementary tables](#supp_tables){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [RAW Data](#raw_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Code](https://github.com/SlavovLab/EMT_TGFB_2023){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Processed Data](#proc_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-<h2 style="letter-spacing: 2px; font-size: 26px;" id="raw_data" >Raw Data from experiments benchmarking nPOP</h2>
+<h2 style="letter-spacing: 2px; font-size: 26px;" id="raw_data" > Raw Data </h2>
 
 
 &nbsp;
@@ -48,7 +47,7 @@ parent: Single-cell protein data
 
   &nbsp;
 
-<h2 style="letter-spacing: 2px; font-size: 26px;" id="proc_data" >Processed Data from experiments benchmarking nPOP</h2>
+<h2 style="letter-spacing: 2px; font-size: 26px;" id="proc_data" >Processed Data</h2>
 
 *[Processed Data: ](https://drive.google.com/drive/folders/1z5oPN47MsXrvDWlibEMdqQun_SDymeyN?usp=drive_link)*   
     - 000-MQ_txtFolders = txt folders outputted by maxquant across datasets  
