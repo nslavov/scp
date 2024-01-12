@@ -3,7 +3,7 @@ layout: default
 title: nPOP
 nav_order: 2
 permalink: nPOP
-description: "nano-ProteOmic droplet sample Preparation (nPOP) for single-cell proteomics by mass-spectrometry. Automated and high-throughput sample prep for proteomics"
+description: "Highly parallel sample preparation for single-cell proteomics by mass spectrometry. nano-ProteOmic droplet sample Preparation (nPOP). Automated, efficient, inexpensive, and high-throughput sample prep for proteomics"
 parent: Sample preparation
 
 ---
@@ -16,7 +16,9 @@ parent: Sample preparation
 
 ## Massively parallel sample prep method by [Leduc et al, 2021][nPOP_Preprint]
 **Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5), [Data Websites](#data-websites)
+
 **Protocol article:**  Leduc A, Koury L, Cantlon J,  Slavov N [Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP](https://doi.org/10.1101/2023.11.27.568927), *bioRxiv* 2023.11.27.568927
+
 
 &nbsp;
 
