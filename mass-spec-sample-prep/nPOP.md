@@ -78,11 +78,12 @@ nPOP uses the CellenONE instrument, which is commercially available. Without acc
 &nbsp;
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="applications-and-data" >Applications & data</h2>
-  *  [Leduc et al, 2023](https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1) used nPOP to prepare samples for [plexDIA](plexDIA) analysis of single  melanoma, monocyte and pancreatic adenocarcinoma cells. **[Leduc et al, 2022 data website](Leduc_et_al_2023)**
   *  [Leduc et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v2) used nPOP to prepare samples for [SCopE2](scope2) analysis of the cell division cycle of U937 and Hela cells. **[Leduc et al, 2021 data website](Leduc_et_al_2021)**
   *  [Derks et al, 2022](https://www.biorxiv.org/content/10.1101/2021.11.03.467007v2) used nPOP to prepare samples for [plexDIA](plexDIA) analysis of single  melanoma, monocyte and pancreatic adenocarcinoma cells. **[Derks et al, 2022 data website](Derks_et_al_2022)**
   *  [Leduc et al, 2022](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3) used nPOP to prepare samples for [pSCopE](pscope) analysis of protein covariation in monocytes and melanoma cells. **[Leduc et al, 2022 data website](Leduc_et_al_2022)**
   *  [Huffman et al, 2022](https://doi.org/10.1101/2022.03.16.484655) used nPOP to prepare samples for [pSCopE](pscope) analysis of primary macrophages stimulated with LPS. **[Huffman et al, 2022 data website](Huffman_et_al_2022)**
+  *  [Leduc et al, 2023](https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1) used nPOP to prepare samples for [plexDIA](plexDIA) analysis of single  melanoma, monocyte and pancreatic adenocarcinoma cells. **[Leduc et al, 2023 data website](Leduc_et_al_2023)**
+  * [Khan et al, 2023](https://doi.org/10.1101/2023.12.21.572913) used nPOP to prepare samples for [SCoPE2](scope2) analysis of single epithelial cells undergoing epithelial–mesenchymal transition. **[Khan et al, 2023 data website](Khan_et_al_2023)**
 
 &nbsp;
 
