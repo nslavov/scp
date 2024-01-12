@@ -39,6 +39,13 @@ Achieving *single-cell readiness* is also discussed in [workshops](https://www.y
 ## Preparing single-cell samples
 Preparing single cells for mass spectrometry protein analysis Ames to maximize protein delivery to the detectors while at the same time minimizing contaminations. These objectives are challenging, especially when we would like to prepare and analyze tens of thousands of single cells. A high-throughput sample preparation has been described by [Leduc *et al.*](https://doi.org/10.1186/s13059-022-02817-5), *Geneome Biology*.
 
+### Protocol for highly parallel sample preparation
+
+The [nPOP](nPOP) protocol enables flexible experimental designs supporting different multiplexing schemes without requiring specialized consumables; nPOP supports all existing multiplexing approaches and can be easily programmed to new ones that may emerge. It can prepare over *3,000* single cells in parallel using 8-20nl reaction volumes per cell.
+
+Leduc A, Koury L., Cantlon J., Slavov N. **[Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP](https://doi.org/10.1101/2023.11.27.568927)**, *bioRxiv* 2023.11.27.568927,  doi: 10.1101/2023.11.27.568927
+
+
 ------------
 
 &nbsp;
