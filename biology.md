@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Biological applications
-nav_order: 7
-description: "Single-cell biology and single-cell mass spectrometry proteomics research and results from the Slavov Laboratory | Proteome biology"
+nav_order: 10
+description: "Single-cell biology and single-cell mass spectrometry proteomics research and results | Proteome biology at single-cell resolution"
 permalink: biology
 ---
 {% include social-media-links.html %}

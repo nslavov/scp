@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Protocols
-nav_order: 10
+nav_order: 7
 description: "Protocols for single-cell proteomics by liquid chromatography tandem mass spectrometry LC-MS/MS. Protocols are applicable to label-free and multiplexed methods, including SCoPE2, plexDIA, pSCoPE, SCoPE-DIA and other methods."
 permalink: protocols
-parent: Mass spec methods
+has_children: false
 ---
 
 {% include social-media-links.html %}
@@ -32,6 +32,12 @@ The liquid chromatography system and the mass spectrometer need to be optimized 
 
 Achieving *single-cell readiness* is also discussed in [workshops](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW) of the Single Cell Proteomics Conference.
 
+&nbsp;
+
+### Optimizing and benchmarking LC-MS/MS analysis
+Our protocols for optimizing peptide separation and tandem mass spectrometry analysis include data driven pipelines named DO-MS. These protocols and the associated software tools are available at: [do-ms.slavovlab.net](https://do-ms.slavovlab.net/). DO-MS allows to optimization of duty cycle methods, peptide separation, number of survey scans per duty cycle, and quality control of single-cell data acquisition for [DDA](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00039) and [DIA](https://pubs.acs.org/doi/10.1021/acs.jproteome.3c00177) methods.
+
+
 ------------
 
 &nbsp;
@@ -45,13 +51,6 @@ The [nPOP](nPOP) protocol enables flexible experimental designs supporting diffe
 
 Leduc A, Koury L., Cantlon J., Slavov N. **[Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP](https://doi.org/10.1101/2023.11.27.568927)**, *bioRxiv* 2023.11.27.568927,  doi: 10.1101/2023.11.27.568927
 
-
-------------
-
-&nbsp;
-
-## Optimizing and benchmarking LC-MS/MS analysis
-Our protocols for optimizing peptide separation and tandem mass spectrometry analysis include data driven pipelines named DO-MS. These protocols and the associated software tools are available at: [do-ms.slavovlab.net](https://do-ms.slavovlab.net/). DO-MS allows to optimization of duty cycle methods, peptide separation, number of survey scans per duty cycle, and quality control of single-cell data acquisition for [DDA](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00039) and [DIA](https://pubs.acs.org/doi/10.1021/acs.jproteome.3c00177) methods.
 
 ------------
 
