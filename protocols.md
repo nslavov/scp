@@ -32,7 +32,7 @@ The liquid chromatography system and the mass spectrometer need to be optimized 
 
 Achieving *single-cell readiness* is also discussed in [workshops](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW) of the Single Cell Proteomics Conference.
 
- * Petelski A, Emmott E, Leduc A, Huffman RG, Specht H, Perlman D, Slavov N. **[Multiplexed single-cell proteomics using SCoPE2](https://www.nature.com/articles/s41596-021-00616-z)**, *Nature Protocols*, 2021
+ * Petelski A, Emmott E, Leduc A, Huffman RG, Specht H, Perlman D, Slavov N. [Multiplexed single-cell proteomics using SCoPE2](https://www.nature.com/articles/s41596-021-00616-z), *Nature Protocols*, 2021
 
 &nbsp;
 
@@ -55,15 +55,15 @@ Preparing single cells for mass spectrometry protein analysis aims to maximize p
 
 The [mPOP](mPOP) protocol supports the preparation of a few hundred cells in multi-well plates.
 
- * Petelski A, Emmott E, Leduc A, Huffman RG, Specht H, Perlman D, Slavov N. **[Multiplexed single-cell proteomics using SCoPE2](https://www.nature.com/articles/s41596-021-00616-z)**, *Nature Protocols*, 2021
- * Petelski A, Slavov N., Specht H, **[Single-Cell Proteomics Preparation for Mass Spectrometry Analysis Using Freeze-Heat Lysis and an Isobaric Carrier](https://pubmed.ncbi.nlm.nih.gov/36571403/)**, *Jove*, 2022
+ * Petelski A, Emmott E, Leduc A, Huffman RG, Specht H, Perlman D, Slavov N. [Multiplexed single-cell proteomics using SCoPE2](https://www.nature.com/articles/s41596-021-00616-z), *Nature Protocols*, 2021
+ * Petelski A, Slavov N., Specht H, [Single-Cell Proteomics Preparation for Mass Spectrometry Analysis Using Freeze-Heat Lysis and an Isobaric Carrier](https://pubmed.ncbi.nlm.nih.gov/36571403/), *Jove*, 2022
 
 
 ### Protocol for highly parallel sample preparation
 
 A high-throughput sample preparation has been described by [Leduc *et al.*](https://doi.org/10.1186/s13059-022-02817-5), *Geneome Biology*. The [nPOP](nPOP) protocol enables flexible experimental designs supporting different multiplexing schemes without requiring specialized consumables; nPOP supports all existing multiplexing approaches and can be easily programmed to new ones that may emerge. It can prepare over *3,000* single cells in parallel using 8-20nl reaction volumes per cell.
 
- * Leduc A, Koury L., Cantlon J., Slavov N. **[Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP](https://doi.org/10.1101/2023.11.27.568927)**, *bioRxiv* 2023.11.27.568927,  doi: 10.1101/2023.11.27.568927
+ * Leduc A, Koury L., Cantlon J., Slavov N. [Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP](https://doi.org/10.1101/2023.11.27.568927), *bioRxiv* 2023.11.27.568927,  doi: 10.1101/2023.11.27.568927
 
 
 ------------
