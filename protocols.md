@@ -32,7 +32,7 @@ The liquid chromatography system and the mass spectrometer need to be optimized 
 
 Achieving *single-cell readiness* is also discussed in [workshops](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW) of the Single Cell Proteomics Conference.
 
- * Petelski A, Emmott E, Leduc A, Huffman RG, Specht H, Perlman D, Slavov N. **[Multiplexed single-cell proteomics using SCoPE2](https://www.nature.com/articles/s41596-021-00616-z), *Nature Protocols*, 2021 
+ * Petelski A, Emmott E, Leduc A, Huffman RG, Specht H, Perlman D, Slavov N. **[Multiplexed single-cell proteomics using SCoPE2](https://www.nature.com/articles/s41596-021-00616-z)**, *Nature Protocols*, 2021
 
 &nbsp;
 
@@ -55,8 +55,8 @@ Preparing single cells for mass spectrometry protein analysis aims to maximize p
 
 The [mPOP](mPOP) protocol supports the preparation of a few hundred cells in multi-well plates.
 
- * Petelski A, Emmott E, Leduc A, Huffman RG, Specht H, Perlman D, Slavov N. **[Multiplexed single-cell proteomics using SCoPE2](https://www.nature.com/articles/s41596-021-00616-z), *Nature Protocols*, 2021
- * Petelski A, Slavov N., Specht H, **[Single-Cell Proteomics Preparation for Mass Spectrometry Analysis Using Freeze-Heat Lysis and an Isobaric Carrier](https://pubmed.ncbi.nlm.nih.gov/36571403/), *Jove*, 2022
+ * Petelski A, Emmott E, Leduc A, Huffman RG, Specht H, Perlman D, Slavov N. **[Multiplexed single-cell proteomics using SCoPE2](https://www.nature.com/articles/s41596-021-00616-z)**, *Nature Protocols*, 2021
+ * Petelski A, Slavov N., Specht H, **[Single-Cell Proteomics Preparation for Mass Spectrometry Analysis Using Freeze-Heat Lysis and an Isobaric Carrier](https://pubmed.ncbi.nlm.nih.gov/36571403/)**, *Jove*, 2022
 
 
 ### Protocol for highly parallel sample preparation
