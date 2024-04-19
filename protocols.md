@@ -38,6 +38,11 @@ The liquid chromatography system and the mass spectrometer need to be optimized 
 ### Optimizing and benchmarking LC-MS/MS analysis
 Our protocols for optimizing peptide separation and tandem mass spectrometry analysis include data driven pipelines named DO-MS. These protocols and the associated software tools are available at: [do-ms.slavovlab.net](https://do-ms.slavovlab.net/). DO-MS allows to optimization of duty cycle methods, peptide separation, number of survey scans per duty cycle, and quality control of single-cell data acquisition for [DDA](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00039) and [DIA](https://pubs.acs.org/doi/10.1021/acs.jproteome.3c00177) methods.
 
+ * Wallmann G., Leduc A., Slavov N. [Data-Driven Optimization of DIA Mass-Spectrometry by DO-MS](https://pubs.acs.org/doi/10.1021/acs.jproteome.3c00177), *J. Proteome Res.*   doi: [10.1021/acs.jproteome.3c00177](https://doi.org/10.1021/acs.jproteome.3c00177) (2023), [preprint](https://doi.org/10.1101/2023.02.02.526809),    [PDF](https://slavovlab.net/Slavov-Lab-Publications/2023_DO-MS_DIA_plexDIA_JPR.pdf)
+
+ * Huffman RG, Specht H, Chen AT, Slavov N. [DO-MS: Data-Driven Optimization of Mass Spectrometry Methods](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00039) *J. of Proteome Res.* doi: [10.1021/acs.jproteome.9b00039](https://doi.org/10.1021/acs.jproteome.9b00039)  (2019), [preprint](http://dx.doi.org/10.1101/512152),   [PDF](https://slavovlab.net/Slavov-Lab-Publications/2019_Huffman_Slavov_DO-MS.pdf)
+
+
 Achieving *single-cell readiness* is also discussed in [workshops](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW) of the Single Cell Proteomics Conference.
 
 &nbsp;
