@@ -27,7 +27,7 @@ This section organizes protocols for preparing LC-MS/MS systems for single-cell 
 
 
 
-## Preparing LC-MS/MS systems
+## Preparing LC-MS/MS systems for single-cell proteomics
 The liquid chromatography system and the mass spectrometer need to be optimized for analyzing tiny protein samples to a state described here as *single-cell ready*. This preparation can be accomplished using bulk samples diluted to single-cell levels. The preparation has been described in multiple protocols, including by [Petelski *et al.*](https://www.nature.com/articles/s41596-021-00616-z), *Nature Protocols*.
 
 
