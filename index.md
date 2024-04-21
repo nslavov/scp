@@ -85,8 +85,8 @@ Each cell performs its biological functions by changing the abundance, localizat
 * **White Paper:** [*Performing, benchmarking, and reporting single-cell proteomics experiments*](https://www.nature.com/articles/s41592-023-01785-3),  *Nat Methods* **20**, 375–386 (2023) [PDF](https://www.nature.com/articles/s41592-023-01785-3.pdf), [preprint](https://doi.org/10.48550/arXiv.2207.10815), [Code](https://github.com/SlavovLab/SCP_recommendations), [Guidelines website](https://single-cell.net/guidelines)
 * **Protocols & Tutorials:** [Single-cell proteomics protocols](protocols)
 * **Dissemination:** [Disseminating Portal](https://center.single-cell.net/single-cell-proteomics/dissemination)
-* **Scientific Meeting:** [The Annual single-cell proteomics conference](https://single-cell.net)
-  - [Recorded research Presentations]((http://playlist.single-cell.net))
+* **Scientific Meeting:** [Single-cell proteomics conference][SCP_Meeting]
+  - [Recorded research presentations]((http://playlist.single-cell.net))
 
 
 
@@ -109,3 +109,5 @@ The research reported here has been supported by funding from the [NIH Director'
  &nbsp;  
 
  &nbsp;
+
+ [SCP_Meeting]: https://single-cell.net "Annual single-cell proteomics conference in Boston"
