@@ -86,7 +86,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 * **Protocols & Tutorials:** [Single-cell proteomics protocols](protocols)
 * **Dissemination:** [Disseminating Portal](https://center.single-cell.net/single-cell-proteomics/dissemination)
 * **Scientific Meeting:** [Single-cell proteomics conference][SCP_Meeting]
-  - [Recorded research presentations]((http://playlist.single-cell.net))
+  - [Recorded research presentations](http://playlist.single-cell.net)
 
 
 
