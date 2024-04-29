@@ -8,10 +8,11 @@ parent: Single-cell protein data
 ---
 
 ## Article: [Khan et al, 2023](https://www.biorxiv.org/content/10.1101/2023.12.21.572913v1)
-
-
-* Preprint: Khan S, Conover R, Asthagiri A, Slavov N, [Dynamics of single-cell protein covariation during epithelial-mesenchymal transition]( https://doi.org/10.1101/2023.12.21.572913), *bioRxiv*, doi: [10.1101/2023.12.21.572913](https://doi.org/10.1101/2023.12.21.572913)
 * Code available at: [github.com/SlavovLab/EMT_TGFB_2023](https://github.com/SlavovLab/EMT_TGFB_2023)
+* **Peer reviewed article:** Khan S, Conover R, Asthagiri A, Slavov N, [https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00277), *bioRxiv*, doi: [10.1021/acs.jproteome.4c00277](https://doi.org/10.1021/acs.jproteome.4c00277)
+ * **Perspective:**  Slavov N., [Learning from natural variation across the proteomes of single cells](https://doi.org/10.1371/journal.pbio.3001512), *PLoS Biology* 20(1): e3001512
+
+
 
 
 &nbsp;
@@ -57,3 +58,5 @@ parent: Single-cell protein data
    &nbsp;
 
    &nbsp;
+
+Preprint: Khan S, Conover R, Asthagiri A, Slavov N, [Dynamics of single-cell protein covariation during epithelial-mesenchymal transition]( https://doi.org/10.1101/2023.12.21.572913), *bioRxiv*, doi: [10.1101/2023.12.21.572913](https://doi.org/10.1101/2023.12.21.572913)
