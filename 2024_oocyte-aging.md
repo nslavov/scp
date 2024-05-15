@@ -9,7 +9,7 @@ parent: Single-cell protein data
 
 ## Article: [Galatidou, Petelski, et al, 2024]()
 
-* Article Title: Galatidou S, Petelski AA, Pujol A, Lattes K, Latorraca LB, Fair T, Popovic M, Vassena R, Slavov N, Barragan M [Single-cell proteomics reveals decreased abundance of proteostasis and meiosis proteins in advanced maternal age oocytes]
+* **Peer reviewed article:** Galatidou S, Petelski AA, Pujol A, Lattes K, Latorraca LB, Fair T, Popovic M, Vassena R, Slavov N, Barragan M [Single-cell proteomics reveals decreased abundance of proteostasis and meiosis proteins in advanced maternal age oocytes]()
 * Code available at: [github.com/SlavovLab/single_cell_oocyte](https://github.com/SlavovLab/single_cell_oocyte)
 
 
