@@ -73,6 +73,14 @@ A high-throughput sample preparation has been described by [Leduc *et al.*](http
  * Leduc A, Koury L., Cantlon J., Slavov N.  [Highly Parallel Droplet Sample Preparation for Single Cell Proteomics](https://dx.doi.org/10.17504/protocols.io.4r3l24r7qg1y/v3), *protocols.io*, doi: [dx.doi.org/10.17504/protocols.io.4r3l24r7qg1y/v3](https://dx.doi.org/10.17504/protocols.io.4r3l24r7qg1y/v3)
 
 
+### Resources
+* Bruker application note, June 2024: [plexDIA for scalable single-cell analysis – improving quantification and sensitivity by
+TIMS separation](https://slavovlab.net/Slavov-Lab-Publications/2024_plexDIA-nPOP-on-timsTOF-Ultra.pdf)
+
+
+ 
+
+
 ------------
 
 &nbsp;
