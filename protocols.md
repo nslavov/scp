@@ -77,7 +77,7 @@ A high-throughput sample preparation has been described by [Leduc *et al.*](http
 * Bruker application note, June 2024: [plexDIA for scalable single-cell analysis – improving quantification and sensitivity by
 TIMS separation](https://slavovlab.net/Slavov-Lab-Publications/2024_plexDIA-nPOP-on-timsTOF-Ultra.pdf)
 
-[![nPOP-plexDIA-timsTOF]({{site.baseurl}}/Figs/2024_plexDIA-nPOP-on-timsTOF-Ultra.jepg){: width="50%" .center-image}](https://slavovlab.net/Slavov-Lab-Publications/2024_plexDIA-nPOP-on-timsTOF-Ultra.pdf){:title="plexDIA for scalable single-cell analysis – improving quantification and sensitivity by TIMS separation"}
+[![nPOP-plexDIA-timsTOF]({{site.baseurl}}/Figs/2024_plexDIA-nPOP-on-timsTOF-Ultra.jpeg){: width="50%" .center-image}](https://slavovlab.net/Slavov-Lab-Publications/2024_plexDIA-nPOP-on-timsTOF-Ultra.pdf){:title="plexDIA for scalable single-cell analysis – improving quantification and sensitivity by TIMS separation"}
 
 
 
