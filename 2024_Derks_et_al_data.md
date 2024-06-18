@@ -7,7 +7,7 @@ description: "Single-nucleus proteomics identifies regulators of protein transpo
 parent: "Single-cell protein data"
 ---
 
-## Article:  [Derks et al, 2024](https://www.biorxiv.org/collection/systems-biology)
+## Article:  [Derks et al, 2024](https://www.biorxiv.org/content/10.1101/2024.06.17.599449v1)
 * Code available at: [github.com/SlavovLab](https://github.com/SlavovLab)
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="RAW-data" >Demonstrated aim:</h2>
@@ -29,7 +29,7 @@ This work demonstrated an approach to infer novel functional regulators from (su
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="plexDIA-data" >Data organized by experiments</h2>
 
-All processed data from the [article](https://www.biorxiv.org/collection/systems-biology) are organized in this [directory](https://drive.google.com/drive/u/4/folders/1QqCclL1YUEG23zKSc20mR7ldea0K_Z6f).
+All processed data from the [article](https://www.biorxiv.org/content/10.1101/2024.06.17.599449v1) are organized in this [directory](https://drive.google.com/drive/u/4/folders/1QqCclL1YUEG23zKSc20mR7ldea0K_Z6f).
 
  * [Single-nucleus data](https://drive.google.com/drive/folders/12zZpc3OUyGsrhaj6oH_N8Pss1oEIa6v4?usp=drive_link)
 
