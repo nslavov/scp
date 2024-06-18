@@ -7,12 +7,12 @@ description: "Single-nucleus proteomics identifies regulators of protein transpo
 parent: "Single-cell protein data"
 ---
 
-## Article:  [Single-nucleus proteomics identifies regulators of protein transport (Derks et al, 2024)](https://www.biorxiv.org/collection/systems-biology)
-&nbsp;
+## Article:  [Derks et al, 2024](https://www.biorxiv.org/collection/systems-biology)
+* Code available at: [github.com/SlavovLab](https://github.com/SlavovLab)
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="RAW-data" >Demonstrated aim:</h2>
 
-This work demonstrated an approach to infer novel functional regulators from (sub-)single-cell proteomics data. Specifically, the natural proteomic and functional variability of THP-1 macrophage-like cells was used to identify regulators of LPS-induced nucleocytoplasmic protein transport. Cells were treated with LPS for short durations (10, 30, or 60 minutes) or left not-treated. 
+This work demonstrated an approach to infer novel functional regulators from (sub-)single-cell proteomics data. Specifically, the natural proteomic and functional variability of THP-1 macrophage-like cells was used to identify regulators of LPS-induced nucleocytoplasmic protein transport. Cells were treated with LPS for short durations (10, 30, or 60 minutes) or left not-treated.
 
 &nbsp;
 
