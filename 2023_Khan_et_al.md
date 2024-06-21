@@ -7,6 +7,9 @@ description: "Dynamics of single-cell protein covariation during epithelial-mese
 parent: Single-cell protein data
 ---
 
+{% include social-media-links.html %}
+
+
 ## Article: [Khan et al, 2023](https://www.biorxiv.org/content/10.1101/2023.12.21.572913v1)
 * Code available at: [github.com/SlavovLab/EMT_TGFB_2023](https://github.com/SlavovLab/EMT_TGFB_2023)
 * **Peer reviewed article:** Khan S, Conover R, Asthagiri A, Slavov N, [Dynamics of single-cell protein covariation during epithelial-mesenchymal transition](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00277), *J. Proteome Res.*, doi: [10.1021/acs.jproteome.4c00277](https://doi.org/10.1021/acs.jproteome.4c00277), [PDF](https://slavovlab.net/Slavov-Lab-Publications/2024_Dynamics_single-cell-protein-covariation-EMT-JPR.pdf)
