@@ -7,6 +7,9 @@ description: "Single-nucleus proteomics identifies regulators of protein transpo
 parent: "Single-cell protein data"
 ---
 
+{% include social-media-links.html %}
+
+
 ## Article:  [Derks et al, 2024](https://www.biorxiv.org/content/10.1101/2024.06.17.599449v1)
 * Code available at: [github.com/SlavovLab](https://github.com/SlavovLab)
 
