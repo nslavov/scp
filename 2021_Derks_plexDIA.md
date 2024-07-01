@@ -20,7 +20,8 @@ parent: Mass spec methods
  * [Derks et al., 2022](https://scp.slavovlab.net/Derks_et_al_2022)
  * [Leduc et al., 2022](Leduc_et_al_2022)
  * [Leduc et al., 2023](Leduc_et_al_2023)
-
+ * [Galatidou et al., 2024](Galatidou_et_al_2024)
+ * [Derks et al., 2024](Derks_et_al_2024)
 
 ## Analyzing plexDIA data
   * [Video tutorial on searching plexDIA data with DIA-NN](https://youtu.be/0Wmg9LjDtgE), [Slides](https://plexdia.slavovlab.net/mass-spec/Searching-plexDIA-data-with-DIA-NN.pdf)

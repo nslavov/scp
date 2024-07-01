@@ -33,6 +33,7 @@ parent: Sample preparation
  * [Specht et al., 2018](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=bfd7f21d718940fdbaccc0d58ad6b122)
  * [Specht et al., 2019](Specht_et_al_2019)
  * [Petelski et al., 2021](Petelski_et_al_2021)
+ * [Galatidou et al., 2024](Galatidou_et_al_2024)
 
 
 &nbsp;

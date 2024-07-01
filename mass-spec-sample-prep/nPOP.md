@@ -45,6 +45,7 @@ parent: Sample preparation
  * [Montalvo et al., 2023](Montalvo_et_al_2023)
  * [Leduc et al., 2023](Leduc_et_al_2023)
  * [Khan et al., 2023](Khan_et_al_2023)
+ * [Derks et al., 2024](Derks_et_al_2024)
 
 
 &nbsp;
