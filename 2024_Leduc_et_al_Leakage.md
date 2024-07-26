@@ -16,9 +16,10 @@ parent: Single-cell protein data
 
 
 
-### Single-cell proteomics method: [pSCoPE](https://scp.slavovlab.net/pSCoPE)
-**Sample preparation method: [nPOP](https://scp.slavovlab.net/nPOP)**
-**Data analysis package: [QuantQC](QuantQC)**
+### Methods used:
+* Single-cell proteomics: [pSCoPE](https://scp.slavovlab.net/pSCoPE)
+* Sample preparation: [nPOP](https://scp.slavovlab.net/nPOP)
+* Data analysis package: [QuantQC](QuantQC)
 
 
 ### Model systems: Primary murine tracheal cells
