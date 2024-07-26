@@ -41,8 +41,8 @@ parent: Single-cell protein data
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="raw_data" >Raw Data</h2>
 
 * **MassIVE Repository:**
-  - [**http:**  ](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=07854c840e434781a5e471a550ea49fe)
-  - [**ftp:** &nbsp; ](ftp://massive.ucsd.edu/v07/MSV000094790/)
+  - [**http:**  MassIVE MSV000094790](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=07854c840e434781a5e471a550ea49fe)
+  - [**ftp:** &nbsp; MassIVE MSV000094790](ftp://massive.ucsd.edu/v07/MSV000094790/)
 
 
   &nbsp;
