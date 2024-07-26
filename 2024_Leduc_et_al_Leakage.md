@@ -11,7 +11,7 @@ parent: Single-cell protein data
 
 ## Article: [Leduc et al, 2024](https://doi.org/10.1101/2024.07.28.605378)
 <!-- **Peer reviewed article:** -->
-* **Preprint:** Leduc A, Xu Y, Shipkovenska2 G, Dou Z, Slavov N,[Limiting the impact of protein leakage in single-cell proteomics](https://www.biorxiv.org/content/10.1101/2024.07.28.605378v1), *bioRxiv*, doi: [10.1101/2024.07.28.605378](https://doi.org/10.1101/2024.07.28.605378)
+* **Preprint:** Leduc A, Xu Y, Shipkovenska G, Dou Z, Slavov N, [Limiting the impact of protein leakage in single-cell proteomics](https://www.biorxiv.org/content/10.1101/2024.07.28.605378v1), *bioRxiv*, doi: [10.1101/2024.07.28.605378](https://doi.org/10.1101/2024.07.28.605378)
 * Code available at: [github.com/SlavovLab/CellPermeability](https://github.com/SlavovLab/CellPermeability)
 
 
