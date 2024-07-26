@@ -5,7 +5,7 @@ nav_order: 9
 permalink: Galatidou_et_al_2024
 description: "Single-cell proteomics reveals decreased abundance of proteostasis and meiosis proteins in advanced maternal age oocytes | Oocyte aging | Slavov Laboratory"
 parent: Single-cell protein data
-nav_exclude: true
+nav_exclude: false
 ---
 
 {% include social-media-links.html %}
