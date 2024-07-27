@@ -10,10 +10,13 @@ parent: Single-cell protein data
 
 
 ## Article: [Leduc et al, 2023](https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1)
-<!-- **Peer reviewed article:** -->
+* **Peer-reviewed article:** Leduc A, Luke Khoury, Joshua Cantlon, Slavov N. (2024)
+Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP, *Nature Protocols*, doi: [10.1038/s41596-024-01033-8](https://doi.org/10.1038/s41596-024-01033-8)
 
-### Single-cell proteomics method: [plexDIA](https://scp.slavovlab.net/plexDIA)
-**Sample preparation method: [nPOP](https://scp.slavovlab.net/nPOP)**
+### Methods used:
+* Single-cell proteomics: [plexDIA](plexDIA), and [pSCoPE](pSCoPE)
+* Sample preparation: [nPOP](nPOP)
+* Data analysis package: [QuantQC](QuantQC)
 
 ### Model systems:  Cell lines, U-937 monocyte, WM-989 Melanoma, CPAFII PDAC
 
