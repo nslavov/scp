@@ -52,10 +52,14 @@ Achieving *single-cell readiness* is also discussed in [workshops](https://www.y
 
 ------------
 
+{% include social-media-links.html %}
+
 &nbsp;
 
 ## Preparing single-cell samples
 Preparing single cells for mass spectrometry protein analysis aims to maximize protein delivery to the detectors while at the same time minimizing contaminations. These objectives are challenging, especially when we would like to prepare and analyze tens of thousands of single cells.
+
+&nbsp;
 
 ### Protocols for multi-well sample preparation
 
@@ -71,7 +75,7 @@ A high-throughput sample preparation has been described by [Leduc *et al.*](http
 
  * Leduc A, Khoury L., Cantlon J., Slavov N. [Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP](https://slavovlab.net/Slavov-Lab-Publications/2024_nPOP-Protocol-Nature-Protocols.pdf), *bioRxiv*,  doi: [10.1101/2023.11.27.568927](https://doi.org/10.1101/2023.11.27.568927),  *Nature Protocols*, doi: [10.1038/s41596-024-01033-8](https://doi.org/10.1038/s41596-024-01033-8)
  * Leduc A, Koury L., Cantlon J., Slavov N.  [Highly Parallel Droplet Sample Preparation for Single Cell Proteomics](https://dx.doi.org/10.17504/protocols.io.4r3l24r7qg1y/v3), *protocols.io*, doi: [dx.doi.org/10.17504/protocols.io.4r3l24r7qg1y/v3](https://dx.doi.org/10.17504/protocols.io.4r3l24r7qg1y/v3)
- * [Flexibility meets quality and scale](https://blog.slavovlab.net/2024/08/09/flexibility-meets-quality-and-scale/)
+ * Blog post: [Flexibility meets quality and scale](https://blog.slavovlab.net/2024/08/09/flexibility-meets-quality-and-scale/)
 
 
 ### Resources
