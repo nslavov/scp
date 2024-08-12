@@ -61,12 +61,17 @@ Preparing single cells for mass spectrometry protein analysis aims to maximize p
 
 &nbsp;
 
+
 ### Protocols for multi-well sample preparation
 
 The [mPOP](mPOP) protocol supports the preparation of a few hundred single cells in multi-well plates. It is described in the articled below:
 
  * Petelski A, Emmott E, Leduc A, Huffman RG, Specht H, Perlman D, Slavov N. [Multiplexed single-cell proteomics using SCoPE2](https://www.nature.com/articles/s41596-021-00616-z), *Nature Protocols*, 2021
  * Petelski A, Slavov N., Specht H, [Single-Cell Proteomics Preparation for Mass Spectrometry Analysis Using Freeze-Heat Lysis and an Isobaric Carrier](https://pubmed.ncbi.nlm.nih.gov/36571403/), *Jove*, 2022
+
+
+&nbsp;
+
 
 
 ### Protocols for highly parallel glass slide sample preparation
