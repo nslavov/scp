@@ -69,8 +69,9 @@ The [mPOP](mPOP) protocol supports the preparation of a few hundred single cells
 
 A high-throughput sample preparation has been described by [Leduc *et al.*](https://doi.org/10.1186/s13059-022-02817-5), *Geneome Biology*. The [nPOP](nPOP) protocol enables flexible experimental designs supporting different multiplexing schemes without requiring specialized consumables; nPOP supports all existing multiplexing approaches and can be easily programmed to new ones that may emerge. It can prepare over *3,000* single cells in parallel using 8-20nl reaction volumes per cell.
 
- * Leduc A, Khoury L., Cantlon J., Slavov N. [Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP](https://slavovlab.net/Slavov-Lab-Publications/2024_nPOP-Protocol-Nature-Protocols.pdf), *bioRxiv*,  doi: [10.1101/2023.11.27.568927](https://doi.org/10.1101/2023.11.27.568927),  *Nature Protocols*, doi: [10.1038/s41596-024-01033-8](https://doi.org/10.1038/s41596-024-01033-8), [blog](https://blog.slavovlab.net/2024/08/09/flexibility-meets-quality-and-scale/)
+ * Leduc A, Khoury L., Cantlon J., Slavov N. [Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP](https://slavovlab.net/Slavov-Lab-Publications/2024_nPOP-Protocol-Nature-Protocols.pdf), *bioRxiv*,  doi: [10.1101/2023.11.27.568927](https://doi.org/10.1101/2023.11.27.568927),  *Nature Protocols*, doi: [10.1038/s41596-024-01033-8](https://doi.org/10.1038/s41596-024-01033-8)
  * Leduc A, Koury L., Cantlon J., Slavov N.  [Highly Parallel Droplet Sample Preparation for Single Cell Proteomics](https://dx.doi.org/10.17504/protocols.io.4r3l24r7qg1y/v3), *protocols.io*, doi: [dx.doi.org/10.17504/protocols.io.4r3l24r7qg1y/v3](https://dx.doi.org/10.17504/protocols.io.4r3l24r7qg1y/v3)
+ * [Flexibility meets quality and scale](https://blog.slavovlab.net/2024/08/09/flexibility-meets-quality-and-scale/)
 
 
 ### Resources
