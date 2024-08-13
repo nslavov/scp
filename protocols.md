@@ -72,7 +72,6 @@ The [mPOP](mPOP) protocol supports the preparation of a few hundred single cells
 
 &nbsp;
 
-&nbsp;
 
 
 ### Protocols for highly parallel glass slide sample preparation
@@ -90,7 +89,9 @@ TIMS separation](https://slavovlab.net/Slavov-Lab-Publications/2024_plexDIA-nPOP
 
 [![nPOP-plexDIA-timsTOF]({{site.baseurl}}/Figs/2024_plexDIA-nPOP-on-timsTOF-Ultra.jpeg){: width="50%" .center-image}](https://slavovlab.net/Slavov-Lab-Publications/2024_plexDIA-nPOP-on-timsTOF-Ultra.pdf){:title="plexDIA for scalable single-cell analysis – improving quantification and sensitivity by TIMS separation"}
 
+&nbsp;
 
+* Cellenion offers assistance for nPOP via a partnership [nPOP program](https://www.cellenion.com/scale-up-your-single-cell-proteomics-to-1000s-cells-with-npop-workflow/) 
 
 ------------
 
