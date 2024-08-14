@@ -18,7 +18,7 @@ parent: Sample preparation
 **Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5), [Data Websites](#data-websites)
 
 **Protocol article:**  Leduc A, Khoury L., Cantlon J., Slavov N. [Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP](https://slavovlab.net/Slavov-Lab-Publications/2024_nPOP-Protocol-Nature-Protocols.pdf),  *Nature Protocols*, doi: [10.1038/s41596-024-01033-8](https://doi.org/10.1038/s41596-024-01033-8),  [Blog post](https://blog.slavovlab.net/2024/08/09/flexibility-meets-quality-and-scale/)
-  * [Preprint](https://doi.org/10.1101/2023.11.27.568927): Leduc *et al.*, *bioRxiv* 2023.11.27.568927, doi: [10.1101/2023.11.27.568927](https://doi.org/10.1101/2023.11.27.568927)
+* [Preprint](https://doi.org/10.1101/2023.11.27.568927): Leduc *et al.*, *bioRxiv* 2023.11.27.568927, doi: [10.1101/2023.11.27.568927](https://doi.org/10.1101/2023.11.27.568927)
 
 
 &nbsp;
