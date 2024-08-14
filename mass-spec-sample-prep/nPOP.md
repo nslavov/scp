@@ -17,8 +17,7 @@ parent: Sample preparation
 ## Massively parallel sample prep method by [Leduc et al, 2021][nPOP_Preprint]
 **Peer reviewed article:** Leduc A, Huffman RG, Cantlon J, Khan S, Slavov N [Exploring functional protein covariation across single cells using nPOP](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02817-5) *Genome Biol* **23**, 261 [10.1186/s13059-022-02817-5](https://doi.org/10.1186/s13059-022-02817-5), [Data Websites](#data-websites)
 
-**Protocol article:**  Leduc A, Khoury L., Cantlon J., Slavov N. [Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP](https://slavovlab.net/Slavov-Lab-Publications/2024_nPOP-Protocol-Nature-Protocols.pdf),  *Nature Protocols*, doi: [10.1038/s41596-024-01033-8](https://doi.org/10.1038/s41596-024-01033-8),  [Blog post](https://blog.slavovlab.net/2024/08/09/flexibility-meets-quality-and-scale/)
-* [Preprint](https://doi.org/10.1101/2023.11.27.568927): Leduc *et al.*, *bioRxiv* 2023.11.27.568927, doi: [10.1101/2023.11.27.568927](https://doi.org/10.1101/2023.11.27.568927)
+**Protocol article:**  Leduc A, Khoury L., Cantlon J., Slavov N. [Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP](https://slavovlab.net/Slavov-Lab-Publications/2024_nPOP-Protocol-Nature-Protocols.pdf),  *Nature Protocols*, doi: [10.1038/s41596-024-01033-8](https://doi.org/10.1038/s41596-024-01033-8),  [Blog post](https://blog.slavovlab.net/2024/08/09/flexibility-meets-quality-and-scale/), Protocol preprint: Leduc *et al.*, *[bioRxiv](https://doi.org/10.1101/2023.11.27.568927)* 2023.11.27.568927, doi: [10.1101/2023.11.27.568927](https://doi.org/10.1101/2023.11.27.568927)
 
 
 &nbsp;
@@ -87,7 +86,9 @@ nPOP uses the CellenONE instrument, which is commercially available. Without acc
   *  [Leduc et al, 2022](https://www.biorxiv.org/content/10.1101/2021.04.24.441211v3) used nPOP to prepare samples for [pSCopE](pscope) analysis of protein covariation in monocytes and melanoma cells. **[Leduc et al, 2022 data website](Leduc_et_al_2022)**
   *  [Huffman et al, 2022](https://doi.org/10.1101/2022.03.16.484655) used nPOP to prepare samples for [pSCopE](pscope) analysis of primary macrophages stimulated with LPS. **[Huffman et al, 2022 data website](Huffman_et_al_2022)**
   *  [Leduc et al, 2023](https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1) used nPOP to prepare samples for [plexDIA](plexDIA) analysis of single  melanoma, monocyte and pancreatic adenocarcinoma cells. **[Leduc et al, 2023 data website](Leduc_et_al_2023)**
-  * [Khan et al, 2023](https://doi.org/10.1101/2023.12.21.572913) used nPOP to prepare samples for [SCoPE2](scope2) analysis of single epithelial cells undergoing epithelial–mesenchymal transition. **[Khan et al, 2023 data website](Khan_et_al_2023)**
+  *  [Khan et al, 2023](https://doi.org/10.1101/2023.12.21.572913) used nPOP to prepare samples for [SCoPE2](scope2) analysis of single epithelial cells undergoing epithelial–mesenchymal transition. **[Khan et al, 2023 data website](Khan_et_al_2023)**
+  *  [Derks et al, 2024](https://www.biorxiv.org/content/10.1101/2024.06.17.599449v1) used nPOP to prepare samples for [plexDIA](plexDIA) analysis of single nuclei. **[Derks et al, 2024 data website](Derks_et_al_2024)**  
+  *  [Leduc et al, 2024](https://www.biorxiv.org/content/10.1101/2024.07.26.605378v1) used nPOP to prepare samples for [pSCopE](pscope) analysis of single cells from mouse tissues. **[Leduc et al, 2024 data website](Leduc_et_al_2024)**
 
 &nbsp;
 
@@ -96,7 +97,7 @@ nPOP uses the CellenONE instrument, which is commercially available. Without acc
 
 ## Resources and protocols
 
-* The current protocol has been preprinted by [Leduc et al.](https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1). This latest version of the protocol was created in partnership with Cellenion, and the company provides support for implementing nPOP, including required software for the protocol, which can be obtained through our partnership program. Reaching out to Josh Cantlon (j.cantlon@cellenion.com) or Andrew Leduc (leduc.an@northeastern.edu) for more details.
+* The current nPOP protocol has been published in *Nature Protocols* by [Leduc et al.](https://www.nature.com/articles/s41596-024-01033-8). This latest version of the protocol was created in partnership with Cellenion, and the company provides support for implementing nPOP, including required software for the protocol, which can be obtained through our partnership program. Reaching out to Josh Cantlon (j.cantlon@cellenion.com) or Andrew Leduc (leduc.an@northeastern.edu) for more details.
 
 
 * The original version of the nPOP protocol can be found [here](https://www.protocols.io/view/highly-parallel-droplet-sample-preparation-for-sin-b8uyrwxw) and the cellenONE software files for performing sample prep can be found [here](https://drive.google.com/drive/folders/1EBeHGCQksMt3jItFVPxf-POEYiXQ7mGs).
