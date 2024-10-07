@@ -11,7 +11,7 @@ parent: "Single-cell protein data"
 
 
 ## Article:  [Derks et al, 2024](https://www.biorxiv.org/content/10.1101/2024.06.17.599449v1)
-* Code available at: [github.com/SlavovLab](https://github.com/SlavovLab)
+* Code available at: [github.com/SlavovLab/Single-nucleus-proteomics](https://github.com/SlavovLab/Single-nucleus-proteomics)
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="RAW-data" >Demonstrated aim:</h2>
 
