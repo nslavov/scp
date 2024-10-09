@@ -7,11 +7,11 @@ description: "Inferring post-transcriptional regulation within and across cell t
 parent: Single-cell protein data
 ---
 
-### Article: [Khan, Elcheikhali et al, 2024](https://www.biorxiv.org/content/...)
+### Article: [Khan, Elcheikhali et al, 2024][BayesPG_Preprint]
 
 &nbsp;
 
-* **Preprint**:  Khan S & Elcheikhali M, Leduc A, Huffman R, Derks J, Franks A & Slavov N, [Inferring post-transcriptional regulation within and across cell types in human testis](https://www.biorxiv.org/content/...) \
+* **Preprint**:  Khan S & Elcheikhali M, Leduc A, Huffman R, Derks J, Franks A & Slavov N, [Inferring post-transcriptional regulation within and across cell types in human testis][BayesPG_Preprint]
 * Code available at: [github.com/SlavovLab/BayesPG](https://github.com/SlavovLab/BayesPG/)
 
 &nbsp;
@@ -28,7 +28,7 @@ parent: Single-cell protein data
 &nbsp;
 
 ## Summary
-Single-cell tissue atlases commonly use RNA abundances as surrogates for protein abundances. Yet, protein abundance also depends on the regulation of protein synthesis and degradation rates. To estimate the contributions of such post transcriptional regulation, we quantified the proteomes of 5,883 single cells from human testis using 3 distinct mass spectrometry methods (SCoPE2, pSCoPE, and plexDIA). To distinguish between biological and technical factors contributing to differences between protein and RNA levels, we developed \name, a Bayesian model of transcript and protein abundance that systematically accounts for technical variation and infers biological differences. We use BayesPG to jointly model RNA and protein data collected from 29,709 single cells across different methods and datasets. BayesPG estimated consensus mRNA and protein levels for 3,861 gene products and quantified the relative protein-to-mRNA ratio (rPTR) for each gene across six distinct cell types in samples from human testis. About 28 % of the gene products exhibited significant differences at protein and RNA levels and contributed to about $1,500$ significant GO groups. We observe that specialized and context specific functions, such as those related to spermatogenesis are regulated after transcription. Among hundreds of detected post translationally modified peptides, many show significant abundance differences across cell types. Furthermore, some phosphorylated peptides covary with kinases in a cell-type dependent manner, suggesting cell-type specific regulation. Our results demonstrate the potential of inferring protein regulation in complex tissues from single-cell proteogenomic data and provide a generalizable model, BayesPG, for performing such analyses.
+Single-cell tissue atlases commonly use RNA abundances as surrogates for protein abundances. Yet, protein abundance also depends on the regulation of protein synthesis and degradation rates. To estimate the contributions of such post transcriptional regulation, we quantified the proteomes of 5,883 single cells from human testis using 3 distinct mass spectrometry methods (SCoPE2, pSCoPE, and plexDIA). To distinguish between biological and technical factors contributing to differences between protein and RNA levels, we developed BayesPG, a Bayesian model of transcript and protein abundance that systematically accounts for technical variation and infers biological differences. We use BayesPG to jointly model RNA and protein data collected from 29,709 single cells across different methods and datasets. BayesPG estimated consensus mRNA and protein levels for 3,861 gene products and quantified the relative protein-to-mRNA ratio (rPTR) for each gene across six distinct cell types in samples from human testis. About 28 % of the gene products exhibited significant differences at protein and RNA levels and contributed to about 1,500 significant GO groups. We observe that specialized and context specific functions, such as those related to spermatogenesis are regulated after transcription. Among hundreds of detected post translationally modified peptides, many show significant abundance differences across cell types. Furthermore, some phosphorylated peptides covary with kinases in a cell-type dependent manner, suggesting cell-type specific regulation. Our results demonstrate the potential of inferring protein regulation in complex tissues from single-cell proteogenomic data and provide a generalizable model, BayesPG, for performing such analyses.
 
 
 
@@ -71,3 +71,5 @@ The folder is organized as follows:
    &nbsp;
 
    &nbsp;
+
+   [BayesPG_Preprint]: https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1 "Bayesian software for modeling single-cell RNA and protein abundance that systematically accounts for technical variation and infers biological differences"
