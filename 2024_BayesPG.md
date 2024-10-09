@@ -3,19 +3,19 @@ layout: default
 title: 2024, BayesPG
 nav_order: 3
 permalink: BayesPG
-description: "BayesPG is a Bayesian model of transcript and protein abundance that systematically accounts for technical variation and infers biological differences | Slavov Laboratory"
+description: "BayesPG is a Bayesian model of RNA and protein abundance that systematically accounts for technical variation and infers biological differences | Slavov Laboratory"
 parent: Computational analysis
 ---
 {% include social-media-links.html %}
 
 # BayesPG
 
-## Quantitative evaluation and processing pipeline by [Khan, Elcheikhali et al, 2024][BayesPG_Preprint]
+## Post-transcriptional bayesian inference by [Khan, Elcheikhali et al, 2024][BayesPG_Preprint]
  * Code available at: [github.com/SlavovLab/BayesPG](https://github.com/SlavovLab/BayesPG)
  * Data are available on this site at [Khan, Elcheikhali et al, 2024](Khan_Elcheikhali_et_al_2024)
 
 &nbsp;
- 
+
 
 
 
