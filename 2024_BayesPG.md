@@ -13,7 +13,8 @@ parent: Computational analysis
 ## Quantitative evaluation and processing pipeline by [Khan, Elcheikhali et al, 2024][BayesPG_Preprint]
  * Code available at: [github.com/SlavovLab/BayesPG](https://github.com/SlavovLab/BayesPG)
  * Khan S & Elcheikhali M, Leduc A, Huffman R, Derks J, Franks A & Slavov N, [Inferring post-transcriptional regulation within and across cell types in human testis](https://www.biorxiv.org/content/...)
-<!--
+
+ <!--
 * **Peer-reviewed article:** Leduc A, Luke Khoury, Joshua Cantlon, Slavov N. (2024)
 Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP, *Nature Protocols*, doi: [10.1038/s41596-024-01033-8](https://doi.org/10.1038/s41596-024-01033-8), [blog](https://blog.slavovlab.net/2024/08/09/flexibility-meets-quality-and-scale/)
 
