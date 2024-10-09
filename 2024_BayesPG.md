@@ -10,7 +10,7 @@ parent: Computational analysis
 
 # BayesPG
 
-## Post-transcriptional bayesian inference by [Khan, Elcheikhali et al, 2024][BayesPG_Preprint]
+## Protein regulation inference by [Khan, Elcheikhali et al, 2024][BayesPG_Preprint]
  * Code available at: [github.com/SlavovLab/BayesPG](https://github.com/SlavovLab/BayesPG)
  * Data are available on this site at [Khan, Elcheikhali et al, 2024](Khan_Elcheikhali_et_al_2024)
 
