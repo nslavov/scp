@@ -53,7 +53,7 @@ BayesPG is available from [github.com/SlavovLab/BayesPG](https://github.com/Slav
 
 &nbsp;
 
-[QuantQC_Preprint]: https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1 "software package and metrics for quality control that can support the robust scaling of nPOP to higher plex reagents for achieving reliable high-throughput single-cell protein analysis."
+[BayesPG_Preprint]: https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1 "Bayesian software for modeling single-cell RNA and protein abundance that systematically accounts for technical variation and infers biological differences"
 
 
 &nbsp;
