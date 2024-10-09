@@ -18,13 +18,9 @@ parent: Computational analysis
 
 
 
-
-&nbsp;
-
-BayesPG is a Bayesian software for modeling single-cell RNA and protein abundance that systematically accounts for technical variation and infers biological differences.  
+BayesPG is a Bayesian software for modeling single-cell RNA and protein abundance that systematically accounts for technical variation and infers biological differences.  It infers post-transcriptional regulation by protein synthesis and degradation.
 
 ---
-
 
 
 &nbsp;
