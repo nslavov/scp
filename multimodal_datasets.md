@@ -22,6 +22,8 @@ This section organizes single-cell datasets from the [Slavov Laboratory](https:/
 ## Paired measurements
  * [Paired RNA and protein datasets from macrophages](Specht_et_al_2019)
    - *Methods:*  10x Genomics, [SCoPE2](SCoPE2)
+ * [Paired RNA and protein datasets from human testis](Khan_Elcheikhali_et_al_2024)
+   - *Methods:*  10x Genomics, Drop-seq, [SCoPE2](SCoPE2), [pSCoPE2](pSCoPE), [plexDIA](plexDIA)   
 
 
 &nbsp;
