@@ -19,6 +19,7 @@ parent: Mass spec methods
 * [Leduc et al., 2021](https://scp.slavovlab.net/Leduc_et_al_2021)
 * [Montalvo et al., 2023](Montalvo_et_al_2023)
 * [Khan et al., 2023](Khan_et_al_2023)
+* [Khan, Elcheikhali et al, 2024](Khan_Elcheikhali_et_al_2024)
 
 &nbsp;
 

@@ -20,6 +20,7 @@ parent: Mass spec methods
  * [Leduc et al., 2022](Leduc_et_al_2022)
  * [Leduc et al., 2023](Leduc_et_al_2023)
  * [Leduc et al., 2024](Leduc_et_al_2024)
+ * [Khan, Elcheikhali et al, 2024](Khan_Elcheikhali_et_al_2024)
 
  <!-- [![pSCoPE](Figs/pSCoPE.png){: width="50%" .center-image}][pSCoPE_Preprint] -->
  [![pSCoPE](Figs/prioritized-proteomics-pSCoPE.png){: width="80%" .center-image}][pSCoPE_Preprint]
