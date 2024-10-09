@@ -17,7 +17,7 @@ parent: Single-cell protein data
 &nbsp;
 
 ### Methods used:
-* Single-cell proteomics: [SCoPE2](SCoPE2), [pSCoPE](SCoPE), [plexDIA](plexDIA)
+* Single-cell proteomics: [SCoPE2](SCoPE2), [pSCoPE](pSCoPE), [plexDIA](plexDIA)
 * Sample preparation: [nPOP](nPOP)
 * Data analysis package: [BayesPG](BayesPG), [QuantQC](QuantQC)
 
