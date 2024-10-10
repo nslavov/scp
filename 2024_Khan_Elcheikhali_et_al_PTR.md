@@ -11,7 +11,7 @@ parent: Single-cell protein data
 
 &nbsp;
 
-* **Preprint**:  Khan S & Elcheikhali M, Leduc A, Huffman R, Derks J, Franks A & Slavov N, [Inferring post-transcriptional regulation within and across cell types in human testis][BayesPG_Preprint]
+* **Preprint**:  Khan S & Elcheikhali M, Leduc A, Huffman R, Derks J, Franks A & Slavov N, [Inferring post-transcriptional regulation within and across cell types in human testis][BayesPG_Preprint], *bioRxiv*, 2024
 * Code available at: [github.com/SlavovLab/BayesPG](https://github.com/SlavovLab/BayesPG/)
 
 &nbsp;
