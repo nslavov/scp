@@ -3,7 +3,7 @@ layout: default
 title: 2024, BayesPG
 nav_order: 3
 permalink: BayesPG
-description: "BayesPG is a Bayesian model of RNA and protein abundance that systematically accounts for technical variation and infers biological differences | Slavov Laboratory"
+description: "BayesPG is a Bayesian model of single-cell RNA and protein abundance that systematically accounts for technical variation and infers biological differences | Slavov Laboratory"
 parent: Computational analysis
 ---
 {% include social-media-links.html %}
