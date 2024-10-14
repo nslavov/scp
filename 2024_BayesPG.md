@@ -45,7 +45,7 @@ BayesPG is available from [github.com/SlavovLab/BayesPG](https://github.com/Slav
 
 &nbsp;
 
-[BayesPG_Preprint]: https://www.biorxiv.org/content/10.1101/2023.11.27.568927v1 "Bayesian software for modeling single-cell RNA and protein abundance that systematically accounts for technical variation and infers biological differences"
+[BayesPG_Preprint]: https://www.biorxiv.org/content/10.1101/2024.10.08.617313v1.full  "Bayesian software for modeling single-cell RNA and protein abundance that systematically accounts for technical variation and infers biological differences"
 
 
 &nbsp;
