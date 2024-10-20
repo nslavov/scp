@@ -7,6 +7,8 @@ description: "Inferring post-transcriptional regulation within and across cell t
 parent: Single-cell protein data
 ---
 
+{% include social-media-links.html %}
+
 ### Article: [Khan, Elcheikhali et al, 2024][BayesPG_Preprint]
 * **Preprint**:  Khan S, Elcheikhali M, Leduc A, Huffman R, Derks J, Franks A & Slavov N, [Inferring post-transcriptional regulation within and across cell types in human testis][BayesPG_Preprint], *bioRxiv*, 2024
 * Code available at: [github.com/SlavovLab/BayesPG](https://github.com/SlavovLab/BayesPG/)
@@ -25,7 +27,7 @@ parent: Single-cell protein data
 &nbsp;
 
 ## Summary
-Single-cell tissue atlases commonly use RNA abundances as surrogates for protein abundances. Yet, protein abundance also depends on the regulation of protein synthesis and degradation rates. To estimate the contributions of such post transcriptional regulation, we quantified the proteomes of 5,883 single cells from human testis using 3 distinct mass spectrometry methods (SCoPE2, pSCoPE, and plexDIA). To distinguish between biological and technical factors contributing to differences between protein and RNA levels, we developed BayesPG, a Bayesian model of transcript and protein abundance that systematically accounts for technical variation and infers biological differences. We use BayesPG to jointly model RNA and protein data collected from 29,709 single cells across different methods and datasets. BayesPG estimated consensus mRNA and protein levels for 3,861 gene products and quantified the relative protein-to-mRNA ratio (rPTR) for each gene across six distinct cell types in samples from human testis. About 28 % of the gene products exhibited significant differences at protein and RNA levels and contributed to about 1,500 significant GO groups. We observe that specialized and context specific functions, such as those related to spermatogenesis are regulated after transcription. Among hundreds of detected post translationally modified peptides, many show significant abundance differences across cell types. Furthermore, some phosphorylated peptides covary with kinases in a cell-type dependent manner, suggesting cell-type specific regulation. Our results demonstrate the potential of inferring protein regulation in complex tissues from single-cell proteogenomic data and provide a generalizable model, BayesPG, for performing such analyses.
+Single-cell tissue atlases commonly use RNA abundances as surrogates for protein abundances. Yet, protein abundance also depends on the regulation of protein synthesis and degradation rates. To estimate the contributions of such post transcriptional regulation, we quantified the proteomes of 5,883 single cells from human testis using 3 distinct mass spectrometry methods ([SCoPE2][SCoPE2], [pSCoPE][pSCoPE], and [plexDIA][plexDIA]). To distinguish between biological and technical factors contributing to differences between protein and RNA levels, we developed [BayesPG][BayesPG], a Bayesian model of transcript and protein abundance that systematically accounts for technical variation and infers biological differences. We use BayesPG to jointly model RNA and protein data collected from 29,709 single cells across different methods and datasets. BayesPG estimated consensus mRNA and protein levels for 3,861 gene products and quantified the relative protein-to-mRNA ratio (rPTR) for each gene across six distinct cell types in samples from human testis. About 28 % of the gene products exhibited significant differences at protein and RNA levels and contributed to about 1,500 significant GO groups. We observe that specialized and context specific functions, such as those related to spermatogenesis are regulated after transcription. Among hundreds of detected post translationally modified peptides, many show significant abundance differences across cell types. Furthermore, some phosphorylated peptides covary with kinases in a cell-type dependent manner, suggesting cell-type specific regulation. Our results demonstrate the potential of inferring protein regulation in complex tissues from single-cell proteogenomic data and provide a generalizable model, BayesPG, for performing such analyses.
 
 
 
@@ -42,15 +44,15 @@ Raw files with acquired mass spectra are available via [MassIVE](https://massive
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="proc_data" >Processed Data</h2>
 
-The processed data is available within a Google Drive  *[folder](https://drive.google.com/drive/folders/1oMaW74bjDPPPjyPTqocPD_SjMnHy7UeM?usp=sharing)*   
+The processed data are reported according to the [community guidelines](https://single-cell.net/guidelines) and available within a Google Drive  *[folder](https://drive.google.com/drive/folders/1oMaW74bjDPPPjyPTqocPD_SjMnHy7UeM?usp=sharing)*   
 
 The folder is organized as follows:
 
 
 
-- **001-MSData**: search outputs from raw mass specgtrometry data and associated files to process to single cell matrices
+- **001-MSData**: search outputs from raw mass spectrometry data and associated files to process to single cell matrices
   - **001-searchedFiles**: output tables from Maxquant (including variable modification PTM search) and DIA-NN
-  - **002-AuxiliaryFiles**: metadata and cellenOne files to process search data into single cell matrices,   configurations for DART-ID, inclusion lists and methods for pSCoPE and FASTA's used and complex groupings used.
+  - **002-AuxiliaryFiles**: metadata and [nPOP][nPOP] files to process search data into single cell matrices,   configurations for DART-ID, inclusion lists and methods for pSCoPE and FASTA's used and complex groupings used.
 
 
 
@@ -61,7 +63,7 @@ The folder is organized as follows:
 
 
 
-- **003-BayesPGOutput**: tables output from various testing prcoedures for signifant rPTR at gene product, GO and complex level as well similar tables for the correlation tests
+- **003-BayesPGOutput**: tables output from testing for significant rPTR at the levels of gene products, GO groups and protein complexes as well similar tables for the correlation tests
   - **001-unfiltered**: all the datums
   - **002-filtered**: important note, the filtered data will not be a complete (at the level of cell types); gene products/grouping significance is cell type specific for the rPTR tests.
 
