@@ -37,9 +37,15 @@ Massively parallel sample preparation for multiplexed single-cell proteomics usi
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="raw_data" >Raw Data</h2>
 
 * **MassIVE Repository:**
+
+* plexDIA raw data
   - [**http:**  MSV000093494](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=ac44b779d8a04ca285a263616796c3b8)
     -[Spectral library for searching single cells](https://massive.ucsd.edu/ProteoSAFe/dataset_files.jsp?task=ac44b779d8a04ca285a263616796c3b8#%7B%22table_sort_history%22%3A%22main.collection_asc%22%2C%22main.collection_input%22%3A%22library%7C%7CEXACT%22%7D)
   - [**ftp:** &nbsp; MSV000093494](ftp://massive.ucsd.edu/MSV000093494)
+
+* pSCoPE raw data 
+  - [**http:**  MSV000094207](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=e42fe6ae339f43548ee85a6ed2fda2cd)
+  - [**ftp:** &nbsp; MSV000094207](ftp://massive.ucsd.edu/v07/MSV000094207/)
 
 
 
