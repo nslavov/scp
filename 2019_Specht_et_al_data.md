@@ -29,7 +29,7 @@ parent: Single-cell protein data
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >SCoPE2 data processed to ASCII text matrices</h2>
 
-* **[All Processed Data](https://drive.google.com/drive/folders/1-qGuXLNKbSib29uJGMLF_bdqE2KcyMYq?usp=sharing]**
+* **[All Processed Data](https://drive.google.com/drive/folders/1-qGuXLNKbSib29uJGMLF_bdqE2KcyMYq?usp=sharing)** 
 
 
 * [Peptides-raw.csv](https://drive.google.com/file/d/15DwDzAKFuRDTV31EnU83aRRhuAyz85_v/view?usp=sharing)
