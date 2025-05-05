@@ -12,12 +12,11 @@ parent: Computational analysis
 
 ## Quantitative evaluation and processing pipeline by [Leduc et al, 2023][QuantQC_Preprint]
  * Code available at: [github.com/SlavovLab/QuantQC](https://github.com/SlavovLab/QuantQC)
- * **Preprint article:** Leduc A, Luke Khoury, Joshua Cantlon, Slavov N. (2023)
+ * **Preprint Protocol:** Leduc A, Luke Khoury, Joshua Cantlon, Slavov N. (2023)
 Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP, *bioRxiv*, doi: [10.1101/2023.11.27.568927](https://doi.org/10.1101/2023.11.27.568927)  
-* **Peer-reviewed article:** Leduc A, Luke Khoury, Joshua Cantlon, Slavov N. (2024)
+* **Peer-reviewed Protocol:** Leduc A, Luke Khoury, Joshua Cantlon, Slavov N. (2024)
 Massively parallel sample preparation for multiplexed single-cell proteomics using nPOP, *Nature Protocols*, doi: [10.1038/s41596-024-01033-8](https://doi.org/10.1038/s41596-024-01033-8), [blog](https://blog.slavovlab.net/2024/08/09/flexibility-meets-quality-and-scale/)
-
-
+* **Peer-reviewed Article:** Leduc  *et al.*, Limiting the impact of protein leakage in single-cell proteomics, *Nature Communications* doi: [10.1038/s41467-025-56736-7](https://www.nature.com/articles/s41467-025-56736-7)
 
 <!--
 [![pSCoPE](Figs/pSCoPE.png){: width="50%" .center-image}][pSCoPE_Preprint]
