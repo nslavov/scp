@@ -9,7 +9,7 @@ has_children: false
 
 {% include social-media-links.html %}
 
-# Protocols for singe-cell proteomics
+# Protocols for single-cell proteomics
 {:.no_toc}
 
 {: .fs-5 .fw-300}
