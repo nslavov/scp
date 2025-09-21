@@ -9,9 +9,9 @@ parent: Single-cell protein data
 {% include social-media-links.html %}
 
 
-## Article: [Leduc et al, 2025](https://doi.org/10.1101/2024.07.26.605378)
+## Article: [Leduc et al, 2025](https://doi.org/10.1101/2025.09.17.676955)
 <!-- **Peer reviewed article:** -->
-* **Preprint Article:** Leduc A, et al., Principles of protein abundance regulation across single cells in a mammalian tissue, *bioRxiv*, doi: [10.1038/s41467-025-56736-7](https://www.nature.com/articles/s41467-025-56736-7)
+* **Preprint Article:** Leduc A, et al., Principles of protein abundance regulation across single cells in a mammalian tissue, *bioRxiv*, doi: [10.1101/2025.09.17.676955](https://doi.org/10.1101/2025.09.17.676955)
 
 * Code available at: [github.com/SlavovLab/sc_metabolic_pulse](https://github.com/SlavovLab/sc_metabolic_pulse)
 
