@@ -42,8 +42,8 @@ Proteome biology
    - Early mammalian development [Iwamoto-Stohl, Petelski et al., 2025](Iwamoto-Stohl_Petelski_et_al_2024)
 
  * **Aging**
-  - Oocyte aging: [Galatidou et al, 2024](BGalatidou_et_al_2024)
-  - Aging proteostasis: [Leduc et al, 2025](Leduc_et_al_2025)
+   - Oocyte aging: [Galatidou et al, 2024](BGalatidou_et_al_2024)
+   - Aging proteostasis: [Leduc et al, 2025](Leduc_et_al_2025)
 
 ------------
 
