@@ -24,6 +24,7 @@ parent: Mass spec methods
  * [Derks et al., 2024](Derks_et_al_2024)
  * [Khan, Elcheikhali et al, 2024](Khan_Elcheikhali_et_al_2024)
  * [Leduc et al., 2025](Leduc_et_al_2025)
+ * [Iwamoto-Stohl, Petelski et al., 2025](Iwamoto-Stohl_Petelski_et_al_2024)
 
 ## Analyzing plexDIA data
   * [Video tutorial on searching plexDIA data with DIA-NN](https://youtu.be/0Wmg9LjDtgE), [Slides](https://plexdia.slavovlab.net/mass-spec/Searching-plexDIA-data-with-DIA-NN.pdf)

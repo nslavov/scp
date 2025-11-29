@@ -34,11 +34,16 @@ Proteome biology
    - Post-transcriptional regulation: [Budnik et al, 2017](Budnik_et_al_2017), [Specht et al, 2019](Specht_et_al_2019)
 
  * **Cancer biology**
-   - Drug resistance: [Leduc et al, 2012](Leduc_et_al_2022)
+   - Drug resistance: [Leduc et al, 2022](Leduc_et_al_2022)
    - Epithelial-mesenchymal transition: [Khan et al., 2023](Khan_et_al_2023)
 
  * **Development**
    - Stem cell differentiation: [Budnik et al, 2017](Budnik_et_al_2017)
+   - Early mammalian development [Iwamoto-Stohl, Petelski et al., 2025](Iwamoto-Stohl_Petelski_et_al_2024)
+
+ * **Aging**
+  - Oocyte aging: [Galatidou et al, 2024](BGalatidou_et_al_2024)
+  - Aging proteostasis: [Leduc et al, 2025](Leduc_et_al_2025)
 
 ------------
 
