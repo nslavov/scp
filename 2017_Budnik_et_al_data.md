@@ -10,6 +10,9 @@ parent: Single-cell protein data
 
 ## Article: [Budnik et al, 2017](https://www.biorxiv.org/content/10.1101/102681v1)
 **Peer reviewed article:** Budnik, B., Levy, E., Harmange, G., and Slavov N. SCoPE-MS: mass spectrometry of single mammalian cells quantifies proteome heterogeneity during cell differentiation. Genome Biol 19, 161 (2018). [10.1186/s13059-018-1547-5](https://doi.org/10.1186/s13059-018-1547-5)
+- [C&EN Feature](https://www.genengnews.com/topics/omics/single-cell-proteomics-bypasses-bottlenecks-sways-skeptics/)
+- [Advances in LC-MS Workflows for Single Cells](https://center.single-cell.net/single-cell-proteomics/Advances-in-LC-MS-Single-Cells.pdf)
+
 
 ### Single-cell proteomics method: [SCoPE-MS](https://scp.slavovlab.net/SCoPE-MS)
 **Sample preparation method:**  Covaris cell lysis
