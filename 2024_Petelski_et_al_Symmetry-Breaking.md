@@ -2,7 +2,7 @@
 layout: default
 title: Stohl, Petelski et al, 2024
 nav_order: 11
-permalink: Stohl_Petelski_et_al_2024
+permalink: Iwamoto-Stohl_Petelski_et_al_2024
 description: "Fertilization triggers early proteomic symmetry breaking in mammalian embryos | Slavov Laboratory"
 parent: Single-cell protein data
 ---
@@ -12,8 +12,7 @@ parent: Single-cell protein data
 ## Article: [Iwamoto-Stohl, Petelski et al, 2024](https://doi.org/10.1101/2024.08.26.609777)
 <!-- **Peer reviewed article:** -->
 * **Preprint Article:** Iwamoto-Stohl, Petelski, et al., Proteome asymmetry in mouse and human embryos before fate specification, *bioRxiv*, doi: [10.1101/10.1101/2024.08.26.609777](https://doi.org/10.1101/2024.08.26.609777)
-
-* Code available at: [github.com/SlavovLab/early-stage-embryos](https://github.com/SlavovLab/early-stage-embryos)
+  * Code available at: [github.com/SlavovLab/early-stage-embryos](https://github.com/SlavovLab/early-stage-embryos)
 
 
 
@@ -30,7 +29,7 @@ parent: Single-cell protein data
 
 [RAW Data](#raw_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Code](https://github.com/SlavovLab/early-stage-embryos){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Processed Data](#proc_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+<!-- [Processed Data](#proc_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
 
 
 
