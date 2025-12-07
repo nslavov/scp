@@ -14,20 +14,7 @@ parent: Mass spec methods
  * **timePlex is developed at Parallel Squared Technology Institute: [parallelsq.org/timePlex](https://www.parallelsq.org/timeplex)**
  * Code available at: [github.com/ParallelSquared/timePlex](https://github.com/ParallelSquared/timePlex)
 
- <!--
- * **Peer reviewed article:** Huffman RG, Leduc A, Wichmann C, ... and Slavov N, [Prioritized mass spectrometry increases the depth, sensitivity and data completeness of single-cell proteomics][pSCoPE_Nature-Methods]. *Nat Methods*, doi: [10.1038/s41592-023-01830-1](https://doi.org/10.1038/s41592-023-01830-1) (2023)
-  * **Research Briefing:** [Extending the sensitivity, consistency and depth of single-cell proteomics](https://www.nature.com/articles/s41592-023-01786-2), [OA](https://rdcu.be/c9aAL)
 
-
-## Data Websites
- * [Huffman et al., 2022](Huffman_et_al_2022)
- * [Leduc et al., 2022](Leduc_et_al_2022)
- * [Leduc et al., 2023](Leduc_et_al_2023)
- * [Leduc et al., 2024](Leduc_et_al_2024)
- * [Khan, Elcheikhali et al, 2024](Khan_Elcheikhali_et_al_2024)
-  -->
-
- <!-- [![pSCoPE](Figs/pSCoPE.png){: width="50%" .center-image}][pSCoPE_Preprint] -->
  [![timePlex](Figs/timePlex.png){: width="80%" .center-image}](https://slavovlab.net/PTI-Publications/2025_Derks_timePlex.pdf)
 
 
