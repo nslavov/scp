@@ -31,6 +31,9 @@ parent: Mass spec methods
   * [Pipeline for processing plexDIA data @ GitHub](https://github.com/SlavovLab/SPP)
   * [Data-Driven Optimization of plexDIA by DO-MS](https://do-ms.slavovlab.net/),  [DO-MS @ GitHub](https://github.com/SlavovLab/DO-MS)
 
+## Tags for plexDIA
+plexDIA has been implemented with different mass tags, including mTRAQ, diethyl, dimethyl, and most recently by [PSMtags](https://slavovlab.net/PTI-Publications/2025_Specht_PSMtags.pdf). PSMtags are developed by PTI and support up to 9-plex multiplexing while at the same time enhancing peptide sequence identification, as described by [Specht et al., 2025](https://doi.org/10.1101/2025.05.22.655509).  
+
 
 &nbsp;
 
