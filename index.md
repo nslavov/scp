@@ -60,7 +60,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 &nbsp;
 
 ## Reviews
-* [Single-Cell Proteomic Technologies: Tools in the quest for principles](https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-011450), *Annual Review Biophysics*, 2026
+* [Single-Cell Proteomic Technologies: Tools in the quest for principles](https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-011450), *Annual Review of Biophysics*, 2026
 * [Single-cell protein analysis by mass spectrometry](https://doi.org/10.1016/j.cbpa.2020.04.018), *Current Opinion in Chemical Biology*, 2020
 * [Single cell protein analysis for systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204083/),	*Essays in biochemistry*, 2018
 
