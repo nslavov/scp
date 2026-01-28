@@ -14,7 +14,8 @@ parent: Single-cell protein data
 * **Preprint Article:** Iwamoto-Stohl, Petelski, et al., Proteome asymmetry in mouse and human embryos before fate specification, *bioRxiv*, doi: [10.1101/10.1101/2024.08.26.609777](https://doi.org/10.1101/2024.08.26.609777)
   * Code available at: [github.com/SlavovLab/early-stage-embryos](https://github.com/SlavovLab/early-stage-embryos)
 * **Peer Reviewed Article:** Iwamoto-Stohl, Petelski, et al.,  Fertilization triggers early proteomic symmetry breaking in mammalian embryos, *Cell*, doi: [10.1016/j.cell.2025.11.006](https://doi.org/10.1016/j.cell.2025.11.006), [PDF](https://slavovlab.net/Slavov-Lab-Publications/2025_Petelski_Embryo_Cell.pdf)
-
+ * [Research presentation @ YouTube](https://youtu.be/F4-PUuz5kcQ?si=C-DIoi-yVB28w8jM&t=1188)
+ * [News Highlight](https://news.northeastern.edu/2025/12/03/human-embryo-cells-blank-slate-research/)
 
 
 ### Methods used:
