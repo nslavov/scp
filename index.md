@@ -51,6 +51,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 * [Strategies for increasing the depth and throughput of protein analysis by plexDIA](https://pubs.acs.org/doi/10.1021/acs.jproteome.2c00721), *Journal of Proteome Research*
 * [Framework for multiplicative scaling of single-cell proteomics](https://www.nature.com/articles/s41587-022-01411-1), *Nature Biotechnology*
 * [Learning from natural variation across the proteomes of single cells](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001512), *PLOS Biology*
+* [Scaling up single-cell proteomics](https://doi.org/10.1016/j.mcpro.2021.100179), *Molecular and Cellular Proteomics*
 * [Driving Single Cell Proteomics Forward with Innovation](https://pubmed.ncbi.nlm.nih.gov/34597050/), *Journal of Proteome Research*
 * [Unpicking the proteome in single cells](https://www.science.org/doi/10.1126/science.aaz6695), *Science*
 * [Transformative Opportunities for Single-Cell Proteomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089608/), *Journal of Proteome Research*
@@ -59,9 +60,9 @@ Each cell performs its biological functions by changing the abundance, localizat
 &nbsp;
 
 ## Reviews
-* [Scaling up single-cell proteomics](https://doi.org/10.1016/j.mcpro.2021.100179), *Molecular and Cellular Proteomics*
-* [Single-cell protein analysis by mass spectrometry](https://doi.org/10.1016/j.cbpa.2020.04.018), *Current Opinion in Chemical Biology*
-* [Single cell protein analysis for systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204083/),	*Essays in biochemistry*
+* [Single-Cell Proteomic Technologies: Tools in the quest for principles](https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-011450), *Annual Review Biophysics*, 2026
+* [Single-cell protein analysis by mass spectrometry](https://doi.org/10.1016/j.cbpa.2020.04.018), *Current Opinion in Chemical Biology*, 2020
+* [Single cell protein analysis for systems biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204083/),	*Essays in biochemistry*, 2018
 
 
 &nbsp;
