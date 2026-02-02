@@ -32,6 +32,7 @@ Proteome biology
  * **Normal physiology**
    - Cell division cycle: [Leduc et al, 2011, 2012](Leduc_et_al_2022), [Derks et al, 2022](Derks_et_al_2022)
    - Post-transcriptional regulation: [Budnik et al, 2017](Budnik_et_al_2017), [Specht et al, 2019](Specht_et_al_2019)
+   - Regulation of protein synthesis and degradation: [Leduc et al, 2025](Leduc_et_al_2025)
 
  * **Cancer biology**
    - Drug resistance: [Leduc et al, 2022](Leduc_et_al_2022)
@@ -39,7 +40,7 @@ Proteome biology
 
  * **Development**
    - Stem cell differentiation: [Budnik et al, 2017](Budnik_et_al_2017)
-   - Early mammalian development [Iwamoto-Stohl, Petelski et al., 2025](Iwamoto-Stohl_Petelski_et_al_2024)
+   - Early mammalian development [Iwamoto-Stohl, Petelski et al., 2025](Iwamoto-Stohl_Petelski_et_al_2024), [Galatidou et al, 2024](BGalatidou_et_al_2024)
 
  * **Aging**
    - Oocyte aging: [Galatidou et al, 2024](BGalatidou_et_al_2024)
