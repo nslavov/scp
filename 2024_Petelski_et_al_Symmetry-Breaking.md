@@ -31,7 +31,7 @@ parent: Single-cell protein data
 
 [RAW Data](#raw_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Code](https://github.com/SlavovLab/early-stage-embryos){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-<!-- [Processed Data](#proc_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
+[Processed Data](#proc_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 
