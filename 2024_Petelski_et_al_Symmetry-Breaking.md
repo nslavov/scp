@@ -31,7 +31,7 @@ parent: Single-cell protein data
 
 [RAW Data](#raw_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Code](https://github.com/SlavovLab/early-stage-embryos){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-<!-- [Processed Data](#proc_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
+[Processed Data](#proc_data){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 
@@ -52,15 +52,16 @@ parent: Single-cell protein data
 
   &nbsp;
 
-<!--
+
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="proc_data" >Processed Data</h2>
 
-* [Processed Data](https://drive.google.com/drive/folders/1IW3An_b7vKpfDbanjT2XqSt1mz0N6VUX)
-   - This folder contains all processed data outputs from analysis. All files required to replicate analysis are in the github repository
-      - Protein matricies imputed and unimputed
-      - Meta data linking permeability status and cell type assignment
+* [Processed Data](https://zenodo.org/records/20279387)
+   - Processed data in the form of proteins x single cells are available from a Zenodo repository: doi: [10.5281/zenodo.20279387](https://doi.org/10.5281/zenodo.20279387)
 
--->
+
+
+
+
 
    &nbsp;
 
