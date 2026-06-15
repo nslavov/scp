@@ -29,7 +29,7 @@ parent: Single-cell protein data
 
 <h2 style="letter-spacing: 2px; font-size: 26px;" id="processed-single-cell-protein-data" >SCoPE2 data processed to ASCII text matrices</h2>
 
-* **[All Processed Data](https://drive.google.com/drive/folders/1-qGuXLNKbSib29uJGMLF_bdqE2KcyMYq?usp=sharing)** 
+* **[All Processed Data](https://drive.google.com/drive/folders/1-qGuXLNKbSib29uJGMLF_bdqE2KcyMYq?usp=sharing)**
 
 
 * [Peptides-raw.csv](https://drive.google.com/file/d/15DwDzAKFuRDTV31EnU83aRRhuAyz85_v/view?usp=sharing)
@@ -85,6 +85,8 @@ parent: Single-cell protein data
 &nbsp;
 
 * [Single cell proteomics data processing](https://uclouvain-cbio.github.io/scp/): The analysis of the data described here has been replicated by Christophe Vanderaa and Laurent Gatto with the scp Bioconductor package: The scp package is used to process and analyze mass spectrometry-based single cell proteomics data and is freely available from their [Github repository](https://github.com/UCLouvain-CBIO/scp/). The scp package and the replication are described in this [video](https://youtu.be/XMxZkw8yorY).
+
+* [Replication vignette](https://uclouvain-cbio.github.io/SCP.replication/articles/SCoPE2.html#scpdata-and-the-scope2-dataset)
 
 
 
