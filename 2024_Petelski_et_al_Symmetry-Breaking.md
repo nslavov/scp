@@ -16,6 +16,7 @@ parent: Single-cell protein data
 * **Peer Reviewed Article:** Iwamoto-Stohl, Petelski, et al.,  Fertilization triggers early proteomic symmetry breaking in mammalian embryos, *Cell*, doi: [10.1016/j.cell.2025.11.006](https://doi.org/10.1016/j.cell.2025.11.006), [PDF](https://slavovlab.net/Slavov-Lab-Publications/2025_Petelski_Embryo_Cell.pdf)
  * [Research presentation @ YouTube](https://youtu.be/F4-PUuz5kcQ?si=C-DIoi-yVB28w8jM&t=1188)
  * [News Highlight](https://news.northeastern.edu/2025/12/03/human-embryo-cells-blank-slate-research/)
+ * [Highlight in *Nature*](https://www.nature.com/articles/d41586-026-02805-w), [PDF](https://slavovlab.net/Slavov-Lab-Publications/highlights/2026_Nature-Probing-the-proteome-at-cellular-scale.pdf)
 
 
 ### Methods used:
