@@ -44,7 +44,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 
 &nbsp;
 ## The arc of technology development
-This lecture, presented at the 2026 Biemann Medal Award ceremony at ASMS overviews the development of single-cell proteomics, from initial motivations through early proof-of-concept demonstrations, through technologies increasing the depth, throughput, robustness, sensitivity, to answering fundamental biological questions and projecting future trends.
+This [lecture](https://www.youtube.com/embed/z0dIhG4C3qI?si=Y7PCOq5cbqDEuwPU), presented at the 2026 Biemann Medal Award ceremony at ASMS overviews the development of single-cell proteomics, from initial motivations through early proof-of-concept demonstrations, through technologies increasing the depth, throughput, robustness, sensitivity, to answering fundamental biological questions and projecting future trends.
 
 <div style="position: relative; width: 100%; max-width: 560px; margin: 0 auto; padding-top: 56.25%;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
