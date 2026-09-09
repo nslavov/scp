@@ -68,6 +68,7 @@ Each cell performs its biological functions by changing the abundance, localizat
 &nbsp;
 
 ## Highlights
+* [Probing the proteome at cellular scale](https://www.nature.com/articles/d41586-026-02805-w), *Nature*
 * [Single-Cell Proteomics Bypasses Bottlenecks, Sways Skeptics](https://www.genengnews.com/topics/omics/proteomics/single-cell-proteomics-bypasses-bottlenecks-sways-skeptics/), *GEN*
 * [Untangling the Complexities of Single Cell Protein Analysis](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/single-cell-technology/untangling-the-complexities-of-single-cell-protein-analysis/), *Precision Medicine*
 * [Uncovering Proteomic Patterns One Cell at a Time](https://www.genengnews.com/topics/omics/uncovering-proteomic-patterns-one-cell-at-a-time/), *GEN*
