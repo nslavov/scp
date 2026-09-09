@@ -20,7 +20,7 @@ Methods & Data
 [Reviews]({{site.baseurl}}#reviews){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Highlights]({{site.baseurl}}#highlights){: .btn .fs-5 .mb-4 .mb-md-0 }
 [Resources]({{site.baseurl}}#community-resources){: .btn .fs-5 .mb-4 .mb-md-0 }
-
+[Video]({{site.baseurl}}#the-arc-of-technology-development){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ------------
 
