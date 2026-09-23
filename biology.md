@@ -28,6 +28,7 @@ Proteome biology
 ## Research areas
  * **Immunology**
    - Macrophage polarization: [Specht et al, 2019](Specht_et_al_2019), [Huffman et al, 2022](Huffman_et_al_2022)
+   - PBMCs: [Khoury et al., 2026](Khoury_et_al_2026)
 
  * **Normal physiology**
    - Cell division cycle: [Leduc et al, 2011, 2012](Leduc_et_al_2022), [Derks et al, 2022](Derks_et_al_2022)

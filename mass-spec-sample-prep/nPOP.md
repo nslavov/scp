@@ -48,6 +48,7 @@ parent: Sample preparation
  * [Derks et al., 2024](Derks_et_al_2024)
  * [Leduc et al., 2024](Leduc_et_al_2024)
  * [Leduc et al., 2025](Leduc_et_al_2025)
+ * [Khoury et al., 2026](Khoury_et_al_2026)
 
 
 
