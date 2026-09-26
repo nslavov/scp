@@ -11,7 +11,7 @@ parent: Single-cell protein data
 
 ## Article: [Khoury et al, 2026](https://doi.org/10.64898/2026.09.11.751068)
 <!-- **Peer reviewed article:** -->
-* **Preprint Article:** Khoury L, et al., Single-cell proteomics reveals cell-type-specific functional coordination in PBMCs, *bioRxiv*, doi: [10.64898/2026.09.11.751068](https://doi.org/10.64898/2026.09.11.751068)
+* **Preprint Article:** Khoury L, et al., Single-cell proteomics reveals cell-type-specific functional coordination in PBMCs, *bioRxiv*, doi: [10.64898/2026.09.11.751068](https://doi.org/10.64898/2026.09.11.751068), [Video](https://youtu.be/J_N2M7o7Dq0?si=lKZ8zw0E0K9-YeFo)
 
 * Code available at: [github.com/SlavovLab/PBMC_covariation](https://github.com/SlavovLab/PBMC_covariation)
 
