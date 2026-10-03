@@ -67,7 +67,19 @@ parent: Single-cell protein data
    &nbsp;
 
 
-
+   <div style="max-width: 360px; margin: 1.5em auto;">
+     <div style="position: relative; padding-bottom: 177.78%; height: 0; overflow: hidden;">
+       <iframe
+         src="https://www.youtube.com/embed/mUuVe38EPyQ"
+         title="YouTube video player"
+         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+         referrerpolicy="strict-origin-when-cross-origin"
+         allowfullscreen
+         loading="lazy">
+       </iframe>
+     </div>
+   </div>
 &nbsp;
 
 &nbsp;
